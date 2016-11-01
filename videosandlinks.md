@@ -28,5 +28,11 @@ Day 2: https://youtu.be/9dXiAecyJrY
 
 Go to http://www.bayareadlschool.org for more information on the event, speaker bios, slides, etc. Huge thanks to the organizers (Shubho Sengupta et al) for making this event happen.
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+RE.WORK
+
+REWORK videos https://www.youtube.com/user/teamrework
+
+--------------------------------------------------------------------------------------------------------------
 
