@@ -32,7 +32,7 @@ Third meeting, 10/28, TY
 
 Object segmentation from pump images. 
 
-Interesting points: using different labels for each piece, using other objective function such as binary_cross_entropy, using different resolutions.
+Interesting points: using different labels for each piece, using other objective functions such as binary_cross_entropy, using other image resolutions.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
