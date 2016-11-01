@@ -28,4 +28,13 @@ Interesting points in this talk: using edge detection for pre-training, 3D convo
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
+Third meeting, 10/28, TY
+
+Object segmentation from pump images. 
+
+Interesting points: using different labels for each piece, using other objective function such as binary_cross_entropy, using different resolutions.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+
 
