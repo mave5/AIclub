@@ -1,1 +1,2 @@
-# AIclub
+AI club summary
+
