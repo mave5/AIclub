@@ -12,4 +12,5 @@ The Github link is here:https://github.com/fyu/dilation
 
 In addition, Dilated Convolution is now available in Keras: https://keras.io/layers/convolutional/#atrousconv2d
 under: AtrousConvolution
+
 ---------------------------------------------------------------------------------------------------------------------
