@@ -20,7 +20,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 [MICCAI 2016 Program] (http://www.miccai2016.org/en/MICCAI-2016-PRELIMINARY-PROGRAM.html)
 
-
+[V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation] (https://arxiv.org/abs/1606.04797)
 
 
 ## Books ##
