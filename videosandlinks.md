@@ -32,7 +32,8 @@ Go to http://www.bayareadlschool.org for more information on the event, speaker 
 
 RE.WORK
 
-REWORK videos https://www.youtube.com/user/teamrework
+REWORK on Youtube: https://www.youtube.com/user/teamrework
+Videos: http://videos.re-work.co/
 
 --------------------------------------------------------------------------------------------------------------
 
