@@ -12,6 +12,10 @@ Papers
 Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
+[Dilated Convolutional Neural Networks for Cardiovascular MR Segmentation in Congenital Heart Disease] (http://www.isi.uu.nl/Research/Publications/publicationview.php?id=3088), pdf by email
+
+
+
 
 Books
 ---------------------
