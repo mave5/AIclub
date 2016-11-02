@@ -3,6 +3,7 @@ Interesting links and videos related to AI/Deep Learning
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
+-------------------------------------------------------------------------------------------------------------------------------------
 Stanford Deep Learning School
 
 The talks at the Deep Learning School on September 24/25, 2016 were amazing. I clipped out individual talks from the full live streams and provided links to each below in case that's useful for people who want to watch specific talks several times (like I do). Please check out the official website (http://www.bayareadlschool.org) and full live streams below.
