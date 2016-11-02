@@ -1,4 +1,4 @@
-AI club summary
+# AI club summary
 
 
 --------------------------------------------------------------------------------------------------------------------
@@ -26,7 +26,7 @@ http://arxiv.org/pdf/1511.04166
 
 Interesting points in this talk: using edge detection for pre-training, 3D convolutions for processing sequences of images(videos) for  different applications such as video classification and captioning, optical flow analysis
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Third meeting, 10/28, TY
 
