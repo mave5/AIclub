@@ -39,3 +39,5 @@ Videos: http://videos.re-work.co/
 
 --------------------------------------------------------------------------------------------------------------
 
+[Deep Learning and the Future of AI | Yann LeCun] (https://www.youtube.com/watch?v=_1Cyyt-4-n8&feature=share&app=desktop)
+
