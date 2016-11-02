@@ -14,7 +14,6 @@ In addition, Dilated Convolution is now available in Keras: https://keras.io/lay
 under: AtrousConvolution
 
 -----
-
 ### Second meeting, 10/20, SD
 
 I would like to talk about the work Facebook has been doing on Unsupervised edge generation
@@ -27,7 +26,7 @@ http://arxiv.org/pdf/1511.04166
 Interesting points in this talk: using edge detection for pre-training, 3D convolutions for processing sequences of images(videos) for  different applications such as video classification and captioning, optical flow analysis
 
 
-
+----------
 ### Third meeting, 10/28, TY
 
 Object segmentation from pump images. 
