@@ -8,4 +8,7 @@ Projects/Software Tools/Codes
 
 [AI•ON, Artificial Intelligence Open Network] (http://ai-on.org/)
 
+[Run Keras models in the browser] (https://github.com/transcranial/keras-js)
+
+
 
