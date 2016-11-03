@@ -34,7 +34,13 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 ## Blogs/Webpages
 
-- [The 9 Deep Learning Papers You Need To Know About] (https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+* [The 9 Deep Learning Papers You Need To Know About] (https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
+* [DeepDrive, self-driving car AI] (http://deepdrive.io/)
 
-- [DeepDrive, self-driving car AI] (http://deepdrive.io/)
+* [Andrej Kaepathy blog] (http://karpathy.github.io/)
+
+* [Arxiv Sanity Preserver] (http://www.arxiv-sanity.com/)
+
+* [Trending arXiv] (https://trendingarxiv.smerity.com/)
+
