@@ -3,13 +3,8 @@ Projects/Software Tools/Codes
 ----------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-### Deep Learning 
+### Codes
 [Run Keras models in the browser] (https://github.com/transcranial/keras-js)
-
-[AI•ON, Artificial Intelligence Open Network] (http://ai-on.org/)
-
 
 ### Deep Learning Frameworks
 
@@ -29,6 +24,8 @@ Projects/Software Tools/Codes
 
 [Deeplearning4j] (https://deeplearning4j.org/)
 
+### Projects
+[AI•ON, Artificial Intelligence Open Network] (http://ai-on.org/)
 
 
 
