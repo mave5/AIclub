@@ -44,3 +44,5 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [Trending arXiv] (https://trendingarxiv.smerity.com/)
 
+* [AI•ON, Artificial Intelligence Open Network] (http://ai-on.org/)
+
