@@ -9,7 +9,7 @@ The talks at the Deep Learning School on September 24/25, 2016 were amazing. I c
 
 Having read, watched, and presented deep learning material over the past few years, I have to say that this is one of the best collection of introductory deep learning talks I've yet encountered. Here are links to the individual talks and the full live streams for the two days:
 
-1. [Foundations of Deep Learning (Hugo Larochelle, Twitter] - (https://youtu.be/zij_FTbJHsk)
+ [Foundations of Deep Learning (Hugo Larochelle, Twitter] - (https://youtu.be/zij_FTbJHsk)
 2. [ Deep Learning for Computer Vision (Andrej Karpathy, OpenAI)] - (https://youtu.be/u6aEYuemt0M)
 3. [Deep Learning for Natural Language Processing (Richard Socher, Salesforce)] - (https://youtu.be/oGk1v1jQITw)
 4. [TensorFlow Tutorial (Sherry Moore, Google Brain)] - (https://youtu.be/Ejec3ID_h0w)
