@@ -30,7 +30,6 @@ Go to [link] (http://www.bayareadlschool.org) for more information on the event,
 
 ----------
 
-
 ### RE.WORK
 
 REWORK on Youtube: https://www.youtube.com/user/teamrework
