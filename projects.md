@@ -27,10 +27,6 @@ Projects/Software Tools/Codes
 
 [Deeplearning4j] (https://deeplearning4j.org/)
 
-### Projects
-[AI•ON, Artificial Intelligence Open Network] (http://ai-on.org/)
-
-
 
 ### Data and visualization software tools
 
