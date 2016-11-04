@@ -39,5 +39,6 @@ Videos: http://videos.re-work.co/
 --------------------------------------------------------------------------------------------------------------
 ### Misc
 
-[Deep Learning and the Future of AI | Yann LeCun] (https://www.youtube.com/watch?v=_1Cyyt-4-n8&feature=share&app=desktop)
+* [Deep Learning and the Future of AI | Yann LeCun] (https://www.youtube.com/watch?v=_1Cyyt-4-n8&feature=share&app=desktop)
+* [Stanford course, Andrej Karpathy, CS231n Winter 2016] (https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
