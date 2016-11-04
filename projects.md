@@ -11,6 +11,26 @@ Projects/Software Tools/Codes
 [AI•ON, Artificial Intelligence Open Network] (http://ai-on.org/)
 
 
+## Deep Learning Frameworks
+
+[caffe] (http://caffe.berkeleyvision.org/)
+
+[Keras] (https://keras.io/)
+
+[Tensorflow] (https://www.tensorflow.org/)
+
+[Torch] (http://torch.ch/)
+
+[Theano] (http://deeplearning.net/software/theano/index.html)
+
+[CNTK] (https://github.com/microsoft/cntk)
+
+[mxnet] (http://mxnet.io/get_started/setup.html)
+
+[Deeplearning4j] (https://deeplearning4j.org/)
+
+
+
 
 ### Data and visualization software tools
 
