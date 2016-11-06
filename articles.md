@@ -30,6 +30,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/%7Etibs/ElemStatLearn/)
 * [Deep Learning] (http://www.deeplearningbook.org/)
 * [Pattern Recognition and Machine Learning] (http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* [The Master Algorithm] (https://en.wikipedia.org/wiki/The_Master_Algorithm)
+
 
 
 
