@@ -7,6 +7,8 @@ Projects/Software Tools/Codes
 * [Run Keras models in the browser] (https://github.com/transcranial/keras-js)
 
 * [MNIST Generative Adversarial Model in Keras] (http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html)
+* [Convolutional RNN] (https://github.com/EderSantana/seya/blob/master/seya/layers/conv_rnn.py)
+
 
 
 ### Deep Learning Frameworks
