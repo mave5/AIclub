@@ -12,7 +12,7 @@ Projects/Software Tools/Codes
 * [First place, Kaggle Second Annual Data Science Bowl] (https://github.com/woshialex/diagnose-heart)
 * [second place, Kaggle Second Annual Data Science Bowl] (http://blog.kaggle.com/2016/04/13/diagnosing-heart-diseases-with-deep-neural-networks-2nd-place-ira-korshunova/)
 * [3rd place, Kaggle Second Annual Data Science Bowl] (http://juliandewit.github.io/kaggle-ndsb/)
-* [Draw ConvNetts] (https://github.com/gwding/draw_convnet)
+* [Draw ConvNets] (https://github.com/gwding/draw_convnet)
 
 
 
