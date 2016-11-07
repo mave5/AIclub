@@ -8,6 +8,11 @@ Projects/Software Tools/Codes
 
 * [MNIST Generative Adversarial Model in Keras] (http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html)
 * [Convolutional RNN] (https://github.com/EderSantana/seya/blob/master/seya/layers/conv_rnn.py)
+* [Kaggle: Second Annual Data Science Bowl] (https://www.kaggle.com/c/second-annual-data-science-bowl)
+* [First place, Kaggle Second Annual Data Science Bowl] (https://github.com/woshialex/diagnose-heart)
+* [second place, Kaggle Second Annual Data Science Bowl] (http://blog.kaggle.com/2016/04/13/diagnosing-heart-diseases-with-deep-neural-networks-2nd-place-ira-korshunova/)
+* [3rd place, Kaggle Second Annual Data Science Bowl] (http://juliandewit.github.io/kaggle-ndsb/)
+* 
 
 
 
