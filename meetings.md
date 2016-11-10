@@ -35,6 +35,6 @@ Object segmentation from pump images.
 Interesting points: using different labels for each piece, using other objective functions such as binary_cross_entropy, using other image resolutions.
 
 ------
-
+11/9
 
 
