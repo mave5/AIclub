@@ -36,5 +36,10 @@ Interesting points: using different labels for each piece, using other objective
 
 ------
 
+### Forth meeting, 11/09, JM
 
+We discussed the following paper: https://arxiv.org/abs/1608.03609
 
+They try to incorporate temporal information from video’s into the convnet framework for segmentation. The frame-to-frame changes within the layers get smaller and smaller, the higher in the network the layer is. The idea is that when there is not a lot of change in the video, some of the higher layer don't need to be calculated again but can be read from cache.
+
+Thomas also mentioned that key frames in mpeg4 could potentially be used as markers for change. They could indicate which frames are useful to train the AI.
