@@ -14,6 +14,8 @@ Projects/Software Tools/Codes
 * [3rd place, Kaggle Second Annual Data Science Bowl] (http://juliandewit.github.io/kaggle-ndsb/)
 * [Draw ConvNets] (https://github.com/gwding/draw_convnet)
 
+* [Hyper Networks] (https://github.com/hardmaru/supercell/blob/master/assets/MNIST_Static_HyperNetwork_Example.ipynb)
+
 
 
 ### Deep Learning Frameworks
