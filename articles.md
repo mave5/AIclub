@@ -56,5 +56,5 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Machine Learning: A Complete and Detailed Overview] (http://www.kdnuggets.com/2016/10/machine-learning-complete-detailed-overview.html?utm_content=buffer47a87&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Open Review] (http://openreview.net/)
 
-
+* [Embedded Vision] (http://www.embedded-vision.com/)
 
