@@ -57,4 +57,5 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Open Review] (http://openreview.net/)
 
 * [Embedded Vision] (http://www.embedded-vision.com/)
-
+ * [CPU benchmarks] (https://www.cpubenchmark.net/compare.php?cmp%5B%5D=2470&cmp%5B%5D=2054&cmp%5B%5D=2441)
+ 
