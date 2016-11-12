@@ -11,6 +11,7 @@
 
 ## Misc ##
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
+* [dl papers] (https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
 
 
 ## Medical Imaging
