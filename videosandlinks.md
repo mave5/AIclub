@@ -43,5 +43,5 @@ Videos: http://videos.re-work.co/
 * [Stanford course, Andrej Karpathy, CS231n Winter 2016] (https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 * [MICCAI 2016] (https://www.youtube.com/channel/UC_BXkUDD_UHQZ1r7xFihD_g)
 
-*[Data Science Summit 2016] (https://www.youtube.com/playlist?list=PLykRMO7ZuHwONAMHcteqniITxlLaZpFoy)
+* [Data Science Summit 2016] (https://www.youtube.com/playlist?list=PLykRMO7ZuHwONAMHcteqniITxlLaZpFoy)
 
