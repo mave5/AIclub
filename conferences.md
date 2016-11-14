@@ -19,4 +19,4 @@ short course at UCI
 
 * [Medical Imaging Computing and Computer Assisted Intervention, MICCAI] (http://www.miccai.org/)
 
-*[Data Science Summit, yearly conference] (http://conf.turi.com/)
+* [Data Science Summit, yearly conference] (http://conf.turi.com/)
