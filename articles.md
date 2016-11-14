@@ -11,6 +11,8 @@
 
 *  [Multi-Scale Context Aggregation by Dilated Convolutions] (https://arxiv.org/abs/1511.07122)
 
+* [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation] (https://arxiv.org/abs/1606.02147)
+
 
 ## Misc ##
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
