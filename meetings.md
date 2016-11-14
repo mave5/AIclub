@@ -42,4 +42,4 @@ We discussed the following paper: [Clockwork Convnets for Video Semantic Segment
 
 They try to incorporate temporal information from video’s into the convnet framework for segmentation. The frame-to-frame changes within the layers get smaller and smaller in deeper layers. The idea is that when there is not a lot of change in the video, some of the higher layer don't need to be calculated again but can be read from the cache.
 
-Thomas also mentioned that key frames in mpeg4 could potentially be used as markers for change. They could indicate which frames are useful during deployment of the AI.
+Thomas also mentioned that key frames in mpeg4 could potentially be used as markers for change. They could indicate which frames are useful during the real-time deployment.
