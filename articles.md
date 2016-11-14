@@ -9,6 +9,8 @@
 * [Fully Convolutional Networks for Semantic Segmentation] (https://arxiv.org/abs/1605.06211)
 * [Learning Deconvolution Network for Semantic Segmentation] (https://arxiv.org/abs/1505.04366)
 
+*  [Multi-Scale Context Aggregation by Dilated Convolutions] (https://arxiv.org/abs/1511.07122)
+
 
 ## Misc ##
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
@@ -34,6 +36,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Deep Learning] (http://www.deeplearningbook.org/)
 * [Pattern Recognition and Machine Learning] (http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [The Master Algorithm] (https://en.wikipedia.org/wiki/The_Master_Algorithm)
+
+* [Deep Learning with Python, Jason Brownlee] (https://machinelearningmastery.com/deep-learning-with-python/)
+
 
 
 
