@@ -18,3 +18,5 @@ short course at UCI
 * [International Conference on Learning Representations] (yearly conference)
 
 * [Medical Imaging Computing and Computer Assisted Intervention, MICCAI] (http://www.miccai.org/)
+
+*[Data Science Summit, yearly conference] (http://conf.turi.com/)
