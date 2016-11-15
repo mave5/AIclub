@@ -16,6 +16,8 @@ Projects/Software Tools/Codes
 
 * [Hyper Networks] (https://github.com/hardmaru/supercell/blob/master/assets/MNIST_Static_HyperNetwork_Example.ipynb)
 
+* [Interactive convnet features visualization for Keras] (https://github.com/jakebian/quiver)
+
 
 
 ### Deep Learning Frameworks
