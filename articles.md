@@ -36,6 +36,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [Hierarchical Object Detection with Deep Reinforcement Learning] (https://arxiv.org/abs/1611.03718)
 
+* [Active Object Localization with Deep Reinforcement Learning] (https://arxiv.org/abs/1511.06015)
+
 ## Books
 * [Reinforcement Learning, an intro] (https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/%7Etibs/ElemStatLearn/)
