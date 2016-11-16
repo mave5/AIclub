@@ -32,6 +32,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation] (https://arxiv.org/abs/1606.04797)
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation] (https://arxiv.org/abs/1505.04597)
 
+## Reinforcement Learning
+
+* [Hierarchical Object Detection with Deep Reinforcement Learning] (https://arxiv.org/abs/1611.03718)
 
 ## Books
 * [Reinforcement Learning, an intro] (https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
