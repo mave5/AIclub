@@ -64,6 +64,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [Trending arXiv] (https://trendingarxiv.smerity.com/)
 
+* [Semantic Scholar] (https://www.semanticscholar.org/)
+
 * [AI•ON, Artificial Intelligence Open Network] (http://ai-on.org/)
 * [Nathan Benaich, A digest of artificial intelligence and machine learning news](https://www.getrevue.co/profile/nathanbenaich)
 
