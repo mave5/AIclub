@@ -81,3 +81,10 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Machine Learning Mastery, Jason Brownlee] (http://machinelearningmastery.com/author/jasonb/)
 
 * [Emergent Future] (https://medium.com/emergent-future)
+
+
+## Researchers
+
+* [Aaron Courville ] (https://aaroncourville.wordpress.com/)
+* [Ian Goodfellow] (https://github.com/goodfeli)
+
