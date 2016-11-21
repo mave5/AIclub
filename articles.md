@@ -84,6 +84,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [WildML] (http://www.wildml.com/)
 
+* [DL collection] (https://github.com/acastrounis/data-science-machine-learning-ai-resources/blob/master/README.md)
 
 ## Researchers
 
