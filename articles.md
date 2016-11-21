@@ -122,8 +122,11 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [DL collection] (https://github.com/acastrounis/data-science-machine-learning-ai-resources/blob/master/README.md)
 
+* [Awesome Tensorflow] (https://github.com/jtoy/awesome-tensorflow)
+
 ## Researchers
 
 * [Aaron Courville ] (https://aaroncourville.wordpress.com/)
 * [Ian Goodfellow] (https://github.com/goodfeli)
+
 
