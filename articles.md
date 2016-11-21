@@ -14,16 +14,42 @@
 * [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation] (https://arxiv.org/abs/1606.02147)
 * [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs] (https://arxiv.org/abs/1606.00915)
 
-## Detection and Classification
+* [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation] (https://arxiv.org/abs/1511.00561)
+
+
+
+## DL Acceleration
 
 * [Convolutional Neural Networks at Constrained Time Cost] (https://arxiv.org/abs/1412.1710)
 
 * [You Only Look Once: Unified, Real-Time Object Detection] (https://arxiv.org/abs/1506.02640)
 
+* [Improving the speed of neural networks on CPUs] (http://research.google.com/pubs/pub37631.html)
+
+* [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks] (https://arxiv.org/abs/1603.05279)
+
+* [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1] (https://arxiv.org/abs/1602.02830)
+
+* [EIE: Efficient Inference Engine on Compressed Deep Neural Network] (https://arxiv.org/abs/1602.01528)
+
+* [Deep Learning with Limited Numerical Precision] (https://arxiv.org/abs/1502.02551)
+
+* [An Analysis of Deep Neural Network Models for Practical Applications] (https://arxiv.org/abs/1605.07678)
+
+* [Accelerating Deep Convolutional Networks using low-precision and sparsity] (https://arxiv.org/abs/1610.00324)
+
+* [Pruning Filters for Efficient ConvNets] (https://arxiv.org/abs/1608.08710)
+
+
+## Theory
+
+* [Distilling the Knowledge in a Neural Network] (https://arxiv.org/abs/1503.02531)
 
 ## Misc ##
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
 * [dl papers] (https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
+* [Benchmarking State-of-the-Art Deep Learning Software Tools] (https://arxiv.org/abs/1608.07249)
+
 
 
 ## Medical Imaging
