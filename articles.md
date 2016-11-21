@@ -82,6 +82,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [Emergent Future] (https://medium.com/emergent-future)
 
+* [WildML] (http://www.wildml.com/)
+
 
 ## Researchers
 
