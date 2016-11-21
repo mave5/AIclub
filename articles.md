@@ -14,6 +14,12 @@
 * [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation] (https://arxiv.org/abs/1606.02147)
 * [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs] (https://arxiv.org/abs/1606.00915)
 
+## Detection and Classification
+
+* [Convolutional Neural Networks at Constrained Time Cost] (https://arxiv.org/abs/1412.1710)
+
+* [You Only Look Once: Unified, Real-Time Object Detection] (https://arxiv.org/abs/1506.02640)
+
 
 ## Misc ##
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
