@@ -124,6 +124,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [Awesome Tensorflow] (https://github.com/jtoy/awesome-tensorflow)
 
+* [Q & A: The future of artificial intelligence] (http://people.eecs.berkeley.edu/~russell/temp/q-and-a.html)
+
 ## Researchers
 
 * [Aaron Courville ] (https://aaroncourville.wordpress.com/)
