@@ -49,3 +49,5 @@ Videos: http://videos.re-work.co/
 * [NVIDIA GTC DC Keynote - Day Two] (https://www.youtube.com/watch?v=-zmP2O4xJ3s)
 
 * [funny AI video for Yan Lecun] (https://m.facebook.com/yann.lecun/posts/10153982292142143)
+
+* [RI Seminar: Yann LeCun, Carnegie Mellon University] (http://www.ri.cmu.edu/video_view.html?video_id=176&menu_id=387)
