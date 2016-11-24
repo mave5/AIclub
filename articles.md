@@ -90,6 +90,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 ## Blogs/Webpages
 
+* [Neural Networks (General), Colah] (http://colah.github.io/)
+
 * [The 9 Deep Learning Papers You Need To Know About] (https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 
 * [DeepDrive, self-driving car AI] (http://deepdrive.io/)
