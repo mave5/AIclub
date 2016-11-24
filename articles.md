@@ -74,6 +74,11 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [Active Object Localization with Deep Reinforcement Learning] (https://arxiv.org/abs/1511.06015)
 
+
+## Generative Models
+
+* [Image-to-Image Translation with Conditional Adversarial Nets] (https://phillipi.github.io/pix2pix/)
+
 ## Books
 * [Reinforcement Learning, an intro] (https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/%7Etibs/ElemStatLearn/)
