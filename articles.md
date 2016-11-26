@@ -16,6 +16,10 @@
 
 * [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation] (https://arxiv.org/abs/1511.00561)
 
+* [Image Classification and Segmentation with Tensorflow and TF-Slim] (http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
+
+
+
 
 
 ## DL Acceleration
@@ -132,6 +136,11 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Awesome Tensorflow] (https://github.com/jtoy/awesome-tensorflow)
 
 * [Q & A: The future of artificial intelligence] (http://people.eecs.berkeley.edu/~russell/temp/q-and-a.html)
+
+* [Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System] (https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html?m=1)
+
+* [NIPS 2016 Barcelona Scheduler] (https://nips2016.lateral.io/)
+
 
 ## Researchers
 
