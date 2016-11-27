@@ -48,6 +48,8 @@
 
 * [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding] (https://arxiv.org/abs/1510.00149)
 
+* [Deep Learning with Coherent Nanophotonic Circuits] (https://arxiv.org/pdf/1610.02365v1.pdf)
+
 
 ## Theory
 
