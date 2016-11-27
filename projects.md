@@ -22,6 +22,8 @@ Projects/Software Tools/Codes
 
 * [YOLO] (http://pjreddie.com/darknet/yolo/)
 
+* [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet] (https://github.com/buriburisuri/speech-to-text-wavenet)
+
 
 
 ### Deep Learning Frameworks
