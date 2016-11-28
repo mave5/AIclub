@@ -51,6 +51,6 @@ Thomas also mentioned that key frames in mpeg4 could potentially be used as mark
 We watched and discussed the following video
 [Deep Neural Networks in Medical Imaging and Radiology: Preventative and Precision Medicine Perspectives] (https://mygtc.gputechconf.com/events/35/schedules/3402)
 
-This was one of the talks at GTC 2016 conference that SS attened. The talk is focused on employing deep learning for medical imaging applications. It has some intersting points. The speaker discusses how traditional image processing was not able to combat challenges in medical imaging applications and how deep learning revolutionized the field. 
+This was one of the talks at GTC 2016 conference that SS attened. The talk is focused on employing deep learning for medical imaging applications. It has some intersting points. The speaker discusses how traditional image processing failed to combat challenges in medical imaging applications and how deep learning revolutionized the field. 
 
 -----
