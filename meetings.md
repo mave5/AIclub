@@ -43,3 +43,13 @@ We discussed the following paper: [Clockwork Convnets for Video Semantic Segment
 They try to incorporate temporal information from video’s into the convnet framework for segmentation. The frame-to-frame changes within the layers get smaller and smaller in deeper layers. The idea is that when there is not a lot of change in the video, some of the higher layer don't need to be calculated again but can be read from the cache.
 
 Thomas also mentioned that key frames in mpeg4 could potentially be used as markers for change. They could indicate which frames are useful during the real-time deployment.
+
+### Fifth meeting, 11/18, SS
+
+We watched and discussed the following video
+https://mygtc.gputechconf.com/events/35/schedules/3402
+ Deep Neural Networks in Medical Imaging and Radiology: Preventative and Precision Medicine Perspectives
+
+This was one of the talks at GTC 2016 conference that SS attened. The talk is focused on employing deep learning for medical imaging applications. It has some intersting points. The speaker discusses how traditional image processing was not able to combat challenges in medical imaging applications and how deep learning revolutionized the field. 
+
+### 
