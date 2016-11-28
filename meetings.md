@@ -44,6 +44,8 @@ They try to incorporate temporal information from video’s into the convnet fra
 
 Thomas also mentioned that key frames in mpeg4 could potentially be used as markers for change. They could indicate which frames are useful during the real-time deployment.
 
+------
+
 ### Fifth meeting, 11/18, SS
 
 We watched and discussed the following video
@@ -52,4 +54,4 @@ https://mygtc.gputechconf.com/events/35/schedules/3402
 
 This was one of the talks at GTC 2016 conference that SS attened. The talk is focused on employing deep learning for medical imaging applications. It has some intersting points. The speaker discusses how traditional image processing was not able to combat challenges in medical imaging applications and how deep learning revolutionized the field. 
 
-### 
+-----
