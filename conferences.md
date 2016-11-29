@@ -20,3 +20,9 @@ short course at UCI
 * [Medical Imaging Computing and Computer Assisted Intervention, MICCAI] (http://www.miccai.org/)
 
 * [Data Science Summit, yearly conference] (http://conf.turi.com/)
+
+* [Robot Learning] (http://www.robot-learning.org/home)
+
+* [Embedded vision summit] (http://www.embedded-vision.com/summit)
+
+
