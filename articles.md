@@ -84,6 +84,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 ## Generative Models
 
 * [Image-to-Image Translation with Conditional Adversarial Nets] (https://phillipi.github.io/pix2pix/)
+* [A path to unsupervised learning through adversarial networks] (https://code.facebook.com/posts/1587249151575490/a-path-to-unsupervised-learning-through-adversarial-networks/)
+
+
 
 ## Books
 * [Reinforcement Learning, an intro] (https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
