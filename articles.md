@@ -147,7 +147,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [NIPS 2016 Barcelona Scheduler] (https://nips2016.lateral.io/)
 
 * [Deep Learning Papers] (https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
-
+* [5 Deep Learning Projects You Can No Longer Overlook] (http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html)
 
 
 ## Researchers
