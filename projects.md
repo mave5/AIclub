@@ -24,6 +24,8 @@ Projects/Software Tools/Codes
 
 * [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet] (https://github.com/buriburisuri/speech-to-text-wavenet)
 
+* [Asynchronous deep reinforcement learning] (https://github.com/miyosuda/async_deep_reinforce)
+
 
 
 ### Deep Learning Frameworks
