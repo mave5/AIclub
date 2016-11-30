@@ -52,6 +52,8 @@ Projects/Software Tools/Codes
 
 * [Brain] (https://github.com/harthur-org/brain.js)
 
+* [neon] (https://github.com/NervanaSystems/neon)
+
 
 ### Data and visualization software tools
 
