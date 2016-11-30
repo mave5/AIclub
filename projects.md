@@ -44,6 +44,14 @@ Projects/Software Tools/Codes
 
 * [Deeplearning4j] (https://deeplearning4j.org/)
 
+* [Leaf] (https://github.com/autumnai/leaf)
+
+* [tiny-dnn] (https://github.com/tiny-dnn/tiny-dnn)
+
+* [layered] (https://github.com/danijar/layered)
+
+
+
 
 ### Data and visualization software tools
 
@@ -54,3 +62,5 @@ Projects/Software Tools/Codes
 * [Glue: Python library to explore relationships within and among related datasets] (http://glueviz.org/en/stable/)
 
 
+### Datasets
+[Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set] (http://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions)
