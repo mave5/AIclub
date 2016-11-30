@@ -50,7 +50,7 @@ Projects/Software Tools/Codes
 
 * [layered] (https://github.com/danijar/layered)
 
-
+* [Brain] (https://github.com/harthur-org/brain.js)
 
 
 ### Data and visualization software tools
