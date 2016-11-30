@@ -146,6 +146,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [NIPS 2016 Barcelona Scheduler] (https://nips2016.lateral.io/)
 
+* [Deep Learning Papers] (https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
+
+
 
 ## Researchers
 
