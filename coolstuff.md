@@ -8,3 +8,5 @@
 * [Bedtime Story: Deep Learning Baby Monitor Keeps an Eye on Your Crib] (https://blogs.nvidia.com/blog/2016/10/30/babbycam-baby-monitor-deep-learning/)
 
 * [Quick, Draw] (https://quickdraw.withgoogle.com/)
+
+* [Deep Learning Enables You to Hide Screen when Your Boss is Approaching] (http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/)
