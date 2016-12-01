@@ -52,3 +52,7 @@ Videos: http://videos.re-work.co/
 * [funny AI video for Yan Lecun] (https://m.facebook.com/yann.lecun/posts/10153982292142143)
 
 * [RI Seminar: Yann LeCun, Carnegie Mellon University] (http://www.ri.cmu.edu/video_view.html?video_id=176&menu_id=387)
+
+* [Deep learning TV] (https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+
+
