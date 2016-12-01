@@ -4,7 +4,7 @@
 # Articles/Papers 
 
 
-# Segmeentation
+## Segmeentation
 * [Clockwork Convnets for Video Semantic Segmentation](https://arxiv.org/pdf/1608.03609v1.pdf)
 * [Fully Convolutional Networks for Semantic Segmentation] (https://arxiv.org/abs/1605.06211)
 * [Learning Deconvolution Network for Semantic Segmentation] (https://arxiv.org/abs/1505.04366)
@@ -18,7 +18,9 @@
 
 * [Image Classification and Segmentation with Tensorflow and TF-Slim] (http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
+## Classification
 
+* [Densely Connected Convolutional Networks] (https://arxiv.org/abs/1608.06993)
 
 
 
