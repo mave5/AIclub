@@ -97,6 +97,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [Deep Learning with Python, Jason Brownlee] (https://machinelearningmastery.com/deep-learning-with-python/)
 
+* [TensorFlow for Machine Intelligence] (https://www.amazon.com/TensorFlow-Machine-Intelligence-hands-introduction-ebook/dp/B01IZ43JV4)
 
 
 
