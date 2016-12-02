@@ -152,6 +152,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Deep Learning Papers] (https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 * [5 Deep Learning Projects You Can No Longer Overlook] (http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html)
 
+* [Facebook: Artificial intelligence, revealed, Yan LeCun] (https://code.facebook.com/posts/384869298519962)
+
 
 ## Researchers
 
