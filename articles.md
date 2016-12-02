@@ -107,6 +107,25 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 ## Blogs/Webpages
 
+* [Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System] (https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html?m=1)
+
+* [NIPS 2016 Barcelona Scheduler] (https://nips2016.lateral.io/)
+
+* [WildML] (http://www.wildml.com/)
+
+* [DL collection] (https://github.com/acastrounis/data-science-machine-learning-ai-resources/blob/master/README.md)
+
+* [Awesome Tensorflow] (https://github.com/jtoy/awesome-tensorflow)
+
+* [Q & A: The future of artificial intelligence] (http://people.eecs.berkeley.edu/~russell/temp/q-and-a.html)
+
+
+* [Deep Learning Papers] (https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
+* [5 Deep Learning Projects You Can No Longer Overlook] (http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html)
+
+* [Facebook: Artificial intelligence, revealed, Yan LeCun] (https://code.facebook.com/posts/384869298519962)
+
+
 * [Neural Networks (General), Colah] (http://colah.github.io/)
 
 * [The 9 Deep Learning Papers You Need To Know About] (https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
@@ -136,23 +155,6 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Machine Learning Mastery, Jason Brownlee] (http://machinelearningmastery.com/author/jasonb/)
 
 * [Emergent Future] (https://medium.com/emergent-future)
-
-* [WildML] (http://www.wildml.com/)
-
-* [DL collection] (https://github.com/acastrounis/data-science-machine-learning-ai-resources/blob/master/README.md)
-
-* [Awesome Tensorflow] (https://github.com/jtoy/awesome-tensorflow)
-
-* [Q & A: The future of artificial intelligence] (http://people.eecs.berkeley.edu/~russell/temp/q-and-a.html)
-
-* [Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System] (https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html?m=1)
-
-* [NIPS 2016 Barcelona Scheduler] (https://nips2016.lateral.io/)
-
-* [Deep Learning Papers] (https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
-* [5 Deep Learning Projects You Can No Longer Overlook] (http://www.kdnuggets.com/2016/07/five-deep-learning-projects-cant-overlook.html)
-
-* [Facebook: Artificial intelligence, revealed, Yan LeCun] (https://code.facebook.com/posts/384869298519962)
 
 
 ## Researchers
