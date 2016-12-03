@@ -61,7 +61,7 @@
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
 * [dl papers] (https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
 * [Benchmarking State-of-the-Art Deep Learning Software Tools] (https://arxiv.org/abs/1608.07249)
-
+* [SoundNet: Learning Sound Representations from Unlabeled Video] (http://projects.csail.mit.edu/soundnet/)
 
 
 ## Medical Imaging
