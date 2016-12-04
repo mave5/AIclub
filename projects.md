@@ -62,6 +62,7 @@
 
 * [neon] (https://github.com/NervanaSystems/neon)
 * [DeepLearningKit] (http://deeplearningkit.org/)
+* [TorchCraft] (https://github.com/TorchCraft/TorchCraft)
 
 
 ### Data and visualization software tools
