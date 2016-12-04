@@ -27,5 +27,5 @@ short course at UCI
 * [CVPR 2017] (http://cvpr2017.thecvf.com/)
 * [SIGGRAPH 2017] (http://s2017.siggraph.org/)
 * [ICCV, International Conference on Computer Vision] (http://iccv2017.thecvf.com/)
-
+* [The innovation summit] (http://events.cbinsights.com/corp-innovation-2017?utm_campaign=Corporate+Innovation+Summit+2017&utm_source=hs_email&utm_medium=email&utm_content=38483482&_hsenc=p2ANqtz--Hl7KydDyKCeB2ypISEDYhI2c2z5x16Aef4-cs7luQAMmWlikysGT7e8qCchBl5j1Y7QILjZbLU2c5ZN1T7FmMGyM5nQ&_hsmi=38483482)
 
