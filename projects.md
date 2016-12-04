@@ -1,11 +1,10 @@
 
-Projects/Software Tools/Codes
-----------------------------------------------------------------------------------------------------------------------------------
+## Projects/Software Tools/Codes
+-------------
 
 
 ### Codes/Projects
 * [Run Keras models in the browser] (https://github.com/transcranial/keras-js)
-
 * [MNIST Generative Adversarial Model in Keras] (http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html)
 * [Convolutional RNN] (https://github.com/EderSantana/seya/blob/master/seya/layers/conv_rnn.py)
 * [Kaggle: Second Annual Data Science Bowl] (https://www.kaggle.com/c/second-annual-data-science-bowl)
@@ -18,15 +17,22 @@ Projects/Software Tools/Codes
 
 * [Interactive convnet features visualization for Keras] (https://github.com/jakebian/quiver)
 
-* [Using Keras and Deep Q-Network to Play FlappyBird] (https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
-
 * [YOLO] (http://pjreddie.com/darknet/yolo/)
 
 * [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet] (https://github.com/buriburisuri/speech-to-text-wavenet)
 
-* [Asynchronous deep reinforcement learning] (https://github.com/miyosuda/async_deep_reinforce)
-
 * [Cammaai, openpilot] (https://github.com/commaai/openpilot)
+
+
+
+### Reinforcement Learning
+
+* [Keras plays catch, a single file Reinforcement Learning example] (http://edersantana.github.io/articles/keras_rl/)
+* [Using Keras and Deep Q-Network to Play FlappyBird] (https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)
+* [Asynchronous deep reinforcement learning] (https://github.com/miyosuda/async_deep_reinforce)
+* [Simple Reinforcement Learning with Tensorflow] (https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0#.e33lnf9z7)
+
+
 
 ### Deep Learning Frameworks
 
@@ -55,6 +61,7 @@ Projects/Software Tools/Codes
 * [Brain] (https://github.com/harthur-org/brain.js)
 
 * [neon] (https://github.com/NervanaSystems/neon)
+* [DeepLearningKit] (http://deeplearningkit.org/)
 
 
 ### Data and visualization software tools
