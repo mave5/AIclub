@@ -25,6 +25,7 @@ short course at UCI
 
 * [Embedded vision summit] (http://www.embedded-vision.com/summit)
 * [CVPR 2017] (http://cvpr2017.thecvf.com/)
-
+* [SIGGRAPH 2017] (http://s2017.siggraph.org/)
+* [ICCV, International Conference on Computer Vision] (http://iccv2017.thecvf.com/)
 
 
