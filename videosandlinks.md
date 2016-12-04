@@ -39,6 +39,7 @@ Videos: http://videos.re-work.co/
 --------------------------------------------------------------------------------------------------------------
 ### Misc
 
+* [NIPS 2016 Spotlight Videos] (https://nips.cc/Conferences/2016/SpotlightVideos)
 * [Deep Learning and the Future of AI | Yann LeCun] (https://www.youtube.com/watch?v=_1Cyyt-4-n8&feature=share&app=desktop)
 * [Stanford course, Andrej Karpathy, CS231n Winter 2016] (https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 * [MICCAI 2016] (https://www.youtube.com/channel/UC_BXkUDD_UHQZ1r7xFihD_g)
