@@ -24,5 +24,7 @@ short course at UCI
 * [Robot Learning] (http://www.robot-learning.org/home)
 
 * [Embedded vision summit] (http://www.embedded-vision.com/summit)
+* [CVPR 2017] (http://cvpr2017.thecvf.com/)
+
 
 
