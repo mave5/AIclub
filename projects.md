@@ -30,6 +30,8 @@
 
 * [Learning to Segment Object Candidates] (https://github.com/abbypa/NNProject_DeepMask)
 
+* [Implementation of recent Deep Learning papers] (https://github.com/tdeboissiere/DeepLearningImplementations)
+
 ### Reinforcement Learning
 
 * [Keras plays catch, a single file Reinforcement Learning example] (http://edersantana.github.io/articles/keras_rl/)
