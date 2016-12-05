@@ -54,3 +54,19 @@ We watched and discussed the following video
 This was one of the talks at GTC 2016 conference that SS attened. The talk is focused on employing deep learning for medical imaging applications. It has some intersting points. The speaker discusses how traditional image processing failed to combat challenges in medical imaging applications and how deep learning revolutionized the field. 
 
 -----
+
+### Meeting #6, 12/2/16, MA
+
+We discussed the following paper: 
+[Image-to-Image Translation with Conditional Adversarial Networks] (https://arxiv.org/abs/1611.07004)
+
+We discussed how generative adversarial networks (GANs) work and how they can be applied to various problems including image generation, image segmentation. The idea of a general-purpose solution to image-to-image translation problems introduced in the paper is quite intersting.
+TY mentioned that GANs might be even applicable to the patient data cleaning/interpretation problem.
+
+The following video is also useful to watch for understanding of GANs [From Facebook AI research - Soumith Chintala - Adversarial Networks] (https://www.youtube.com/watch?v=QPkb5VcgXAM).
+
+----------
+
+
+
+
