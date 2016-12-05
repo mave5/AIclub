@@ -63,7 +63,7 @@ We discussed the following paper:
 We discussed how generative adversarial networks (GANs) work and how they can be applied to various problems including image generation, image segmentation. The idea of a general-purpose solution to image-to-image translation problems introduced in the paper is quite intersting.
 TY mentioned that GANs might be even applicable to the patient data cleaning/interpretation problem.
 
-The following video is also useful to watch for understanding of GANs [From Facebook AI research - Soumith Chintala - Adversarial Networks] (https://www.youtube.com/watch?v=QPkb5VcgXAM).
+The following video would be useful for better understanding of GANs [From Facebook AI research - Soumith Chintala - Adversarial Networks] (https://www.youtube.com/watch?v=QPkb5VcgXAM).
 
 ----------
 
