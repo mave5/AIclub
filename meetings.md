@@ -3,7 +3,7 @@
 
 
 ------
-### First meeting, 10/12, MA
+###  Meeting #1, 10/12, MA
 
 We discussed the following paper:
 https://arxiv.org/abs/1511.07122
@@ -15,7 +15,7 @@ In addition, Dilated Convolution is now available in Keras: https://keras.io/lay
 under: AtrousConvolution
 
 -----
-### Second meeting, 10/20, SD
+### Meeting #2, 10/20, SD
 
 I would like to talk about the work Facebook has been doing on Unsupervised edge generation
 https://www.facebook.com/atscaleevents/videos/1682914828648281/
@@ -28,7 +28,7 @@ Interesting points in this talk: using edge detection for pre-training, 3D convo
 
 
 ----------
-### Third meeting, 10/28, TY
+### Meeting #3, 10/28, TY
 
 Object segmentation from pump images. 
 
@@ -36,7 +36,7 @@ Interesting points: using different labels for each piece, using other objective
 
 ------
 
-### Forth meeting, 11/09, JM
+### Meeting #4, 11/09, JM
 
 We discussed the following paper: [Clockwork Convnets for Video Semantic Segmentation] (https://arxiv.org/abs/1608.03609)
 
@@ -46,7 +46,7 @@ Thomas also mentioned that key frames in mpeg4 could potentially be used as mark
 
 ------
 
-### Fifth meeting, 11/18, SS
+### Meeting #5, 11/18, SS
 
 We watched and discussed the following video
 [Deep Neural Networks in Medical Imaging and Radiology: Preventative and Precision Medicine Perspectives] (https://mygtc.gputechconf.com/events/35/schedules/3402)
