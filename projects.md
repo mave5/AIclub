@@ -28,6 +28,8 @@
 
 * [LSTM for Human Activity Recognition] (https://github.com/mravendi/LSTM-Human-Activity-Recognition)
 
+* [Learning to Segment Object Candidates] (https://github.com/abbypa/NNProject_DeepMask)
+
 ### Reinforcement Learning
 
 * [Keras plays catch, a single file Reinforcement Learning example] (http://edersantana.github.io/articles/keras_rl/)
