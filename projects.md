@@ -23,7 +23,7 @@
 
 * [Cammaai, openpilot] (https://github.com/commaai/openpilot)
 
-
+* [LSTM for Human Activity Recognition] (https://github.com/mravendi/LSTM-Human-Activity-Recognition)
 
 ### Reinforcement Learning
 
