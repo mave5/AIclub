@@ -43,17 +43,13 @@ Videos: http://videos.re-work.co/
 * [Deep Learning and the Future of AI | Yann LeCun] (https://www.youtube.com/watch?v=_1Cyyt-4-n8&feature=share&app=desktop)
 * [Stanford course, Andrej Karpathy, CS231n Winter 2016] (https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 * [MICCAI 2016] (https://www.youtube.com/channel/UC_BXkUDD_UHQZ1r7xFihD_g)
-
 * [Data Science Summit 2016] (https://www.youtube.com/playlist?list=PLykRMO7ZuHwONAMHcteqniITxlLaZpFoy)
-
 * [NVIDIA GTC DC Keynotes Day One] (https://www.youtube.com/watch?v=Gya4ox8vn5g)
 * [NVIDIA GTC DC Keynote - Day Two] (https://www.youtube.com/watch?v=-zmP2O4xJ3s)
 * [NVIDIA GTS Talks] (https://mygtc.gputechconf.com/events/35/schedules/)
-
 * [funny AI video for Yan Lecun] (https://m.facebook.com/yann.lecun/posts/10153982292142143)
-
 * [RI Seminar: Yann LeCun, Carnegie Mellon University] (http://www.ri.cmu.edu/video_view.html?video_id=176&menu_id=387)
-
 * [Deep learning TV] (https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 * [From Facebook AI research - Soumith Chintala - Adversarial Networks] (https://www.youtube.com/watch?v=QPkb5VcgXAM)
+* [Import Keras in Deep Learning4J] (https://www.youtube.com/watch?v=bI1aR1Tj2DM&feature=youtu.be)
 
