@@ -67,6 +67,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 ## Reinforcement Learning
 * [Hierarchical Object Detection with Deep Reinforcement Learning] (https://arxiv.org/abs/1611.03718)
 * [Active Object Localization with Deep Reinforcement Learning] (https://arxiv.org/abs/1511.06015)
+* [Designing Neural Network Architectures using Reinforcement Learning] (https://arxiv.org/abs/1611.02167)
 
 
 ## Generative Models
