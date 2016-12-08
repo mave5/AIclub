@@ -46,6 +46,31 @@
 * What is opencv?
 * What is overfitting?
 * How can I avoid overfitting?
+* What is regularization?
+* What is data augmentation?
+* What is drop out?
+* What is loss function or objective function?
+* what is backpropagation?
+* what is gradient descent?
+* what is gradient checking?
+* what is AlexNet?
+* What VGG net?
+* what is ResNet?
+* What is RNN?
+* What is LSTM and GRU?
+* What is Q-learning?
+* What is dilated convolution?
+* what is max pooling and average pooling?
+* What is ReLU, Leaky ReLU?
+* what is sigmoid?
+* What is activation function?
+
+
+
+
+
+
+
 
 
 
