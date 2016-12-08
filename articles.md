@@ -119,6 +119,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Machine Learning Mastery, Jason Brownlee] (http://machinelearningmastery.com/author/jasonb/)
 * [Emergent Future] (https://medium.com/emergent-future)
 
+## Computing
+* [GPU review, 1080 vs 1070] (http://www.anandtech.com/show/10325/the-nvidia-geforce-gtx-1080-and-1070-founders-edition-review/5)
+
 
 ## Researchers
 * [Aaron Courville ] (https://aaroncourville.wordpress.com/)
