@@ -3,6 +3,7 @@
 
 ## Cool Stuff
 
+* [Projector Tensorflow] (http://projector.tensorflow.org/)
 * [A.I. Experiments] (https://aiexperiments.withgoogle.com/)
 
 * [Bedtime Story: Deep Learning Baby Monitor Keeps an Eye on Your Crib] (https://blogs.nvidia.com/blog/2016/10/30/babbycam-baby-monitor-deep-learning/)
@@ -14,3 +15,4 @@
 * [Android™ Based Robotics: Powerful, Flexible and Inexpensive Robots for Hobbyists, Educators, Students and Researchers] (http://www.socsci.uci.edu/~jkrichma/ABR/abr_background.html)
 
 * [Amazon GO] (https://www.youtube.com/watch?v=NrmMk1Myrxc)
+
