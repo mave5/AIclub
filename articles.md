@@ -25,6 +25,7 @@
 
 
 ## DL Acceleration
+* [Hardware-oriented Approximation of Convolutional Neural Networks] (https://arxiv.org/abs/1604.03168)
 * [Deep Learning with INT8 Optimization on Xilinx Devices] (https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf)
 * [Trained Ternary Quantization] (https://arxiv.org/abs/1612.01064)
 * [Convolutional Neural Networks at Constrained Time Cost] (https://arxiv.org/abs/1412.1710)
