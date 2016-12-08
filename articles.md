@@ -25,7 +25,7 @@
 
 
 ## DL Acceleration
-
+* [Deep Learning with INT8 Optimization on Xilinx Devices] (https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf)
 * [Trained Ternary Quantization] (https://arxiv.org/abs/1612.01064)
 * [Convolutional Neural Networks at Constrained Time Cost] (https://arxiv.org/abs/1412.1710)
 * [You Only Look Once: Unified, Real-Time Object Detection] (https://arxiv.org/abs/1506.02640)
