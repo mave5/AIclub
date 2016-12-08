@@ -2,6 +2,7 @@
 
 ## Workshops/Conferences
 ---------------------
+* [Conference on Learning Theory] (http://www.learningtheory.org/colt2017/)
 
 * [Machine Learning and the Market for Intelligence] (http://www.mkt4intel.com/)
 
