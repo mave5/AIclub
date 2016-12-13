@@ -10,12 +10,12 @@
 * What is unsupervised learning? It is another paradigm in machine learning. When you have data but do not have labels you can do unsupervided learning to find patterns in your data.
 * What is reinforcement learning? It is another paradigm of machine learning, mainly used for robotics, agents playing games, etc. When you have data (for ex. screen) and the final goal (for ex. win the game) but do not have labels you can do RL. 
 * What is RL? Also called reinforcement learning.
-* What is generative adversarial networks? Also called GAN. 
-* What is GAN?
-* What is Caffe, Tensorflow, Theano, Torch, etc?
-* Which deep learning framework I should use?
-* Where should I start learning deep learning?
-* What is AGI or GAI?
+* What is generative adversarial networks? Also called GAN, a new type of deep learning architectures for generating real-looking data. They can be used in different ways including creating extra data to be used for training, segmentation, etc. Yan LeCun thinks GAN is the most interesting idea in the last 10 years in ML.  
+* What is GAN? Also called generative adversarial networks.
+* What is Caffe, Tensorflow, Theano, Torch, etc? All are software platforms for developing deep learning networks. IF you want to hard code your deep learning networks you do not need them but it is a waste of time if you do that.
+* Which deep learning framework I should use? Use Keras, it is simple, flexible and to the point.
+* Where should I start learning deep learning? Start from this book: deep learning with Python, Jason Brownlee.
+* What is AGI or GAI? 
 * what is training?
 * Why do we train deep learning networks?
 * Why do we collect data?
