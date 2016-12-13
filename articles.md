@@ -5,6 +5,8 @@
 
 
 ## Segmeentation
+
+* [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)
 * [Clockwork Convnets for Video Semantic Segmentation](https://arxiv.org/pdf/1608.03609v1.pdf)
 * [Fully Convolutional Networks for Semantic Segmentation] (https://arxiv.org/abs/1605.06211)
 * [Learning Deconvolution Network for Semantic Segmentation] (https://arxiv.org/abs/1505.04366)
