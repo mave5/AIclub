@@ -86,6 +86,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Books
+* [Deep learning, Goodfellow] (https://books.google.com/books/about/Deep_Learning.html?id=Np9SDQAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en#v=onepage&q&f=false)
 * [Reinforcement Learning, an intro] (https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 * [The Elements of Statistical Learning] (http://statweb.stanford.edu/%7Etibs/ElemStatLearn/)
 * [Deep Learning] (http://www.deeplearningbook.org/)
