@@ -2,15 +2,15 @@
 ## Deep Learning FAQ
 
 
-* What is deep learning?
-* What is difference between deep learning and machine learning?
-* What is convolutioanl neural networks?
-* What is CNN?
-* What is supervised leaening?
-* What is unsupervised learning?
-* What is reinforcement learning?
-* What is RL?
-* What is generative adversarial networks?
+* What is deep learning? Deep learning is a branch of machine learning algorithms that currently delivering state-of-the-art results in most areas inclduing vision, speech, text,etc.
+* What is difference between deep learning and machine learning? Deep learning is a branch of machine learning.
+* What is convolutioanl neural networks? Also called CNN, is the main building block in current deep learning architectures.
+* What is CNN? Also called Convolutional Neural Networks.
+* What is supervised leaening? It is currently the main machine learning paradigm. When you have both data and labels you can do supervised learning to learn a function that maps your data to the corresponding labels. 
+* What is unsupervised learning? It is another paradigm in machine learning. When you have data but do not have labels you can do unsupervided learning to find patterns in your data.
+* What is reinforcement learning? It is another paradigm of machine learning, mainly used for robotics, agents playing games, etc. When you have data (for ex. screen) and the final goal (for ex. win the game) but do not have labels you can do RL. 
+* What is RL? Also called reinforcement learning.
+* What is generative adversarial networks? Also called GAN. 
 * What is GAN?
 * What is Caffe, Tensorflow, Theano, Torch, etc?
 * Which deep learning framework I should use?
