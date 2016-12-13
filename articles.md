@@ -6,6 +6,7 @@
 
 ## Segmeentation
 
+* [What is a good evaluation measure for semantic segmentation?] (http://www.xrce.xerox.com/Our-Research/Publications/2013-027)
 * [Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban
 Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w19/html/Kampffmeyer_Semantic_Segmentation_of_CVPR_2016_paper.html)
 
