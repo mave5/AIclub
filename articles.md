@@ -6,6 +6,9 @@
 
 ## Segmeentation
 
+* [Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban
+Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w19/html/Kampffmeyer_Semantic_Segmentation_of_CVPR_2016_paper.html)
+
 * [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)
 * [Clockwork Convnets for Video Semantic Segmentation](https://arxiv.org/pdf/1608.03609v1.pdf)
 * [Fully Convolutional Networks for Semantic Segmentation] (https://arxiv.org/abs/1605.06211)
