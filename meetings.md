@@ -67,6 +67,24 @@ The following video would be useful for better understanding of GANs [From Faceb
 
 ----------
 
+### Meeting #7, 12/13/16, SD
+
+We discussed the following paper: 
+[Semantic Segmentation using Adversarial Networks] (https://arxiv.org/abs/1611.08408)
+
+The paper is proposing a new method for semantic segmentation using GAN. Instead of input noise, images are applied to the input of the generative model. The generative model will learn to produce a semantic mask of the image. The input to the discriminator is either the ground truth masks or the generated masks. The author claim that they obtained better accuracy in terms of dice metric. The qualitative results depics the improvement, reducing the false positives.
+
+The group became creative and started to think of applications of GAN in other areas such as trading, lottery, etc :)
+
+-------------
+
+
+
+
+
+
+
+
 
 
 
