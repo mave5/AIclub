@@ -15,41 +15,41 @@
 * What is Caffe, Tensorflow, Theano, Torch, etc? All are software platforms for developing deep learning networks. IF you want to hard code your deep learning networks you do not need them but it is a waste of time if you do that.
 * Which deep learning framework I should use? Use Keras, it is simple, flexible and to the point.
 * Where should I start learning deep learning? Start from this book: deep learning with Python, Jason Brownlee.
-* What is AGI or GAI? 
-* what is training?
-* Why do we train deep learning networks?
-* Why do we collect data?
-* Why should we label or annotate the data?
-* What is cross-validation?
-* What is ensembling?
-* What is hyper-parameters optimization?
-* What computer should I use for training?
-* What do I doafter training?
-* What is learning rate?
-* How should I set the learning rate?
-* What is batch size?
-* What should I use for batch size?
-* What is SGD, ADAM, etc?
-* Which optimizer method should I use?
-* What is fine-tunning?
-* Who is Yan LeCun?
-* Who is Andrew Ng?
-* Who is Jeff Hinton?
-* Who is Bengio?
-* Who are the celebrities in deep learning?
-* Is deep learning equivalent to AI?
-* What is pre-training?
-* What language should I use?
-* What is Jupyter notebook?
-* What is numpy?
-* What is matplotlib?
-* What is opencv?
-* What is overfitting?
-* How can I avoid overfitting?
-* What is regularization?
-* What is data augmentation?
-* What is drop out?
-* What is loss function or objective function?
+* What is AGI or GAI? Artificial General Intelligence, General Artificial Intelligence
+* what is training? Developing machine learning algorithms using collected data and labels by optimizing a cost/loss function.
+* Why do we train deep learning networks? Without training the network will only predict random outputs. So, to predict meaningful outputs, we need to train the networks.
+* Why do we collect data? Depending on application, Internet, hospitals, manual data collection, etc.
+* Why should we label or annotate the data? The raw data without labels cannot be used for optimizing/ training in supervised learning unless it is labeled.
+* What is cross-validation? Validating our algorithm on some test data that has not been used for training.
+* What is ensembling? Combining multiple ML algorithms to improve accuracy/performance.
+* What is hyper-parameters optimization? Parameters such as learning rate, batch size, network size, etc., need to be fine-tuned for the best accuracy. This is called hyper-parameter optimization.
+* What computer should I use for training? A powerful computer with Nvidia GPU and enough RAM (>= 8GB).
+* What do I do after training? Deploy your DL network for the desired task.
+* What is learning rate? An important hyper-parameter that is used during training for optimizing the loss/cost function. Typical value is 3E-4 for Adam optimizer and 1E-3 for SGD.
+* How should I set the learning rate? Start from a common value such as 1E-3 or 1E-4 and gradually tweak if needed.
+* What is batch size? It is the size of data that is used in each iteration of optimization/training. Typical value is 32.
+* What should I use for batch size? Start from small values such as 8,16,32.
+* What is SGD, ADAM, etc? Stochastic Gradient Descent and their variations. These are different optimizers cane be used during training. 
+* Which optimizer method should I use? Start with Adam or SGD.
+* What is fine-tunning? Adjusting/optimizing the training weights to achieve a better performance. In fine-tuning you do not start from random initialization but from some pre-trained values.
+* Who is Yan LeCun? He is basically the father of conv nets, one of the AI pioneers.
+* Who is Andrew Ng? He is stanford professor, coursera co-founder and one of the AI pioneers.
+* Who is Jeff Hinton? Hinton is long-term AI pioneer. He ignited the field in 2006.
+* Who is Bengio? One of the AI pioneer based on U of Montreal.
+* Who are the celebrities in deep learning? The aboves.
+* Is deep learning equivalent to AI? It is being used interchangebly these days.
+* What is pre-training? It means training your DL network with some data not necessarily the actual data from the application. 
+* What language should I use? Python.
+* What is Jupyter notebook? Cool IDE for code development.
+* What is numpy? Numerical Python, one of the python libraries for numerical calculations.
+* What is matplotlib? Cool Python package for plotting.
+* What is opencv? Another C++/Python package for dealing with images and videos.
+* What is overfitting? When your algorithms works perfectly on training data and fails on test data.
+* How can I avoid overfitting? Set apart a validation/test data, monitor training and test error during training, stop the training if no improvement is seen in the test error, use data augmentation, use drop-out.
+* What is regularization? A technique for avoiding over-fitting. 
+* What is data augmentation? Increasing the size of training data with various techniques.
+* What is drop out? A technique to avoid overfitting. Turining off some of the neurons randomly during training.
+* What is loss function or objective function? It is the function being optimized during training.
 * what is backpropagation?
 * what is gradient descent?
 * what is gradient checking?
