@@ -80,6 +80,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Generative Models
+* [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks] (https://arxiv.org/abs/1612.03242)
 * [Image-to-Image Translation with Conditional Adversarial Nets] (https://phillipi.github.io/pix2pix/)
 * [A path to unsupervised learning through adversarial networks] (https://code.facebook.com/posts/1587249151575490/a-path-to-unsupervised-learning-through-adversarial-networks/)
 
