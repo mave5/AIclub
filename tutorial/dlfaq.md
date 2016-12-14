@@ -50,16 +50,16 @@
 * What is data augmentation? Increasing the size of training data with various techniques.
 * What is drop out? A technique to avoid overfitting. Turining off some of the neurons randomly during training.
 * What is loss function or objective function? It is the function being optimized during training.
-* what is backpropagation?
-* what is gradient descent?
-* what is gradient checking?
-* what is AlexNet?
-* What VGG net?
-* what is ResNet?
-* What is RNN?
-* What is LSTM and GRU?
-* What is Q-learning?
-* What is dilated convolution?
+* what is backpropagation? It is an algorithm used for training of DL/ML networks. It is based on calculating the error between the ground truth and network's output and propagating the error to adjust the weights in the network.
+* what is gradient descent? It is an optimization algorithm. It's variant stochastic gradient descent is used for training DL networks.
+* what is gradient checking? Making sure that you calculated gradients correctly. Back then, when there was no platform such as caffe, tensorflow,etc., you had to hardcode the backpropagation alogirithm, gradients in each layer, etc. To make sure that you have done these correctly, you better did gradient checking. Although, there is a saying that "backpropagation is such a robust algorithm that any bug you made in development would act like a regulizer!!"
+* what is AlexNet? AlexNet is a CNN based classification network that outperformed the benchmarks in ILSVRC 2012 competition by a large margin. AlexNet was laid the foundation for many image recognition breakthroughs. 
+* What VGG net?It is another CNN based classfication network won 2014 competitions.
+* what is ResNet? Same a above won 2015 competition. 
+* What is RNN? Recurrent neural networks, used for various applications dealing with time-series data.
+* What is LSTM and GRU? Large short-term memory and gated recurrent unit, two types of RNN nets.
+* What is Q-learning? It is reinforcement learning algorithm developed by Google Deepmind.
+* What is dilated convolution? It is a type of CNN to increase the receptive field without increasing the number of parameters.
 * what is max pooling and average pooling?
 * What is ReLU, Leaky ReLU?
 * what is sigmoid?
