@@ -60,9 +60,9 @@
 * What is LSTM and GRU? Large short-term memory and gated recurrent unit, two types of RNN nets.
 * What is Q-learning? It is reinforcement learning algorithm developed by Google Deepmind.
 * What is dilated convolution? It is a type of CNN to increase the receptive field without increasing the number of parameters.
-* what is max pooling and average pooling?
-* What is ReLU, Leaky ReLU?
-* what is sigmoid?
+* what is max pooling and average pooling? Max/averag pooling is the layer we use after every convolution layer to reduce the spatial resolution of features. Max pooling is more common to use these days.
+* What is ReLU, Leaky ReLU? Rectified linear unit and its leaky version. These are activation functions used in DL networks. 
+* what is sigmoid? Sigmoid the s-shape activation function commonly used in ML.
 * What is activation function?
 
 
