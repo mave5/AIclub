@@ -55,6 +55,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-f
 
 
 ## Misc
+* [Some interesting papers from NIPS 2016] (https://www.linkedin.com/pulse/some-interesting-papers-from-nips-2016-sarfaraz-hussein?trk=pulse_spock-articles)
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
 * [dl papers] (https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
 * [Benchmarking State-of-the-Art Deep Learning Software Tools] (https://arxiv.org/abs/1608.07249)
