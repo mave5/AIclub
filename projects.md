@@ -8,7 +8,6 @@
 * [Universe, OpenAI] (https://universe.openai.com/)
 
 * [Run Keras models in the browser] (https://github.com/transcranial/keras-js)
-* [MNIST Generative Adversarial Model in Keras] (http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html)
 * [Convolutional RNN] (https://github.com/EderSantana/seya/blob/master/seya/layers/conv_rnn.py)
 * [Kaggle: Second Annual Data Science Bowl] (https://www.kaggle.com/c/second-annual-data-science-bowl)
 * [First place, Kaggle Second Annual Data Science Bowl] (https://github.com/woshialex/diagnose-heart)
@@ -31,6 +30,14 @@
 * [Learning to Segment Object Candidates] (https://github.com/abbypa/NNProject_DeepMask)
 
 * [Implementation of recent Deep Learning papers] (https://github.com/tdeboissiere/DeepLearningImplementations)
+
+
+### GAN
+* [How to Train a GAN? Tips and tricks to make GANs wor] (https://github.com/soumith/ganhacks)
+* [MNIST Generative Adversarial Model in Keras] (http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html)
+* [Keras DCGAN] (https://github.com/jacobgil/keras-dcgan)
+
+
 
 ### Reinforcement Learning
 
