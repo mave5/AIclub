@@ -4,9 +4,8 @@
 
 
 ### Codes/Projects
-
+* [Code for Machine Learning with TensorFlow book] (https://github.com/BinRoot/TensorFlow-Book?files=1)
 * [Universe, OpenAI] (https://universe.openai.com/)
-
 * [Run Keras models in the browser] (https://github.com/transcranial/keras-js)
 * [Convolutional RNN] (https://github.com/EderSantana/seya/blob/master/seya/layers/conv_rnn.py)
 * [Kaggle: Second Annual Data Science Bowl] (https://www.kaggle.com/c/second-annual-data-science-bowl)
