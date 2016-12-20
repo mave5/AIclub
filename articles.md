@@ -82,6 +82,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Generative Models
+* [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth] (https://arxiv.org/abs/1612.05079)
 * [Stacked Generative Adversarial Networks] (https://arxiv.org/abs/1612.04357)
 * [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks] (https://arxiv.org/abs/1612.03242)
 * [Image-to-Image Translation with Conditional Adversarial Nets] (https://phillipi.github.io/pix2pix/)
