@@ -108,6 +108,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Yes you should understand backprop] (https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.exwrpehrv)
 * [Zero-Shot Translation with Google’s Multilingual Neural Machine Translation System] (https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html?m=1)
 * [NIPS 2016 Barcelona Scheduler] (https://nips2016.lateral.io/)
 * [WildML] (http://www.wildml.com/)
