@@ -78,6 +78,20 @@ The group became creative and started to think of applications of GAN in other a
 
 -------------
 
+### Meeting #8, 12/21/16, TY
+
+We discussed the following three papers:
+[A Comparison of Models for Predicting Early Hospital Readmission] (http://www.sciencedirect.com/science/article/pii/S1532046415000969)
+[Dr. AI: Predicting Clinical Events via Recurrent Neural Network] (https://arxiv.org/pdf/1511.05942v11.pdf)
+[Learning to Diagnose with LSTM Recurrent Neural Network] (https://arxiv.org/pdf/1511.03677v6.pdf) 
+
+These three papers show a series of effort to use Machine Learning to predict patient outcome over existing public or private EMR data. These EMR data serve a good secondary use in Machine Learning to drive down healthcare cost. The first paper shows using a simple RBM consistently out-perform traditional statistica methods to predict the chance of hospital readmission. It does not explore time sequence medical data because RBM lacks the necessary construct.
+
+The second paper is the first use or RNN with GRU over public patient data. It shows promising result of exploring the time sequence medical data in predicting the future diagnosis.
+
+The third paper is a very recent work leveraging LSTM RNN. LSTM RNN is a more complicated form of RNN with a "forget gate". It allows reasonable good prediction of patient outcome given common missed or erretic medical data in EMR. It also claims the use of LSTM reduce the time to train, and require less data.
+
+These result points us the potential of using LSTM RNN to analyze On-Q Trac and Sabre data.
 
 
 
