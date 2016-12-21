@@ -1,5 +1,5 @@
 
-# AI club summary
+# AIclub meeting summary
 
 
 ------
