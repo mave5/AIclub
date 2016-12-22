@@ -1,2 +1,2 @@
 
-### Generating both image and annotation for medical imaging analysis using Generative Adversarial Networks (GANs). 
+### Generating images and annotations for medical imaging analysis using Generative Adversarial Networks (GANs). 
