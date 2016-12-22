@@ -9,11 +9,10 @@
 * [install git] (https://git-for-windows.github.io/)
 * install theano: conda install theano
 * test Theano: run Theano_Test.py
-* Config theano:
- add the following to file: .theanorc.txt: 
-   ..* global
-   ..* floatX = float32
-   ..* device = cpu
+* Config theano: add the following to file: .theanorc.txt: 
+..* global
+..* floatX = float32
+..* device = cpu
  
 * install keras
                - cd C:\Anaconda2\Lib\site-packages
