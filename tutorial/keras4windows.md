@@ -11,9 +11,9 @@
 * test Theano: run Theano_Test.py
 * Config theano:
  add the following to file: C:\Users\u21157\.theanorc.txt: 
-   ** [global]
-   ** floatX = float32
-   ** device = cpu
+   * [global]
+   * floatX = float32
+   * device = cpu
  
 * install keras
                - cd C:\Anaconda2\Lib\site-packages
