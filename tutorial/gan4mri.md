@@ -39,3 +39,6 @@ TrainingSet including 16 patients with images and expert annotations was used to
 It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful.  ![stacked network] (https://github.com/mravendi/AIclub/blob/master/figs/gan2.png).
 
 
+You can see the code here *[Jupyter Notebook] (http://nbviewer.jupyter.org/github/mravendi/AIclub/blob/master/tutorial/notebook/GAN_CMRI_32by32.ipynb)
+
+
