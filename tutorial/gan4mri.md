@@ -32,7 +32,7 @@ TrainingSet including 16 patients with images and expert annotations was used to
 
 4. Stack Generator and Discriminator together.
 
-5. Train the stacked network using the generated images with y=1 as forced labels. 
+5. Train the ![stacked network] (https://github.com/mravendi/AIclub/blob/master/figs/gan2.png) using the generated images with y=1 as forced labels. 
 
 6. Return to step 2.
 
