@@ -10,7 +10,7 @@ Automatic organ detection and segmentation can have a huge impact in medical ima
 The network has two blocks: 
 * Generator: A convolutional neural network to generate image and corresponding mask.  
 * Discriminator: A convolutional neural network to classify real images/mask from generated images/masks.
-Here mask refers to a binary mask corresponding to the annotation. Block diagram of the network is shown in ![Figure]. (https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
+Here mask refers to a binary mask corresponding to the annotation. Block diagram of the network is shown in ![Figure] (https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
 
 Training algorithms:
 1. Initialize Generator and Discriminator randomly.
