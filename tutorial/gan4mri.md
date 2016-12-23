@@ -18,7 +18,7 @@ Block diagram of the network is shown below. ![Figure] (https://github.com/mrave
 
 #### Data
 We used the [MICCAI 2012 RV segmentation challenge dataset] (http://www.litislab.fr/?projet=1rvsc).
-TrainingSet including 16 patients with images and expert annotations was used to develop the algorithm. We convert the annotations to binary masks with same size as images. The original images/masks dimensions are 216*256. For tractable training, we downsampled the images/masks to 32*32.
+TrainingSet including 16 patients with images and expert annotations was used to develop the algorithm. We convert the annotations to binary masks with same size as images. The original images/masks dimensions are $216*256$. For tractable training, we downsampled the images/masks to $32*32$.
 
 
 
