@@ -32,13 +32,10 @@ TrainingSet including 16 patients with images and expert annotations was used to
 
 4. Freeze the weights in Discriminator and stack it to Generator (figure below).
 
-5. Train the stacked network with freezed weights for discriminator using the generated images with y=1 as forced labels. 
+5. Train the stacked network using the generated images with y=1 as forced labels. 
 
 6. Return to step 2.
 
-It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful. Also, in Step 5 we train the ![stacked network] (https://github.com/mravendi/AIclub/blob/master/figs/gan2.png) with the forced labels and freezed weights in Discriminator. 
-
-
-
+It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful.  ![stacked network] (https://github.com/mravendi/AIclub/blob/master/figs/gan2.png).
 
 
