@@ -22,7 +22,7 @@ TrainingSet, including 16 patients with images and expert annotations, was used 
 
 
 
-### Training algorithms:
+### Training algorithm:
 
 1. Initialize Generator and Discriminator randomly.
 
