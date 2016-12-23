@@ -14,10 +14,15 @@ Here mask refers to a binary mask corresponding to the annotation. See ![Figure]
 
 Training algorithms:
 1. Initialize Generator and Discriminator randomly.
+
 2. Generate some images/masks using Generator.
+
 3. Train Discriminator using the collected real images/masks (with y=1 as labels) and generated images/masks (with y=0 as labels).
+
 4. Stack Generator and Discriminator together.
+
 5. Train the stacked network using the generated images with y=1 as forced labels. 
+
 6. Repeat to step 2.
 
 It is noted that, initially, the generated images and masks are garbage. But as training continious they become meaningful. 
