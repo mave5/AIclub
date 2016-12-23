@@ -39,6 +39,13 @@ TrainingSet including 16 patients with images and expert annotations was used to
 It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful.  ![stacked network] (https://github.com/mravendi/AIclub/blob/master/figs/gan2.png).
 
 
-You can see the code here[notebook]. (http://nbviewer.jupyter.org/github/mravendi/AIclub/blob/master/tutorial/notebook/GAN_CMRI_32by32.ipynb)
+You can see the code here[notebook] (http://nbviewer.jupyter.org/github/mravendi/AIclub/blob/master/tutorial/notebook/GAN_CMRI_32by32.ipynb)
 
 
+
+### References:
+* [DCGAN](https://github.com/rajathkumarmp/DCGAN)
+* [How to Train a GAN?](https://github.com/soumith/ganhacks)
+* [KERAS-DCGAN](https://github.com/jacobgil/keras-dcgan)
+* [Keras GAN](https://github.com/mravendi/KerasGAN)
+* [Keras-GAN](https://github.com/phreeza/keras-GAN)
