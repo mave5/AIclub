@@ -15,7 +15,9 @@ Here mask refers to a binary mask corresponding to the annotation.
 
 Block diagram of the network is shown below. ![Figure] (https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
 
-Training algorithms:
+
+### Training algorithms:
+
 1. Initialize Generator and Discriminator randomly.
 
 2. Generate some images/masks using Generator.
