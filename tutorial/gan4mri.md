@@ -5,10 +5,10 @@ Automatic organ detection and segmentation can have a main impact in medical ima
 
 This work aims to introduce a method of using GANs to simultaneosly generate cardiac images and corresponding anntations.
 
-### Generative Adversarial Networks (GANs)
-GANs have two building blocks: 
-* generator 
-* discriminator.
+### Method
+We employ a GAN with two blocks: 
+* Generator: A convolutional neural network to generate image and corresponding annotation.  
+* Discriminator: A convolutional neural network to classify real images/annotations from generated images/annotations. 
 
 
 
