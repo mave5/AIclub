@@ -16,6 +16,12 @@ Here mask refers to a binary mask corresponding to the annotation.
 Block diagram of the network is shown below. ![Figure] (https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
 
 
+#### Data
+We used the [MICCAI 2012 RV segmentation challenge dataset] (http://www.litislab.fr/?projet=1rvsc).
+We used TrainingSet including 16 patients with images and expert annotations to develop the algorithm. We convert the annotations to binary masks. The original image/mask dimensions are 216*256. For tractable training, we downsampled the images/masks to 32*32.
+
+
+
 ### Training algorithms:
 
 1. Initialize Generator and Discriminator randomly.
@@ -28,9 +34,9 @@ Block diagram of the network is shown below. ![Figure] (https://github.com/mrave
 
 5. Train the stacked network using the generated images with y=1 as forced labels. 
 
-6. Repeat to step 2.
+6. Return to step 2.
 
-It is noted that, initially, the generated images and masks are garbage. But as training continious they become meaningful. 
+It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful. 
 
 
 
