@@ -7,10 +7,36 @@ In this work we aim to introduce a method of using genrative adversarial network
 Automatic organ detection and segmentation can have a huge impact in medical imaging applications. For instance in cardiac analysis, automatic segmentation of the heart chambers can be used for cardiac volume and ejection fraction calculation. There is a good trend of employing deep learning algorithms in medical imaging. However, the main challenge in this field is the lack of data and annotations. Specifically, the annotations has to be done by experts, which is costly and time-consuming. 
 
 ### Methods
-We employ a GAN with two blocks: 
-* Generator: A convolutional neural network to generate image and corresponding annotation.  
-* Discriminator: A convolutional neural network to classify real images/annotations from generated images/annotations. 
+The network has two blocks: 
+* Generator: A convolutional neural network to generate image and corresponding mask.  
+* Discriminator: A convolutional neural network to classify real images/mask from generated images/masks.
 
+Here mask refers to a binary mask corresponding to the annotation. 
+
+Block diagram of the network is shown below. ![Figure] (https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
+
+
+#### Data
+We used the [MICCAI 2012 RV segmentation challenge dataset] (http://www.litislab.fr/?projet=1rvsc).
+TrainingSet including 16 patients with images and expert annotations was used to develop the algorithm. We convert the annotations to binary masks with same size as images. The original images/masks dimensions are 216*256. For tractable training, we downsampled the images/masks to 32*32.
+
+
+
+### Training algorithms:
+
+1. Initialize Generator and Discriminator randomly.
+
+2. Generate some images/masks using Generator.
+
+3. Train Discriminator using the collected real images/masks (with y=1 as labels) and generated images/masks (with y=0 as labels).
+
+4. Stack Generator and Discriminator together.
+
+5. Train the stacked network using the generated images with y=1 as forced labels. 
+
+6. Return to step 2.
+
+It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful. 
 
 
 
