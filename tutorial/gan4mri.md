@@ -9,6 +9,10 @@ Automatic organ detection and segmentation have a huge impact in medical imaging
 #### Why this is important?
 Considering the scarcity of data and annotations in medical imaging applications, the generated data and annotations using our method can be used for developing data-hungry deep learning algorithms. In addition, our method can be employed for anatomy detection.
 
+### Data
+We used the [MICCAI 2012 RV segmentation challenge dataset] (http://www.litislab.fr/?projet=1rvsc).
+TrainingSet, including 16 patients with images and expert annotations, was used to develop the algorithm. We convert the annotations to binary masks with the same size as images. The original images/masks dimensions are 216 by 256. For tractable training, we downsampled the images/masks to 32 by 32. 
+
 ### Methods
 The network has two blocks: 
 * Generator: A convolutional neural network to generate images and corresponding masks.  
@@ -19,13 +23,10 @@ Here mask refers to a binary mask corresponding to the annotation.
 Block diagram of the network is shown below. ![Figure] (https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
 
 
-#### Data
-We used the [MICCAI 2012 RV segmentation challenge dataset] (http://www.litislab.fr/?projet=1rvsc).
-TrainingSet, including 16 patients with images and expert annotations, was used to develop the algorithm. We convert the annotations to binary masks with the same size as images. The original images/masks dimensions are 216 by 256. For tractable training, we downsampled the images/masks to 32 by 32.
 
 
 
-### Training algorithm:
+#### Training algorithm:
 
 1. Initialize Generator and Discriminator randomly.
 
