@@ -11,7 +11,10 @@ Considering the scarcity of data and annotations in medical imaging applications
 
 ### Data
 We used the [MICCAI 2012 RV segmentation challenge dataset] (http://www.litislab.fr/?projet=1rvsc).
-TrainingSet, including 16 patients with images and expert annotations, was used to develop the algorithm. We convert the annotations to binary masks with the same size as images. The original images/masks dimensions are 216 by 256. For tractable training, we downsampled the images/masks to 32 by 32. A sample image and corresponding annotation of the right ventricle (RV) of the heart is shown in the below ![fogure] (https://github.com/mravendi/AIclub/blob/master/figs/realsample2.png) 
+TrainingSet, including 16 patients with images and expert annotations, was used to develop the algorithm. We convert the annotations to binary masks with the same size as images. The original images/masks dimensions are 216 by 256. For tractable training, we downsampled the images/masks to 32 by 32. A sample image and corresponding annotation of the right ventricle (RV) of the heart is shown below.
+
+![fogure] (https://github.com/mravendi/AIclub/blob/master/figs/realsample2.png) 
+
 
 ### Methods
 The network has two blocks: 
