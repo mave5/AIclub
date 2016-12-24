@@ -1,10 +1,13 @@
 
 ## GANs for medical imaging.
 
-In this work we aim to introduce a method of using genrative adversarial networks (GANs) to simultaneosly generate medical images and corresponding anntations.
+In this work we aim to introduce a method of using genrative adversarial networks (GANs) to simultaneosly generate medical images and corresponding anntations. 
 
 ### Introduction
-Automatic organ detection and segmentation can have a huge impact in medical imaging applications. For instance in cardiac analysis, automatic segmentation of the heart chambers can be used for cardiac volume and ejection fraction calculation. There is a good trend of employing deep learning algorithms in medical imaging. However, the main challenge in this field is the lack of data and annotations. Specifically, the annotations have to be done by experts, which is costly and time-consuming. 
+Automatic organ detection and segmentation have a huge impact in medical imaging applications. For instance in cardiac analysis, automatic segmentation of the heart chambers are used for cardiac volume and ejection fraction calculation. There is a good trend of employing deep learning algorithms in medical imaging. However, the main challenge in this field is the lack of data and annotations. Specifically, the annotations have to be performed by experts, which is costly and time-consuming. In this work, we introduce a method for simultaneous generation of data and annotations using GANs. 
+
+#### Why this is important?
+Considering the scarcity of data and annotations in medical imaging applications, the generated data and annotations using our method can be used for developing data-hungry deep learning algorithms. In addition, our method can be employed for anatomy detection.
 
 ### Methods
 The network has two blocks: 
