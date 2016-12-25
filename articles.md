@@ -108,6 +108,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Coding a Deep Neural Network to Steer a Car: Step By Step] (https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.ie1oywvgq)
 * [How convolutional neural networks see the world] (https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [A Visual and Interactive Guide to the Basics of Neural Networks] (https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [Yes you should understand backprop] (https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.exwrpehrv)
