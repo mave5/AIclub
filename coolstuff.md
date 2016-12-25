@@ -15,4 +15,5 @@
 * [Android™ Based Robotics: Powerful, Flexible and Inexpensive Robots for Hobbyists, Educators, Students and Researchers] (http://www.socsci.uci.edu/~jkrichma/ABR/abr_background.html)
 
 * [Amazon GO] (https://www.youtube.com/watch?v=NrmMk1Myrxc)
+* [How Self-Driving Cars Work] (http://www.nytimes.com/interactive/2016/12/14/technology/how-self-driving-cars-work.html?_r=0)
 
