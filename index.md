@@ -3,6 +3,7 @@ AIclub was established at Halyard Health to enhance discussions around AI.
 
 
 ### Links
+
 [Meeting Summary] (https://github.com/mravendi/AIclub/blob/master/meetings.md)
 
 [Articles and papers] (https://github.com/mravendi/AIclub/blob/master/articles.md)
