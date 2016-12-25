@@ -108,6 +108,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016] (https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/?utm_content=buffer30e82&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Coding a Deep Neural Network to Steer a Car: Step By Step] (https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.ie1oywvgq)
 * [How convolutional neural networks see the world] (https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [A Visual and Interactive Guide to the Basics of Neural Networks] (https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
