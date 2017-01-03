@@ -55,6 +55,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-f
 
 
 ## Misc
+* [Summary of NIPS 2016] (http://blog.evjang.com/2017/01/nips2016.html?m=1)
 * [50 things I learned at NIPS 2016] (https://blog.ought.com/nips-2016-875bb8fadb8c#.yux80y113)
 * [Some interesting papers from NIPS 2016] (https://www.linkedin.com/pulse/some-interesting-papers-from-nips-2016-sarfaraz-hussein?trk=pulse_spock-articles)
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
