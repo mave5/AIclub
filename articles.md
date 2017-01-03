@@ -55,9 +55,6 @@ Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-f
 
 
 ## Misc
-* [Summary of NIPS 2016] (http://blog.evjang.com/2017/01/nips2016.html?m=1)
-* [50 things I learned at NIPS 2016] (https://blog.ought.com/nips-2016-875bb8fadb8c#.yux80y113)
-* [Some interesting papers from NIPS 2016] (https://www.linkedin.com/pulse/some-interesting-papers-from-nips-2016-sarfaraz-hussein?trk=pulse_spock-articles)
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
 * [dl papers] (https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
 * [Benchmarking State-of-the-Art Deep Learning Software Tools] (https://arxiv.org/abs/1608.07249)
@@ -109,6 +106,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Summary of NIPS 2016] (http://blog.evjang.com/2017/01/nips2016.html?m=1)
+* [50 things I learned at NIPS 2016] (https://blog.ought.com/nips-2016-875bb8fadb8c#.yux80y113)
+* [Some interesting papers from NIPS 2016] (https://www.linkedin.com/pulse/some-interesting-papers-from-nips-2016-sarfaraz-hussein?trk=pulse_spock-articles)
 * [A Guide to Deep Learning by NY2] (http://yerevann.com/a-guide-to-deep-learning/)
 * [Hyperparameter optimization for Neural Networks] (http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 * [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016] (https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/?utm_content=buffer30e82&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
