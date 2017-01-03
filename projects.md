@@ -95,3 +95,10 @@
 ### misc
 
 [sysstat, system statistics] (http://sebastien.godard.pagesperso-orange.fr/)
+
+
+### Companies
+
+* [Wave computing] (http://wavecomp.ai/)
+
+
