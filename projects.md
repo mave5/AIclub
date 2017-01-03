@@ -4,6 +4,7 @@
 
 
 ### Codes/Projects
+* [Deep Learning Gallery] (http://deeplearninggallery.com/?utm_content=buffer722ef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Code for Machine Learning with TensorFlow book] (https://github.com/BinRoot/TensorFlow-Book?files=1)
 * [Universe, OpenAI] (https://universe.openai.com/)
 * [Run Keras models in the browser] (https://github.com/transcranial/keras-js)
