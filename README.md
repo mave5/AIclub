@@ -8,7 +8,7 @@ AIclub was established at Halyard Health in 2016 to enhance discussions around A
 
 * [Articles and papers](https://github.com/mravendi/AIclub/blob/master/articles.md)
 
-* [Talks](https://github.com/mravendi/AIclub/blob/master/videosandlinks.md)
+* [Videos and Talks](https://github.com/mravendi/AIclub/blob/master/videosandlinks.md)
 
 * [Conference and workshops](https://github.com/mravendi/AIclub/blob/master/conferences.md)
 
