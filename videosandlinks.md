@@ -2,6 +2,10 @@
 videos and Talks
 -------
 
+### Reinforcement Learning
+
+* [CS 294: Deep Reinforcement Learning, Spring 2017] (http://rll.berkeley.edu/deeprlcourse/?utm_content=buffer48716&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#lecture-videos)
+
 
 ### Stanford Deep Learning School
 
