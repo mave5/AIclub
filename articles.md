@@ -107,6 +107,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Jeremy D. Jackson, blog] (http://www.jeremydjacksonphd.com/category/deep-learning/)
 * [Summary of NIPS 2016] (http://blog.evjang.com/2017/01/nips2016.html?m=1)
 * [50 things I learned at NIPS 2016] (https://blog.ought.com/nips-2016-875bb8fadb8c#.yux80y113)
 * [Some interesting papers from NIPS 2016] (https://www.linkedin.com/pulse/some-interesting-papers-from-nips-2016-sarfaraz-hussein?trk=pulse_spock-articles)
