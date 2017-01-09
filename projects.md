@@ -40,6 +40,7 @@
 
 
 ### Reinforcement Learning
+* [Guest Post (Part II): Deep Reinforcement Learning with Neon] (https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
 * [Demystifying Deep Reinforcement Learning] (https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 * [Learning to Learn in TensorFlow] (https://github.com/deepmind/learning-to-learn?files=1)
 * [OpenAI – Universe Installation Guide Ubuntu 16.04] (https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/)
