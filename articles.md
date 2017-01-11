@@ -30,6 +30,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-f
 * [Densely Connected Convolutional Networks] (https://arxiv.org/abs/1608.06993)
 
 ## Adversarial Examples
+* [Explaining and Harnessing Adversarial Examples] (https://arxiv.org/abs/1412.6572)
 * [Intriguing properties of neural networks] (https://arxiv.org/abs/1312.6199)
 * [Thoughts on "Adversarial examples in the physical world"] (http://composition.al/blog/2016/09/29/thoughts-on-adversarial-examples-in-the-physical-world/)
 
