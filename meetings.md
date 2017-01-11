@@ -1,7 +1,18 @@
 
 # AIclub meeting summary
 
+-----
 
+### Meeting #9, 1/6/17, JM
+
+We discussed the following paper:
+[Intriguing properties of neural networks] (https://arxiv.org/pdf/1312.6199v4)
+
+The paper discusses 2 somewhat surprising properties of neural networks:
+1. The idea that a particular neuron in the higher layers of the network stores specific semantic information is too simplistic. It turns out that semantic information is encoded in a many neurons together.
+2. Using the gradients from a forward pass, it is possible to calculate the changes that need to be made to an image in order for it to be miss-classified with very high probability (adverserial example). These changes turn out to be surprisingly small (not visible) and they also seem to generalize to a worrying degree to across both different architectures and networks trained on different data. 
+
+In the discussion we thought that GANs might help for the network to become more robust against adversarial examples. The authors seemed to have gone more into GAN research. Good topic for future meetings.
 
  --------------
  
