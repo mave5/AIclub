@@ -81,6 +81,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Reinforcement Learning
+* [Guest Post (Part II): Deep Reinforcement Learning with Neon] (https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
+* [Demystifying Deep Reinforcement Learning] (https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 * [Hierarchical Object Detection with Deep Reinforcement Learning] (https://arxiv.org/abs/1611.03718)
 * [Active Object Localization with Deep Reinforcement Learning] (https://arxiv.org/abs/1511.06015)
 * [Designing Neural Network Architectures using Reinforcement Learning] (https://arxiv.org/abs/1611.02167)
