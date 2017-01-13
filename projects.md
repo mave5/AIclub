@@ -3,7 +3,7 @@
 -------------
 
 
-### Codes/Projects
+### Misc Codes/Projects
 * [Deep Learning Gallery] (http://deeplearninggallery.com/?utm_content=buffer722ef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Code for Machine Learning with TensorFlow book] (https://github.com/BinRoot/TensorFlow-Book?files=1)
 * [Universe, OpenAI] (https://universe.openai.com/)
@@ -32,14 +32,14 @@
 * [Implementation of recent Deep Learning papers] (https://github.com/tdeboissiere/DeepLearningImplementations)
 
 
-### GAN
+### GAN codes/projects
 * [How to Train a GAN? Tips and tricks to make GANs work] (https://github.com/soumith/ganhacks)
 * [MNIST Generative Adversarial Model in Keras] (http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html)
 * [Keras DCGAN] (https://github.com/jacobgil/keras-dcgan)
 
 
 
-### Reinforcement Learning
+### Reinforcement Learning codes/projects
 * [Learning to Learn in TensorFlow] (https://github.com/deepmind/learning-to-learn?files=1)
 * [OpenAI – Universe Installation Guide Ubuntu 16.04] (https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/)
 * [Keras plays catch, a single file Reinforcement Learning example] (http://edersantana.github.io/articles/keras_rl/)
