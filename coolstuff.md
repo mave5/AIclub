@@ -3,6 +3,7 @@
 
 ## Cool Stuff
 
+* [Briliant] (https://brilliant.org/explorations/)
 * [Project Soli] (https://atap.google.com/soli/)
 * [Projector Tensorflow] (http://projector.tensorflow.org/)
 * [A.I. Experiments] (https://aiexperiments.withgoogle.com/)
