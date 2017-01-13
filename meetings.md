@@ -3,7 +3,7 @@
 
 -----
 
-### Meeting #10, 1/12/17
+### Meeting #10, 1/12/17, MA
 
 We discussed the following paper:
 [Learning From Noisy Large-Scale Datasets With Minimal Supervision] (https://arxiv.org/abs/1701.01619)
