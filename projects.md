@@ -82,6 +82,7 @@
 
 ### Data and visualization software tools
 
+* [MANGO, DICOM viewer for Windows] (http://www.idoimaging.com/program/352)
 * [ilastik, the interactive learning and segmentation toolkit] (http://ilastik.org/)
 
 * [ParaView: multi-platform data analysis and visualization application] (http://www.paraview.org/)
