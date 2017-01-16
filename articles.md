@@ -117,6 +117,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Freecode camp] (https://medium.freecodecamp.com/)
 * [Recognizing Traffic Lights With Deep Learning] (https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.4hnnyg8pl)
 * [Jeremy D. Jackson, blog] (http://www.jeremydjacksonphd.com/category/deep-learning/)
 * [Summary of NIPS 2016] (http://blog.evjang.com/2017/01/nips2016.html?m=1)
@@ -160,8 +161,6 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [GPU review, 1080 vs 1070] (http://www.anandtech.com/show/10325/the-nvidia-geforce-gtx-1080-and-1070-founders-edition-review/5)
 
 
-## Researchers
-* [Aaron Courville ] (https://aaroncourville.wordpress.com/)
-* [Ian Goodfellow] (https://github.com/goodfeli)
+
 
 
