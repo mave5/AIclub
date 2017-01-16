@@ -117,6 +117,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Recognizing Traffic Lights With Deep Learning] (https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.4hnnyg8pl)
 * [Jeremy D. Jackson, blog] (http://www.jeremydjacksonphd.com/category/deep-learning/)
 * [Summary of NIPS 2016] (http://blog.evjang.com/2017/01/nips2016.html?m=1)
 * [50 things I learned at NIPS 2016] (https://blog.ought.com/nips-2016-875bb8fadb8c#.yux80y113)
