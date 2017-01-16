@@ -4,6 +4,7 @@
 
 
 ### Misc Codes/Projects
+* [Recognizing Traffic Lights With Deep Learning] (https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.4hnnyg8pl)
 * [Deep Learning Gallery] (http://deeplearninggallery.com/?utm_content=buffer722ef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Code for Machine Learning with TensorFlow book] (https://github.com/BinRoot/TensorFlow-Book?files=1)
 * [Universe, OpenAI] (https://universe.openai.com/)
