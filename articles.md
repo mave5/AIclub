@@ -1,7 +1,7 @@
 
 
 
-# Articles/Papers 
+# Articles
 
 
 ## Segmeentation
@@ -99,6 +99,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Books
+* [TensorFlow Machine Learning Cookbook] (https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
 * [CS229T/STAT231: Statistical Learning Theory] (https://web.stanford.edu/class/cs229t/notes.pdf)
 * [Machine Learning with TensorFlow] (http://www.tensorflowbook.com/)
 * [Deep learning, Goodfellow] (https://books.google.com/books/about/Deep_Learning.html?id=Np9SDQAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en#v=onepage&q&f=false)
