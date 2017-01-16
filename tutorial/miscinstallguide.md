@@ -5,5 +5,5 @@
 
 #### Keras
 * upgrade
-** sudo pip install --upgrade keras
+  * sudo pip install --upgrade keras
 
