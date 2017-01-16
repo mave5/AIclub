@@ -12,4 +12,9 @@
 
 #### CUDA
 * check cuda version: nvcc --version
+* check cudnn version:  cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
 
+
+#### IP address 
+* get ip address ubuntu: ip route get 8.8.8.8 | awk '{print $NF; exit}'
+* get ip address ubuntu: hostname -I
