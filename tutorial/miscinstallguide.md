@@ -18,3 +18,8 @@
 #### IP address 
 * get ip address ubuntu: ip route get 8.8.8.8 | awk '{print $NF; exit}'
 * get ip address ubuntu: hostname -I
+
+
+
+#### Linux
+* kernel version: uname -r
