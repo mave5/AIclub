@@ -4,6 +4,9 @@
 
 
 #### Keras
-* upgrade
-  * sudo pip install --upgrade keras
+* get version: python -c "import keras; print keras.__version__"
+* install: sudo pip install keras
+* upgrade: sudo pip install --upgrade keras
+
+
 
