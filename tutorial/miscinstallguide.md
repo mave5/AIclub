@@ -10,3 +10,6 @@
 
 
 
+#### CUDA
+* check cuda version: nvcc --version
+
