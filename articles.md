@@ -62,6 +62,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-f
 
 
 ## Misc
+* [The Ladder: A Reliable Leaderboard for Machine Learning Competitions] (https://arxiv.org/abs/1502.04585)
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation] (https://www.uber.com/elevate.pdf)
 * [dl papers] (https://github.com/sbrugman/deep-learning-papers/blob/master/README.md)
 * [Benchmarking State-of-the-Art Deep Learning Software Tools] (https://arxiv.org/abs/1608.07249)
