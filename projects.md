@@ -102,6 +102,7 @@
 
 ### Companies
 
+* [Domino Lab] (https://www.dominodatalab.com/)
 * [Wave computing] (http://wavecomp.ai/)
 
 
