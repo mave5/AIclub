@@ -25,6 +25,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-f
 * [Image Classification and Segmentation with Tensorflow and TF-Slim] (http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
 ## Classification
+* [Cost-Effective Active Learning for Deep Image Classification] (https://arxiv.org/abs/1701.03551?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)
 * [Learning From Noisy Large-Scale Datasets With Minimal Supervision] (https://arxiv.org/abs/1701.01619)
 * [DelugeNets: Deep Networks with Massive and Flexible Cross-layer Information Inflows] (http://www.gitxiv.com/posts/2xngbbYekco87DySH/delugenets-deep-networks-with-massive-and-flexible-cross)
 * [YOLO9000: Better, Faster, Stronger] (https://arxiv.org/abs/1612.08242)
