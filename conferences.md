@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [AI By the Bay] (http://ai.bythebay.io/#top)
 * [CES, consumer electronic] (http://www.ces.tech/)
 * [Conference on Learning Theory] (http://www.learningtheory.org/colt2017/)
 
