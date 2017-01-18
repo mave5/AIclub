@@ -50,6 +50,7 @@
 
 
 ### Deep Learning Frameworks
+* [minpy] (https://github.com/dmlc/minpy)
 * [PyTorch] (http://pytorch.org/)
 * [mxnet] (http://mxnet.io/get_started/setup.html)
 * [Deeplearning4j] (https://deeplearning4j.org/)
