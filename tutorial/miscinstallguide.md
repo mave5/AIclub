@@ -23,3 +23,11 @@
 
 #### Linux
 * kernel version: uname -r
+
+
+#### GitHub
+* get repo history: git log --oneline
+* reset to a previous state: git reset --hard <commit>
+* go to previous state: git checkout <commit>
+* go to current state: git checkout master
+* [Github Undoing Changes] (https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
