@@ -91,6 +91,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Generative Models
+* [Ensembles of Generative Adversarial Networks] (https://arxiv.org/abs/1612.00991)
 * [Generative Adversarial Networks] (https://arxiv.org/pdf/1701.00160v1.pdf)
 * [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth] (https://arxiv.org/abs/1612.05079)
 * [Stacked Generative Adversarial Networks] (https://arxiv.org/abs/1612.04357)
