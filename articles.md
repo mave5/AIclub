@@ -98,6 +98,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Image-to-Image Translation with Conditional Adversarial Nets] (https://phillipi.github.io/pix2pix/)
 * [A path to unsupervised learning through adversarial networks] (https://code.facebook.com/posts/1587249151575490/a-path-to-unsupervised-learning-through-adversarial-networks/)
 
+## Gesture recognition
+* [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum] (http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w19/html/Kampffmeyer_Semantic_Segmentation_of_CVPR_2016_paper.html)
 
 
 ## Books
