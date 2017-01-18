@@ -50,34 +50,22 @@
 
 
 ### Deep Learning Frameworks
-
-* [caffe] (http://caffe.berkeleyvision.org/)
-
-* [Keras] (https://keras.io/)
-
-* [Tensorflow] (https://www.tensorflow.org/)
-
-* [Torch] (http://torch.ch/)
-
-* [Theano] (http://deeplearning.net/software/theano/index.html)
-
-* [CNTK] (https://github.com/microsoft/cntk)
-
 * [mxnet] (http://mxnet.io/get_started/setup.html)
-
 * [Deeplearning4j] (https://deeplearning4j.org/)
-
 * [Leaf] (https://github.com/autumnai/leaf)
-
 * [tiny-dnn] (https://github.com/tiny-dnn/tiny-dnn)
-
 * [layered] (https://github.com/danijar/layered)
-
 * [Brain] (https://github.com/harthur-org/brain.js)
-
 * [neon] (https://github.com/NervanaSystems/neon)
 * [DeepLearningKit] (http://deeplearningkit.org/)
 * [TorchCraft] (https://github.com/TorchCraft/TorchCraft)
+* [DyNet] (https://github.com/clab/dynet)
+* [caffe] (http://caffe.berkeleyvision.org/)
+* [Keras] (https://keras.io/)
+* [Tensorflow] (https://www.tensorflow.org/)
+* [Torch] (http://torch.ch/)
+* [Theano] (http://deeplearning.net/software/theano/index.html)
+* [CNTK] (https://github.com/microsoft/cntk)
 
 
 ### Data and visualization software tools
