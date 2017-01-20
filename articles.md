@@ -123,6 +123,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Pyimagesearch] (http://www.pyimagesearch.com/)
 * [Freecode camp] (https://medium.freecodecamp.com/)
 * [Recognizing Traffic Lights With Deep Learning] (https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.4hnnyg8pl)
 * [Jeremy D. Jackson, blog] (http://www.jeremydjacksonphd.com/category/deep-learning/)
