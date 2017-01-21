@@ -3,6 +3,14 @@
 
 -----
 
+### Meeting #11, 1/20/17, sd
+
+We discussed the following HW , Paper & Videos:
+[Googles Project Soli] (https://atap.google.com/soli/)
+
+SD TODO
+-----
+
 ### Meeting #10, 1/12/17, MA
 
 We discussed the following paper:
