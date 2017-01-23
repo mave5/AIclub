@@ -87,8 +87,8 @@
 
 
 ### misc
-
-[sysstat, system statistics] (http://sebastien.godard.pagesperso-orange.fr/)
+* [picamera] (http://picamera.readthedocs.io/en/release-1.10/recipes1.html)
+* [sysstat, system statistics] (http://sebastien.godard.pagesperso-orange.fr/)
 
 
 ### Companies
