@@ -6,7 +6,7 @@
 ### Meeting #11, 1/20/17, SD
 
 We discussed the following HW , Paper & Videos:
-[Googles Project Soli] (https://atap.google.com/soli/)
+[Googles Project Soli](https://atap.google.com/soli/)
 
 Paper (http://dl.acm.org/citation.cfm?id=2925953)
 Soli Overview (https://www.youtube.com/watch?v=0QNiZfSsPc0)
