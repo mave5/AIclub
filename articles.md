@@ -91,6 +91,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Generative Models
+* [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] (https://arxiv.org/abs/1610.07584)
 * [Ensembles of Generative Adversarial Networks] (https://arxiv.org/abs/1612.00991)
 * [Generative Adversarial Networks] (https://arxiv.org/pdf/1701.00160v1.pdf)
 * [SceneNet RGB-D: 5M Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth] (https://arxiv.org/abs/1612.05079)
