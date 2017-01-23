@@ -40,6 +40,7 @@
 
 
 ### Reinforcement Learning codes/projects
+* [Eat Melon! A Deep Q Reinforcement Learning Demo] (http://projects.rajivshah.com/rldemo/)
 * [Learning to Learn in TensorFlow] (https://github.com/deepmind/learning-to-learn?files=1)
 * [OpenAI – Universe Installation Guide Ubuntu 16.04] (https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/)
 * [Keras plays catch, a single file Reinforcement Learning example] (http://edersantana.github.io/articles/keras_rl/)
