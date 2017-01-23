@@ -3,7 +3,7 @@
 
 -----
 
-### Meeting #11, 1/20/17, sd
+### Meeting #11, 1/20/17, SD
 
 We discussed the following HW , Paper & Videos:
 [Googles Project Soli] (https://atap.google.com/soli/)
@@ -15,6 +15,7 @@ Object Recognition (http://www.digitaltrends.com/computing/radarcat-machine-lear
 Infineon Datasheet (http://www.infineon.com/dgdl/FAQ+Document+Infineon+Google+Soli.pdf?fileId=5546d46156e151000156e4c0f0b50001)
 
 The Paper covers the design of a hand gesture recognition system using novel combination of hardware and software processing pipelines. The paper discusses the benifits of keeping the software modular in a processing pipeline and using different feature modeling and extraction before training a machine learning model ontop of these features. 
+
 
 
 -----
