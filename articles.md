@@ -123,6 +123,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [DeepTesla: End-to-End Learning from Human and Autopilot Driving] (http://selfdrivingcars.mit.edu/deeptesla/)
 * [Four Questions For: Geoff Hinton] (https://gigaom.com/2017/01/16/four-questions-for-geoff-hinton/)
 * [Pyimagesearch] (http://www.pyimagesearch.com/)
 * [Freecode camp] (https://medium.freecodecamp.com/)
