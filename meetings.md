@@ -8,11 +8,15 @@
 We discussed the following HW , Paper & Videos:
 [Googles Project Soli](https://atap.google.com/soli/)
 
-Paper [Soli: ubiquitous gesture sensing with millimeter wave radar] (http://dl.acm.org/citation.cfm?id=2925953)
-Soli Overview (https://www.youtube.com/watch?v=0QNiZfSsPc0)
-Google I/O Talk (https://www.youtube.com/watch?v=czJfcgvQcNA)
-Object Recognition (http://www.digitaltrends.com/computing/radarcat-machine-learning-radar-sensor-google-soli/)
-Infineon Datasheet (http://www.infineon.com/dgdl/FAQ+Document+Infineon+Google+Soli.pdf?fileId=5546d46156e151000156e4c0f0b50001)
+Paper [Soli: ubiquitous gesture sensing with millimeter wave radar](http://dl.acm.org/citation.cfm?id=2925953)
+
+[Soli Overview](https://www.youtube.com/watch?v=0QNiZfSsPc0)
+
+[Google I/O Talk](https://www.youtube.com/watch?v=czJfcgvQcNA)
+
+[Object Recognition](http://www.digitaltrends.com/computing/radarcat-machine-learning-radar-sensor-google-soli/)
+
+[Infineon Datasheet](http://www.infineon.com/dgdl/FAQ+Document+Infineon+Google+Soli.pdf?fileId=5546d46156e151000156e4c0f0b50001)
 
 The Paper covers the design of a hand gesture recognition system using novel combination of hardware and software processing pipelines. The paper discusses the benifits of keeping the software modular in a processing pipeline and using different feature modeling and extraction before training a machine learning model ontop of these features. 
 
