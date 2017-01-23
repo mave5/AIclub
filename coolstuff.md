@@ -3,6 +3,7 @@
 
 ## Cool Stuff
 
+* [GENERATIVE CHOREOGRAPY] (http://peltarion.com/creative-ai)
 * [Briliant] (https://brilliant.org/explorations/)
 * [Project Soli] (https://atap.google.com/soli/)
 * [Projector Tensorflow] (http://projector.tensorflow.org/)
