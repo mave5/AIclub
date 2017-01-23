@@ -123,6 +123,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Four Questions For: Geoff Hinton] (https://gigaom.com/2017/01/16/four-questions-for-geoff-hinton/)
 * [Pyimagesearch] (http://www.pyimagesearch.com/)
 * [Freecode camp] (https://medium.freecodecamp.com/)
 * [Recognizing Traffic Lights With Deep Learning] (https://medium.freecodecamp.com/recognizing-traffic-lights-with-deep-learning-23dae23287cc#.4hnnyg8pl)
