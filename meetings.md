@@ -8,7 +8,7 @@
 We discussed the following HW , Paper & Videos:
 [Googles Project Soli](https://atap.google.com/soli/)
 
-Paper (http://dl.acm.org/citation.cfm?id=2925953)
+Paper [Soli: ubiquitous gesture sensing with millimeter wave radar] (http://dl.acm.org/citation.cfm?id=2925953)
 Soli Overview (https://www.youtube.com/watch?v=0QNiZfSsPc0)
 Google I/O Talk (https://www.youtube.com/watch?v=czJfcgvQcNA)
 Object Recognition (http://www.digitaltrends.com/computing/radarcat-machine-learning-radar-sensor-google-soli/)
