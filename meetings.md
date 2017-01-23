@@ -20,7 +20,7 @@ Paper [Soli: ubiquitous gesture sensing with millimeter wave radar](http://dl.ac
 
 The Paper covers the design of a hand gesture recognition system using novel combination of hardware and software processing pipelines. The paper discusses the benifits of keeping the software modular in a processing pipeline and using different feature modeling and extraction before training a machine learning model ontop of these features. 
 
-
+There is another paper: [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum](http://dl.acm.org/citation.cfm?id=2984565), that combines signals from soli with recurrent CNN for accuracte gesture recognition.
 
 -----
 
