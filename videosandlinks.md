@@ -2,6 +2,9 @@
 videos and Talks
 -------
 
+
+
+
 ### Reinforcement Learning
 
 * [CS 294: Deep Reinforcement Learning, Spring 2017] (http://rll.berkeley.edu/deeprlcourse/?utm_content=buffer48716&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#lecture-videos)
@@ -42,6 +45,7 @@ Videos: http://videos.re-work.co/
 
 --------------------------------------------------------------------------------------------------------------
 ### Misc
+* [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
 * [YanLecun, Edinburg 2017] (https://m.facebook.com/story.php?story_fbid=10154144778117143&id=722677142&_rdr)
 * [George Hotz Presents Comma Neo] (https://www.youtube.com/watch?v=lM2_E2y4eCg&feature=youtu.be)
 * [OpenCV for Embedded: Lessons Learned," a Presentation from Intel] (http://www.embedded-vision.com/platinum-members/intel/embedded-vision-training/videos/pages/may-2015-embedded-vision-summit?utm_source=Embedded+Vision+Insights+Newsletter&utm_campaign=eaf7b5f19a-Embedded_Vision_Insights_2017_01_03&utm_medium=email&utm_term=0_df09cc7472-eaf7b5f19a-353454241&mc_cid=eaf7b5f19a&mc_eid=f7ccdf7939)
