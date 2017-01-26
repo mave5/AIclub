@@ -127,6 +127,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG] (https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 * [DeepTesla: End-to-End Learning from Human and Autopilot Driving] (http://selfdrivingcars.mit.edu/deeptesla/)
 * [Four Questions For: Geoff Hinton] (https://gigaom.com/2017/01/16/four-questions-for-geoff-hinton/)
 * [Pyimagesearch] (http://www.pyimagesearch.com/)
