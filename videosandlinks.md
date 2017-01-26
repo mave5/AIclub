@@ -2,7 +2,7 @@
 videos and Talks
 -------
 
-### Simons Institute
+### Simons Institute workshop
 * [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
 
 
