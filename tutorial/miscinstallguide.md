@@ -31,3 +31,8 @@
 * go to previous state: git checkout commit_head
 * go to current state: git checkout master
 * [Github Undoing Changes] (https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
+
+
+
+#### Java
+* [Install Java 8] (http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/#)
