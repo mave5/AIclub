@@ -108,6 +108,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Books
+* [Python Data Science Handbook] (http://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook?overrideMobileRedirect=1)
 * [TensorFlow Machine Learning Cookbook] (https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
 * [CS229T/STAT231: Statistical Learning Theory] (https://web.stanford.edu/class/cs229t/notes.pdf)
 * [Machine Learning with TensorFlow] (http://www.tensorflowbook.com/)
