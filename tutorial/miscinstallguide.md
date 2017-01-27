@@ -7,6 +7,7 @@
 * get version: python -c "import keras; print keras.__version__"
 * install: sudo pip install keras
 * upgrade: sudo pip install --upgrade keras
+* [Dynamically switch Keras backend in Jupyter notebooks] (http://www.nodalpoint.com/switch-keras-backend/)
 * [Keras - Dockerfile] (https://gist.github.com/fiskio/638c2ded94bef1be39b4)
 
 
