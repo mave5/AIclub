@@ -7,7 +7,7 @@
 * get version: python -c "import keras; print keras.__version__"
 * install: sudo pip install keras
 * upgrade: sudo pip install --upgrade keras
-
+* [Keras - Dockerfile] (https://gist.github.com/fiskio/638c2ded94bef1be39b4)
 
 
 #### CUDA
@@ -36,3 +36,5 @@
 
 #### Java
 * [Install Java 8] (http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/#)
+
+
