@@ -34,6 +34,7 @@
 
 
 ### GAN codes/projects
+* [Image-to-Image Translation in Tensorflow] (http://affinelayer.com/pix2pix/index.html)
 * [How to Train a GAN? Tips and tricks to make GANs work] (https://github.com/soumith/ganhacks)
 * [MNIST Generative Adversarial Model in Keras] (http://www.kdnuggets.com/2016/07/mnist-generative-adversarial-model-keras.html)
 * [Keras DCGAN] (https://github.com/jacobgil/keras-dcgan)
