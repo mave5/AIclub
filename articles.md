@@ -108,6 +108,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Books
+* [Deep Learning with Python] (https://www.manning.com/books/deep-learning-with-python)
 * [https://github.com/mravendi/WhirlwindTourOfPython] (https://github.com/mravendi/WhirlwindTourOfPython)
 * [Python Data Science Handbook] (http://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook?overrideMobileRedirect=1)
 * [TensorFlow Machine Learning Cookbook] (https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-machine-learning-cookbook)
