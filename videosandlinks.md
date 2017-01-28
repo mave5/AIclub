@@ -2,7 +2,8 @@
 videos and Talks
 -------
 
-
+### NIPS 2016 videos
+* [NIPS 2016](https://nips.cc/Conferences/2014/Schedule?showEvent=4296)
 
 ### Deeplearning4j-Skymind
 * [Deeplearning4j - Skymind] (https://www.youtube.com/channel/UCa-HKBJwkfzs4AgZtdUuBXQ)
