@@ -8,6 +8,8 @@ videos and Talks
 
 ### Deeplearning4j-Skymind
 * [Deeplearning4j - Skymind] (https://www.youtube.com/channel/UCa-HKBJwkfzs4AgZtdUuBXQ)
+
+
 ### Simons Institute workshop
 * [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
 
