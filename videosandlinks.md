@@ -4,6 +4,7 @@ videos and Talks
 
 ### NIPS 2016 videos
 * [NIPS 2016](https://nips.cc/Conferences/2014/Schedule?type=Workshop)
+* [Generative Adversarial Networks, Ian Goodfelow] (https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 
 ### Deeplearning4j-Skymind
 * [Deeplearning4j - Skymind] (https://www.youtube.com/channel/UCa-HKBJwkfzs4AgZtdUuBXQ)
