@@ -54,6 +54,7 @@
 
 
 ### Deep Learning Frameworks
+* [Tensorlayer](http://tensorlayer.readthedocs.io/en/latest/index.html)
 * [Kur] (http://kur.deepgram.com/)
 * [minpy] (https://github.com/dmlc/minpy)
 * [PyTorch] (http://pytorch.org/)
