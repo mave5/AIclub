@@ -94,6 +94,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Generative Models
+* [Delving deep into GANs](http://gkalliatakis.com/blog/delving-deep-into-gans)
 * [An introduction to Generative Adversarial Networks (with code in TensorFlow)] (http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
 * [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling] (https://arxiv.org/abs/1610.07584)
 * [Ensembles of Generative Adversarial Networks] (https://arxiv.org/abs/1612.00991)
