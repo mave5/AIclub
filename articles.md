@@ -84,7 +84,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Reinforcement Learning
-* [Dissecting Reinforcement Learning-Part.1] (https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
+* [Dissecting Reinforcement Learning-Part.3] (https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html)
 * [Deep Reinforcement Learning applied to the game Bubble Shooter] (https://staff.fnwi.uva.nl/b.bredeweg/pdf/BSc/20152016/Samson.pdf)
 * [Guest Post (Part II): Deep Reinforcement Learning with Neon] (https://www.nervanasys.com/deep-reinforcement-learning-with-neon/)
 * [Demystifying Deep Reinforcement Learning] (https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
