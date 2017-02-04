@@ -25,6 +25,7 @@
 #### Linux
 * kernel version: uname -r
 * [How to create a bootable USB stick on Ubuntu](https://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu)
+* number of certain file type in a dir: ls -lR /path/to/dir/*.jpg | wc -l
 
 
 #### GitHub
