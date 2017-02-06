@@ -14,6 +14,7 @@
 #### CUDA
 * check cuda version: nvcc --version
 * check cudnn version:  cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
+* remove cuda toolkit: sudo apt-get remove nvidia-cuda-toolkit
 
 
 #### IP address 
