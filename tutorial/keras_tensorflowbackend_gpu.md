@@ -55,9 +55,11 @@
     (tensorflow)$ conda remove mkl mkl-service
 
 * Deactivate whenever done with environment
+
    source deactivate
    
-* Activate environment whenever needed:
+* Activate environment whenever needed
+
    source activate tensorflow
    
  
