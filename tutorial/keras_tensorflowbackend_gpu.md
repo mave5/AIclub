@@ -40,7 +40,7 @@
  (tensorflow)$ pip install keras
  
  
- * Install other missing packages such as matplotlib,cv2,h5py,etc using conda
+* Install other missing packages such as matplotlib,cv2,h5py,etc using conda
  
   (tensorflow)$ matplotlib: conda install -c conda-forge matplotlib=2.0.0
   
