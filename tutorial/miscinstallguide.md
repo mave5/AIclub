@@ -14,10 +14,12 @@
 * [Theano Configuration](http://deeplearning.net/software/theano/library/config.html)
 * [Theano config directly in script](http://stackoverflow.com/questions/33988334/theano-config-directly-in-script)
 
-#### python packages
+#### python/anaconda
 * matplotlib: conda install -c conda-forge matplotlib=2.0.0 
 * opencv: conda install -c https://conda.binstar.org/menpo opencv
 * skimage: conda install scikit-image
+* MKL: conda install nomkl numpy scipy scikit-learn numexpr
+       conda remove mkl mkl-service
 
 #### CUDA
 * check cuda version: nvcc --version
