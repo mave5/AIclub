@@ -24,3 +24,15 @@
  (tensorflow)$ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-0.12.1-cp27-none-  linux_x86_64.whl
 
  (tensorflow)$ pip install --ignore-installed --upgrade $TF_BINARY_URL
+
+* Install ipython
+
+ (tensorflow)$ conda install ipython
+
+* Install jupyer notebook
+
+ (tensorflow)$ conda install jupyter
+
+* Install keras
+
+ (tensorflow)$ pip install keras
