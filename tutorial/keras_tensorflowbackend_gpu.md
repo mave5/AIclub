@@ -19,7 +19,8 @@
 
 *   Install CUDA toolkit 8.0 and CuDNN v5. 
 
-* Intstall 
+* Intstall tensorflow:
+
  (tensorflow)$ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-0.12.1-cp27-none-  linux_x86_64.whl
 
  (tensorflow)$ pip install --ignore-installed --upgrade $TF_BINARY_URL
