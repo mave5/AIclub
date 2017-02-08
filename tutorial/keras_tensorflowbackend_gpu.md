@@ -4,7 +4,7 @@
 #### System
  Ubuntu 16.04 LTS, 4X GPU: Titan X
 
-[Source from Tensorflow webpage](https://www.tensorflow.org/get_started/os_setup#anaconda_installation)
+[Source: Tensorflow webpage](https://www.tensorflow.org/get_started/os_setup#anaconda_installation)
 
 
  * [Install anaconda] (https://www.continuum.io/downloads)
