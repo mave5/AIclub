@@ -38,3 +38,18 @@
 * Install keras
 
  (tensorflow)$ pip install keras
+ 
+ * Install other missing packages such as matplotlib,cv2,h5py,etc using conda
+ 
+  (tensorflow)$ matplotlib: conda install -c conda-forge matplotlib=2.0.0
+  
+  (tensorflow)$ opencv: conda install -c https://conda.binstar.org/menpo opencv
+  
+  (tensorflow)$  skimage: conda install scikit-image
+
+  (tensorflow)$    MKL: conda install nomkl numpy scipy scikit-learn numexpr
+
+    conda remove mkl mkl-service
+
+ 
+ 
