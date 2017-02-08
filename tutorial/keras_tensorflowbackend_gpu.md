@@ -14,6 +14,7 @@
 
 * Activate environment
   $ source activate tensorflow
+  
   (tensorflow)$  # Your prompt should change
 
 *   Install CUDA toolkit 8.0 and CuDNN v5. 
