@@ -51,8 +51,10 @@ REWORK on Youtube: https://www.youtube.com/user/teamrework
 
 Videos: http://videos.re-work.co/
 
---------------------------------------------------------------------------------------------------------------
+--------
+
 ### Misc
+* [TensorFlow Dev Summit 2017 - Livestream](https://www.youtube.com/watch?v=LqLyrl-agOw&feature=youtu.be)
 * [Andrew Ng: Artificial Intelligence is the New Electricity] (https://www.youtube.com/watch?v=21EiKfQYZXc&feature=youtu.be)
 * [YanLecun, Edinburg 2017] (https://m.facebook.com/story.php?story_fbid=10154144778117143&id=722677142&_rdr)
 * [George Hotz Presents Comma Neo] (https://www.youtube.com/watch?v=lM2_E2y4eCg&feature=youtu.be)
