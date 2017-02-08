@@ -53,7 +53,7 @@ Videos: http://videos.re-work.co/
 
 --------------------------------------------------------------------------------------------------------------
 ### Misc
-
+* [Andrew Ng: Artificial Intelligence is the New Electricity] (https://www.youtube.com/watch?v=21EiKfQYZXc&feature=youtu.be)
 * [YanLecun, Edinburg 2017] (https://m.facebook.com/story.php?story_fbid=10154144778117143&id=722677142&_rdr)
 * [George Hotz Presents Comma Neo] (https://www.youtube.com/watch?v=lM2_E2y4eCg&feature=youtu.be)
 * [OpenCV for Embedded: Lessons Learned," a Presentation from Intel] (http://www.embedded-vision.com/platinum-members/intel/embedded-vision-training/videos/pages/may-2015-embedded-vision-summit?utm_source=Embedded+Vision+Insights+Newsletter&utm_campaign=eaf7b5f19a-Embedded_Vision_Insights_2017_01_03&utm_medium=email&utm_term=0_df09cc7472-eaf7b5f19a-353454241&mc_cid=eaf7b5f19a&mc_eid=f7ccdf7939)
