@@ -98,7 +98,9 @@
 
 
 ### Companies
-
+* [comma.ai](http://comma.ai/)
+* [waya.ai](https://mjdietzx.github.io/waya.ai-website/)
+* [unity, VR/AR] (https://unity3d.com/)
 * [Domino Lab] (https://www.dominodatalab.com/)
 * [Wave computing] (http://wavecomp.ai/)
 
