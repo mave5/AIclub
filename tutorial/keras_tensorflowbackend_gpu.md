@@ -9,10 +9,12 @@
 
  * [Install anaconda] (https://www.continuum.io/downloads)
  
- * Create a conda environment called tensorflow:
+ * Create a conda environment called tensorflow
+ 
     $ conda create -n tensorflow python=2.7
 
 * Activate environment
+
   $ source activate tensorflow
   
   (tensorflow)$  # Your prompt should change
