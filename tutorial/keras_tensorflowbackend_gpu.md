@@ -8,6 +8,7 @@
 
 
  1- [install anaconda] (https://www.continuum.io/downloads)
+ 
  2- Create a conda environment called tensorflow:
     $ conda create -n tensorflow python=2.7
 
