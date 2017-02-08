@@ -19,7 +19,8 @@
 * opencv: conda install -c https://conda.binstar.org/menpo opencv
 * skimage: conda install scikit-image
 * MKL: conda install nomkl numpy scipy scikit-learn numexpr 
-                conda remove mkl mkl-service
+
+       conda remove mkl mkl-service
 
 #### CUDA
 * check cuda version: nvcc --version
