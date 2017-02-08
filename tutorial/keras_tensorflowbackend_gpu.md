@@ -7,6 +7,8 @@
 [Source: Tensorflow webpage](https://www.tensorflow.org/get_started/os_setup#anaconda_installation)
 
 
+ * Install latest Nvidia driver, cuda toolkit 8.x and cuDnn 5.x 
+ 
  * [Install anaconda] (https://www.continuum.io/downloads)
  
  * Create a conda environment called tensorflow
@@ -19,7 +21,7 @@
   
   (tensorflow)$  # Your prompt should change
 
-*   Install CUDA toolkit 8.0 and CuDNN v5. 
+*   Need CUDA toolkit 8.0 and CuDNN v5. 
 
 * Intstall tensorflow:
 
