@@ -42,15 +42,15 @@
  
 * Install other missing packages such as matplotlib,cv2,h5py,etc using conda
  
-  (tensorflow)$ matplotlib: conda install -c conda-forge matplotlib=2.0.0
+   matplotlib: (tensorflow)$ conda install -c conda-forge matplotlib=2.0.0
   
-  (tensorflow)$ opencv: conda install -c https://conda.binstar.org/menpo opencv
+   opencv: (tensorflow)$ conda install -c https://conda.binstar.org/menpo opencv
   
-  (tensorflow)$  skimage: conda install scikit-image
+   skimage: (tensorflow)$ conda install scikit-image
 
-  (tensorflow)$    MKL: conda install nomkl numpy scipy scikit-learn numexpr
+   MKL: (tensorflow)$ conda install nomkl numpy scipy scikit-learn numexpr
 
-    conda remove mkl mkl-service
+    (tensorflow)$ conda remove mkl mkl-service
 
  
  
