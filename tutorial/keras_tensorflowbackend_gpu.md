@@ -7,8 +7,18 @@
 [Source from Tensorflow webpage](https://www.tensorflow.org/get_started/os_setup#anaconda_installation)
 
 
- 1- [install anaconda] (https://www.continuum.io/downloads)
+ * [Install anaconda] (https://www.continuum.io/downloads)
  
- 2- Create a conda environment called tensorflow:
+ * Create a conda environment called tensorflow:
     $ conda create -n tensorflow python=2.7
 
+* Activate environment
+  $ source activate tensorflow
+  (tensorflow)$  # Your prompt should change
+
+*   Install CUDA toolkit 8.0 and CuDNN v5. 
+
+* Intstall 
+ (tensorflow)$ export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/linux/gpu/tensorflow_gpu-0.12.1-cp27-none-  linux_x86_64.whl
+
+ (tensorflow)$ pip install --ignore-installed --upgrade $TF_BINARY_URL
