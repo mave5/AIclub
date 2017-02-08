@@ -7,8 +7,7 @@
 [Source from Tensorflow webpage](https://www.tensorflow.org/get_started/os_setup#anaconda_installation)
 
 
-# [install anaconda] (https://www.continuum.io/downloads)
-# Create a conda environment called tensorflow:
-# Python 2.7
-$ conda create -n tensorflow python=2.7
+ 1- [install anaconda] (https://www.continuum.io/downloads)
+ 2- Create a conda environment called tensorflow:
+    $ conda create -n tensorflow python=2.7
 
