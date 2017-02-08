@@ -10,6 +10,10 @@
 * [Dynamically switch Keras backend in Jupyter notebooks] (http://www.nodalpoint.com/switch-keras-backend/)
 * [Keras - Dockerfile] (https://gist.github.com/fiskio/638c2ded94bef1be39b4)
 
+#### Theano
+* [Theano Configuration](http://deeplearning.net/software/theano/library/config.html)
+* [Theano config directly in script](http://stackoverflow.com/questions/33988334/theano-config-directly-in-script)
+
 #### python packages
 * matplotlib: conda install -c conda-forge matplotlib=2.0.0 
 * opencv: conda install -c https://conda.binstar.org/menpo opencv
