@@ -1,6 +1,21 @@
 
 # AIclub meeting summary
 
+
+
+
+### Meeting #12, 1/27/17, MA
+We reviewed paper: [Learning Spatiotemporal Features with 3D Convolutional Networks](https://arxiv.org/abs/1412.0767)
+The paper proposes using 3D CNN (as opposed to 2D CNN) for extracting temporal information between videos frames for Video analysis.
+
+Paper claims are summarized as:
+
+- 3D ConvNets are more suitable for spatiotemporal feature learning compared to 2D ConvNets.
+- A homogeneous architecture with small 3*3*3 convolution kernels in all layers is among the best performing architectures for 3D ConvNets.
+- Our learned features, namely C3D (Convolutional 3D), with a simple linear classifier outperform state-of-the-art methods on 4 different benchmarks and are comparable with current best methods on the other 2 benchmarks. 
+
+
+
 -----
 
 ### Meeting #11, 1/20/17, SD
