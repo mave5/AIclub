@@ -41,7 +41,7 @@
 * number of certain file type in a dir: ls -lR /path/to/dir/*.jpg | wc -l
 * delete dir: rm -R dir_name
 * [change hostname in terminal] (https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
-* Change volume/disk label
+* Change volume/disk label, [reference](https://ubuntuforums.org/showthread.php?t=1113236)
 
        - get device info: sudo fdisk -l
        - change label: sudo e2label /dev/sdb1 "new_label"
