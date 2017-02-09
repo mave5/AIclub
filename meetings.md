@@ -15,6 +15,8 @@ The paper claims are summarized as:
 - A homogeneous architecture with small 3*3*3 convolution kernels in all layers is among the best performing architectures for 3D ConvNets.
 - Our learned features, namely C3D (Convolutional 3D), with a simple linear classifier outperform state-of-the-art methods on 4 different benchmarks and are comparable with current best methods on the other 2 benchmarks. 
 
+The slides can be found [here](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/conv3d_jan27.pdf). 
+
 -----
 
 ### Meeting #11, 1/20/17, SD
