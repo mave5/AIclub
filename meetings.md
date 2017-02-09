@@ -15,6 +15,8 @@ The paper claims are summarized as:
 - A homogeneous architecture with small 3*3*3 convolution kernels in all layers is among the best performing architectures for 3D ConvNets.
 - Our learned features, namely C3D (Convolutional 3D), with a simple linear classifier outperform state-of-the-art methods on 4 different benchmarks and are comparable with current best methods on the other 2 benchmarks. 
 
+The slides can be found [here](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/conv3d_jan27.pdf). 
+
 -----
 
 ### Meeting #11, 1/20/17, SD
@@ -46,6 +48,7 @@ We discussed the following paper:
 The paper introduces a method for classification networks to take advantage of a large but noisy annotations to improve their accuracy.
 In this work, a dataset with 9M images with noisy annotations and only 40K images with cleaned annotations are used. The idea is to train a network to learn the noise pattern and then use the network to clean the noisy annotations. Then both the clean data and the reduced-noise data are used for training. The authors claim that their approach is more effective than the traditional pre-training with noisy data and then fine-tunning with the clean data. Their results supports the claim. 
 
+The slides can be found [here](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/learningfromnoisydata.pdf).
 
 ---------------
 
