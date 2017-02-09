@@ -40,7 +40,7 @@
 * [How to create a bootable USB stick on Ubuntu](https://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu)
 * number of certain file type in a dir: ls -lR /path/to/dir/*.jpg | wc -l
 * delete dir: rm -R dir_name
-* change hostname in terminal:  sudo hostname NEW_NAME_HERE
+* [change hostname in terminal] (https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
 
 
 #### GitHub
