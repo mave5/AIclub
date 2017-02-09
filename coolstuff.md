@@ -2,6 +2,7 @@
 
 
 ## Cool Stuff
+* [Use your eyes and Deep Learning to command your computer] (https://hackernoon.com/talk-to-you-computer-with-you-eyes-and-deep-learning-a-i-odyssey-part-2-7d3405ab8be1#.sp97wnrz8)
 * [myscript](http://webdemo.myscript.com/views/math.html#)
 * [The right match] (https://www.youtube.com/watch?v=ttMQECKQ3DQ)
 * [GENERATIVE CHOREOGRAPY] (http://peltarion.com/creative-ai)
