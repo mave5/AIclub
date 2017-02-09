@@ -48,6 +48,7 @@ We discussed the following paper:
 The paper introduces a method for classification networks to take advantage of a large but noisy annotations to improve their accuracy.
 In this work, a dataset with 9M images with noisy annotations and only 40K images with cleaned annotations are used. The idea is to train a network to learn the noise pattern and then use the network to clean the noisy annotations. Then both the clean data and the reduced-noise data are used for training. The authors claim that their approach is more effective than the traditional pre-training with noisy data and then fine-tunning with the clean data. Their results supports the claim. 
 
+The slides can be found [here](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/learningfromnoisydata.pdf).
 
 ---------------
 
