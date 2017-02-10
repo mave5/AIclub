@@ -47,3 +47,19 @@ plt.imshow(two_circle_mask)
 plt.subplot(133)
 plt.imshow(two_ellipse_mask)
 
+
+## Passing functions with multiple return values as arguments in Python
+
+# function definition
+def func1(x1,y1):
+  #your code
+  return r1,t1
+
+# function definition
+def func2(x2,y2):
+  #your code
+  return r2,rt
+
+# main code
+func2(*func1(x1,y1))
+
