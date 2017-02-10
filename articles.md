@@ -59,6 +59,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-f
 
 
 ## Theory
+* [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Distilling the Knowledge in a Neural Network] (https://arxiv.org/abs/1503.02531)
 * [Deep Learning without Poor Local Minima] (https://arxiv.org/abs/1605.07110)
 
