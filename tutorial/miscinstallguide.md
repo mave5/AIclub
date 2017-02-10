@@ -46,6 +46,10 @@
        - get device info: sudo fdisk -l
        - change label: sudo e2label /dev/sdb1 "new_label"
 
+* memory,cpu usage GUI: system monitor
+* memory,cpu usage terminal: top
+* nvidia GPU usage: sudo watch nvidia-smi
+
 
 #### GitHub
 * get repo history: git log --oneline
