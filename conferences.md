@@ -2,6 +2,7 @@
 
 ## Workshops/Conferences
 ---------------------
+* [PyCon](https://us.pycon.org/2017/about/)
 * [GIGAOM] (https://gigaom.com/ai/)
 * [AI By the Bay] (http://ai.bythebay.io/#top)
 * [CES, consumer electronic] (http://www.ces.tech/)
