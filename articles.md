@@ -138,6 +138,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Prof. Dr. Laurenz Wiskott](https://www.ini.rub.de/PEOPLE/wiskott/Teaching/Material/index.html)
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 * [GOOGLE CLOUD BIG DATA AND MACHINE LEARNING BLOG] (https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 * [DeepTesla: End-to-End Learning from Human and Autopilot Driving] (http://selfdrivingcars.mit.edu/deeptesla/)
