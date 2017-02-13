@@ -132,7 +132,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 * [TensorFlow for Machine Intelligence] (https://www.amazon.com/TensorFlow-Machine-Intelligence-hands-introduction-ebook/dp/B01IZ43JV4)
 
-
+## Self driving cars
+* [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316.pdf)
 
 
 
