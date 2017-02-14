@@ -5,7 +5,7 @@
 
 ## Recurrent Neural Networks
 * [Convolutional Gated Recurrent Networks for Video Segmentation](https://arxiv.org/abs/1611.05435)
-* [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks](https://arxiv.org/abs/1608.08128)(https://imatge-upc.github.io/activitynet-2016-cvprw/)
+* [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks](https://arxiv.org/abs/1608.08128) [code](https://imatge-upc.github.io/activitynet-2016-cvprw/)
 
 ## Segmeentation
 * [End-to-end Learning of Driving Models from Large-scale Video Datasets] (https://arxiv.org/abs/1612.01079)
