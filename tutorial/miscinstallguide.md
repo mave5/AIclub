@@ -21,6 +21,9 @@
 * MKL: conda install nomkl numpy scipy scikit-learn numexpr 
 
        conda remove mkl mkl-service
+* imageio: conda install -c conda-forge imageio
+* imageio: pip install imageio
+
 
 #### CUDA
 * check cuda version: nvcc --version
