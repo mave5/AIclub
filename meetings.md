@@ -2,6 +2,10 @@
 # AIclub meeting summary
 
 
+### Meeting #13, 2/3/17, TY
+
+TY attended ReWORK deep learning conference 2017 in SF and gave a presentation on the conference.
+Slides can be found [here.](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/Re-work%20summary_2017.pdf)
 
 --------
 
