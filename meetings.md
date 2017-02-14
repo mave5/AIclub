@@ -9,6 +9,7 @@ The paper argues that the reason behind generalization capability of neural netw
 - Capacity of neural networks is large enough for a brute force memorization.
 - Training time on random labels increases only by a small constanct factor compared with training with true labels.
 
+-------------
 
 ### Meeting #13, 2/3/17, TY
 
