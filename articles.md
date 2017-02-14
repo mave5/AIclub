@@ -4,6 +4,7 @@
 # Articles
 
 ## Recurrent Neural Networks
+* [Long-term Recurrent Convolutional Networks for Visual Recognition and Description](https://arxiv.org/pdf/1411.4389.pdf)
 * [Convolutional Gated Recurrent Networks for Video Segmentation](https://arxiv.org/abs/1611.05435)
 * [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks,](https://arxiv.org/abs/1608.08128) [code](https://imatge-upc.github.io/activitynet-2016-cvprw/)
 
