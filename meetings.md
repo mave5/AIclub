@@ -1,6 +1,14 @@
 
 # AIclub meeting summary
 
+### Meeting #14, 2/10/17, JM
+
+We discussed paper [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
+The paper argues that the reason behind generalization capability of neural networks should be reconsidered! They provided some experiments and results that are interesting! In an experiment, they train several standard NN architectures on a copy of the data where the true labels were replaced by random labels. Based on this experiment, they summarized that:
+- Deep neural networks easily fit random labels.
+- Capacity of neural networks is large enough for a brute force memorization.
+- Training time on random labels increases only by a small constanct factor compared with training with true labels.
+
 
 ### Meeting #13, 2/3/17, TY
 
