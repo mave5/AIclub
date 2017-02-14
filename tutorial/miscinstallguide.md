@@ -23,6 +23,8 @@
        conda remove mkl mkl-service
 * imageio: conda install -c conda-forge imageio
 * imageio: pip install imageio
+* sk-video:  pip install sk-video
+
 
 
 #### CUDA
