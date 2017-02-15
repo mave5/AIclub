@@ -8,10 +8,10 @@ import keras.backend as K
 
 import tensorflow as tf
 
-# access to session
+### access to session
 
 sess=K.get_session()
 
-# grab graph
+### grab graph
 
 graph=K.get_session().graph
