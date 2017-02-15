@@ -1,17 +1,34 @@
 
 
 
-## Access to Keras model and graph in Tensorflow
+## Access to Keras model in Tensorflow
 
 
 import keras.backend as K
 
 import tensorflow as tf
 
+
+your keras model here (complited and loaded weights)
+
+
 ### access to session
 
 sess=K.get_session()
 
+
 ### grab graph
 
 graph=K.get_session().graph
+
+
+### get graph definition
+graph_def=graph.as_graph_def()
+
+
+### export graph
+meta_graph_def=tf.train.export_meta_graph(path2meta)
+
+
+#### import graph
+meta_graph_def=tf.train.export_meta_graph(path2meta)
