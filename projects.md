@@ -95,6 +95,7 @@
 
 
 ### misc
+* [Python Programming Net](https://pythonprogramming.net/)
 * [Create React App, npm](https://github.com/facebookincubator/create-react-app)
 * [picamera] (http://picamera.readthedocs.io/en/release-1.10/recipes1.html)
 * [sysstat, system statistics] (http://sebastien.godard.pagesperso-orange.fr/)
