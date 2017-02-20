@@ -95,6 +95,7 @@
 
 
 ### misc
+* [Building Your Own Deep Learning Box](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.mx5mg9oy2)
 * [Python Programming Net](https://pythonprogramming.net/)
 * [Create React App, npm](https://github.com/facebookincubator/create-react-app)
 * [picamera] (http://picamera.readthedocs.io/en/release-1.10/recipes1.html)
