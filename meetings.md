@@ -1,6 +1,17 @@
 
 # AIclub meeting summary
 
+### Meeting #15, 2/17/2017
+
+We first watched and discussed this [video](https://www.youtube.com/watch?v=UeheTiBJ0Io&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv&index=7)
+presented by Francois Chollet (creator of Keras) at TensorFlow Dev Summit 2017. He explains how Keras is going to be integrated into Tensorflow and also provides a concrete example on using Keras for video captioning.
+
+We also discussed paper [Convolutional Gated Recurrent Networks for Video Segmentation](https://arxiv.org/abs/1611.05435).
+This paper proposes a combination of fully-convolutional neural networks (F-CNN) with recurrent neural nets (GRU/LSTM) for video segmentation. Previous methods rely on single frame while the correlation between frames could lead to improvement in the outcome.
+
+
+
+-------------
 ### Meeting #14, 2/10/17, JM
 
 We discussed paper [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
