@@ -8,7 +8,7 @@ presented by Francois Chollet (creator of Keras) at TensorFlow Dev Summit 2017. 
 
 We also discussed paper [Convolutional Gated Recurrent Networks for Video Segmentation](https://arxiv.org/abs/1611.05435).
 This paper proposes a combination of fully-convolutional neural networks (F-CNN) with recurrent neural nets (RNN/GRU/LSTM) for video segmentation. Previous methods rely on single frame segmentation, while extracting the correlation between frames using RNN could lead to improvement in the outcome. Their results show significant boost specially for smaller objects.
-Slides are [here](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/rcnn_seg_feb_2017.pdf)
+Slides are [here.](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/rcnn_seg_feb_2017.pdf)
 
 
 -------------
