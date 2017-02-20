@@ -103,6 +103,7 @@
 
 
 ### Companies
+* [FLOYD](https://www.floydhub.com/)
 * [comma.ai](http://comma.ai/)
 * [waya.ai](https://mjdietzx.github.io/waya.ai-website/)
 * [unity, VR/AR] (https://unity3d.com/)
