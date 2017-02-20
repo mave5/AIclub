@@ -7,7 +7,7 @@ We first watched and discussed this [video](https://www.youtube.com/watch?v=Uehe
 presented by Francois Chollet (creator of Keras) at TensorFlow Dev Summit 2017. He explains how Keras is going to be integrated into Tensorflow and also provides a concrete example on using Keras for video captioning.
 
 We also discussed paper [Convolutional Gated Recurrent Networks for Video Segmentation](https://arxiv.org/abs/1611.05435).
-This paper proposes a combination of fully-convolutional neural networks (F-CNN) with recurrent neural nets (GRU/LSTM) for video segmentation. Previous methods rely on single frame while the correlation between frames could lead to improvement in the outcome.
+This paper proposes a combination of fully-convolutional neural networks (F-CNN) with recurrent neural nets (RNN/GRU/LSTM) for video segmentation. Previous methods rely on single frame segmentation, while extracting the correlation between frames using RNN could lead to improvement in the outcome. Their results show significant boost specially for smaller objects.
 
 
 
