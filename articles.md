@@ -102,6 +102,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Generative Models
+* [Read-through: Wasserstein GAN](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html?utm_content=buffer7f258&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Learning from Simulated and Unsupervised Images through Adversarial Training](https://arxiv.org/abs/1612.07828)
 * [Delving deep into GANs](http://gkalliatakis.com/blog/delving-deep-into-gans)
 * [An introduction to Generative Adversarial Networks (with code in TensorFlow)] (http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
