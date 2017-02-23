@@ -4,6 +4,7 @@
 
 
 ### Misc Codes/Projects
+* [A gallery of Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_119)
 * [Tensorflow UNET-segmentation model](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [Segnet Tensorflow](https://github.com/andreaazzini/segnet/blob/master/src/train.py)
 * [Food Classification Demo with Keras.js!] (http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html)
