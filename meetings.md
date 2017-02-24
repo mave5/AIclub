@@ -1,6 +1,18 @@
 
 # AIclub meeting summary
 
+### Meeting #16, 2,21/2017, MA, SD
+
+We did a lunch and learn presentation on article:
+[Dermatologist-level classification of skin cancer with deep neural networks](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
+
+It uses a pre-trained Inception-V3 network fine-tuned on skin cancer images able to classify 2000 different diseases.
+
+The slides are [here](https://github.com/mravendi/AIclub/blob/master/tutorial/presentations/AIClub_LunchAndLearn_Feb2017.pdf)
+
+
+-------------
+
 ### Meeting #15, 2/17/2017, MA
 
 We first watched and discussed this [video](https://www.youtube.com/watch?v=UeheTiBJ0Io&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv&index=7)
