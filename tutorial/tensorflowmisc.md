@@ -36,6 +36,7 @@ meta_graph_def=tf.train.export_meta_graph(path2meta)
 
 ### Using a single GPU on a multi-GPU system with Keras
 with tf.device('/gpu:2'):
+
   keras model definition here
 
 
