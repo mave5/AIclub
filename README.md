@@ -18,3 +18,9 @@ AIclub was established at Halyard Health in 2016 to enhance discussions around A
 
 * [Tutorials by AIclub](https://github.com/mravendi/AIclub/blob/master/tutorials.md)
 
+
+
+
+
+"Do not confuse motion and progress. A rocking horse keeps
+moving but does not make any progress." A. A. Montapert
