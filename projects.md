@@ -47,6 +47,7 @@
 
 
 ### Reinforcement Learning codes/projects
+* [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
 * [AlphaBubble] (https://github.com/laurenssam/AlphaBubble)
 * [Eat Melon! A Deep Q Reinforcement Learning Demo] (http://projects.rajivshah.com/rldemo/)
 * [Learning to Learn in TensorFlow] (https://github.com/deepmind/learning-to-learn?files=1)
