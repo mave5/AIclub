@@ -1,7 +1,7 @@
 
 # AIclub meeting summary
 
-### Meeting #16, 2,21/2017, MA, SD
+### Meeting #16, 2/21/2017, MA, SD
 
 We did a lunch and learn presentation on article:
 [Dermatologist-level classification of skin cancer with deep neural networks](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
