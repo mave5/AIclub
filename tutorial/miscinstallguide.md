@@ -54,10 +54,11 @@
 * memory,cpu usage GUI: system monitor
 * memory,cpu usage terminal: top
 * nvidia GPU usage: sudo watch nvidia-smi
-* mount a network drive: 
+* mount a network drive:
+       - sudo mkdir path_to_your_mount_name
        - add the following line to /etc/fstab file to auto mount the drive
        - //10.138.53.27/db /medica/your_mount_name cifs username=read_db,password=your_password,uid=1000,gid=1000
-
+       - sudo mount -a
 
 
 
