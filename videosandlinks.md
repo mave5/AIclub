@@ -58,6 +58,7 @@ Videos: http://videos.re-work.co/
 --------
 
 ### Misc
+* [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU&app=desktop)
 * [TensorFlow Dev Summit 2017 - Livestream](https://www.youtube.com/watch?v=LqLyrl-agOw&feature=youtu.be)
 * [Andrew Ng: Artificial Intelligence is the New Electricity] (https://www.youtube.com/watch?v=21EiKfQYZXc&feature=youtu.be)
 * [YanLecun, Edinburg 2017] (https://m.facebook.com/story.php?story_fbid=10154144778117143&id=722677142&_rdr)
