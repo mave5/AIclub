@@ -41,6 +41,9 @@
 
  (tensorflow)$ pip install keras
  
+ * Install/upgrade spyder
+ 
+ (tensorflow)$ pip install --upgrade spyder
  
 * Install other missing packages such as matplotlib,cv2,h5py,etc using conda
  
