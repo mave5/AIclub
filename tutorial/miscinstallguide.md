@@ -61,7 +61,6 @@
        - sudo mount -a
 * mount a drive:
        - open /etc/fstab and add next line to the end
-       - drive_adress mount_address type defaults 0 0
        - Example: /dev/sdc1  /media/mount_name  ext4 defaults 0 0
 
 
