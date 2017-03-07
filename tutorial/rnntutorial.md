@@ -3,7 +3,7 @@
 
 
 
-RNN in Keras
+#### RNN in Keras
 
 * by default, stateful=False that is stateless.
 * Most of problems can be solved with stateless RNN.
@@ -16,3 +16,9 @@ RNN in Keras
 
 
 
+
+
+
+
+#### links
+* [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
