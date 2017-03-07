@@ -22,3 +22,4 @@
 
 #### links
 * [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
