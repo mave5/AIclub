@@ -14,7 +14,7 @@
 short course at UCI
 
 
-* [ICML: International Conference on Machine Learning] (yearly conference)
+* [ICML: International Conference on Machine Learning] (https://2017.icml.cc/)
 
 * [Conference on Neural Information Processing Systems] (yearly conference)
 
