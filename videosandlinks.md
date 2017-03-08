@@ -6,6 +6,7 @@ videos and Talks
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
 ### NIPS 2016 videos
+* [Reliable Machine Learning in the Wild - NIPS 2016 Workshop](https://sites.google.com/site/wildml2016nips/schedule)
 * [Generative Adversarial Networks, Ian Goodfelow] (https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 * [videos and slides](https://nips.cc/Conferences/2016/Schedule)
 
