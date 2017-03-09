@@ -21,6 +21,7 @@
 
 
 #### links
+* [Keras examples](https://keras.io/getting-started/sequential-model-guide/#examples)
 * [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
