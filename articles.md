@@ -151,6 +151,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Course notes for CS224N Winter17](https://github.com/stanfordnlp/cs224n-winter17-notes?files=1)
 * [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers/blob/master/README.md)
 * [Prof. Dr. Laurenz Wiskott](https://www.ini.rub.de/PEOPLE/wiskott/Teaching/Material/index.html)
