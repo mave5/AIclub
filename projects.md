@@ -25,6 +25,7 @@
 * [Interactive convnet features visualization for Keras] (https://github.com/jakebian/quiver)
 
 * [YOLO] (http://pjreddie.com/darknet/yolo/)
+* [YOLO2] (https://github.com/longcw/yolo2-pytorch)
 
 * [Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition using DeepMind's WaveNet] (https://github.com/buriburisuri/speech-to-text-wavenet)
 
