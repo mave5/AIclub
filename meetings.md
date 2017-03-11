@@ -1,6 +1,15 @@
 
 # AIclub meeting summary
 
+
+------------
+
+### Meeting #17, 3/10/2017, TY
+
+TY presented how to deploy Keras models in iPad.
+
+---------
+
 ### Meeting #16, 2/21/2017, MA, SD
 
 We did a lunch and learn presentation on article:
