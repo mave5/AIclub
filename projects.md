@@ -4,6 +4,7 @@
 
 
 ### Misc Codes/Projects
+* [PyTorch](https://github.com/yunjey/pytorch-tutorial/blob/master/README.md)
 * [NumJs is a npm/bower package for scientific computing](https://github.com/nicolaspanel/numjs)
 * [A gallery of Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-and-IPython-Notebooks?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_119)
 * [Tensorflow UNET-segmentation model](http://tf-unet.readthedocs.io/en/latest/index.html)
