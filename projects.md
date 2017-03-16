@@ -4,6 +4,8 @@
 
 
 ### Misc Codes/Projects
+
+* [Visdom](https://github.com/facebookresearch/visdom)
 * [Machine Learning Top 10 Articles for the Past Year ](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0#.xv7cau686)
 * [PyTorch](https://github.com/yunjey/pytorch-tutorial/blob/master/README.md)
 * [NumJs is a npm/bower package for scientific computing](https://github.com/nicolaspanel/numjs)
