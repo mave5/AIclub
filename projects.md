@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Deep Learning with PaddlePaddle](https://github.com/PaddlePaddle/book/blob/develop/README.en.md)
 * [Visdom](https://github.com/facebookresearch/visdom)
 * [Machine Learning Top 10 Articles for the Past Year ](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0#.xv7cau686)
 * [PyTorch](https://github.com/yunjey/pytorch-tutorial/blob/master/README.md)
