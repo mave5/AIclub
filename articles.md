@@ -151,6 +151,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Distill](http://distill.pub/)
 * [AI for all](http://ai-4-all.org/)
 * [Course notes for CS224N Winter17](https://github.com/stanfordnlp/cs224n-winter17-notes?files=1)
 * [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/index.html)
