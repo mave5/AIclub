@@ -17,10 +17,10 @@
 
 ## Segmeentation
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
-* [End-to-end Learning of Driving Models from Large-scale Video Datasets] (https://arxiv.org/abs/1612.01079)
-* [What is a good evaluation measure for semantic segmentation?] (http://www.xrce.xerox.com/Our-Research/Publications/2013-027)
+* [End-to-end Learning of Driving Models from Large-scale Video Datasets](https://arxiv.org/abs/1612.01079)
+* [What is a good evaluation measure for semantic segmentation?](http://www.xrce.xerox.com/Our-Research/Publications/2013-027)
 * [Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban
-Remote Sensing Images Using Deep Convolutional Neural Networks] (http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w19/html/Kampffmeyer_Semantic_Segmentation_of_CVPR_2016_paper.html)
+Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w19/html/Kampffmeyer_Semantic_Segmentation_of_CVPR_2016_paper.html)
 
 * [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)
 * [Clockwork Convnets for Video Semantic Segmentation](https://arxiv.org/pdf/1608.03609v1.pdf)
