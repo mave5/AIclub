@@ -4,6 +4,7 @@
 # Articles
 
 ## Video processing
+* [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
 * [Two-Stream Convolutional Networks for Action Recognition in Videos](https://arxiv.org/pdf/1406.2199.pdf)
 * [Evaluating Two-Stream CNN for Video Classification](https://arxiv.org/abs/1504.01920)
 * [Deep Learning for Video Classification and Captioning](https://arxiv.org/abs/1609.06782)
