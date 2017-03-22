@@ -72,6 +72,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Theory
+* [The Shattered Gradients Problem: If resnets are the answer, then what is the question?](https://arxiv.org/abs/1702.08591)
 * [On the Origin of Deep Learning](https://arxiv.org/pdf/1702.07800.pdf)
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
 * [Distilling the Knowledge in a Neural Network] (https://arxiv.org/abs/1503.02531)
