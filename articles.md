@@ -24,10 +24,10 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 * [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)
 * [Clockwork Convnets for Video Semantic Segmentation](https://arxiv.org/pdf/1608.03609v1.pdf)
-* [Fully Convolutional Networks for Semantic Segmentation] (https://arxiv.org/abs/1605.06211)
-* [Learning Deconvolution Network for Semantic Segmentation] (https://arxiv.org/abs/1505.04366)
+* [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1605.06211)
+* [Learning Deconvolution Network for Semantic Segmentation](https://arxiv.org/abs/1505.04366)
 
-*  [Multi-Scale Context Aggregation by Dilated Convolutions] (https://arxiv.org/abs/1511.07122)
+*  [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
 
 * [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
 * [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs] (https://arxiv.org/abs/1606.00915)
@@ -38,21 +38,21 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Classification
 * [DeepNav: Learning to Navigate Large Cities](https://arxiv.org/abs/1701.09135)
-* [3D Convolutional Neural Networks for Human Action Recognition] (https://ai2-s2-pdfs.s3.amazonaws.com/3c86/dfdbdf37060d5adcff6c4d7d453ea5a8b08f.pdf)
-* [Cost-Effective Active Learning for Deep Image Classification] (https://arxiv.org/abs/1701.03551?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)
-* [Learning From Noisy Large-Scale Datasets With Minimal Supervision] (https://arxiv.org/abs/1701.01619)
-* [DelugeNets: Deep Networks with Massive and Flexible Cross-layer Information Inflows] (http://www.gitxiv.com/posts/2xngbbYekco87DySH/delugenets-deep-networks-with-massive-and-flexible-cross)
-* [YOLO9000: Better, Faster, Stronger] (https://arxiv.org/abs/1612.08242)
-* [Densely Connected Convolutional Networks] (https://arxiv.org/abs/1608.06993)
+* [3D Convolutional Neural Networks for Human Action Recognition](https://ai2-s2-pdfs.s3.amazonaws.com/3c86/dfdbdf37060d5adcff6c4d7d453ea5a8b08f.pdf)
+* [Cost-Effective Active Learning for Deep Image Classification](https://arxiv.org/abs/1701.03551?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)
+* [Learning From Noisy Large-Scale Datasets With Minimal Supervision](https://arxiv.org/abs/1701.01619)
+* [DelugeNets: Deep Networks with Massive and Flexible Cross-layer Information Inflows](http://www.gitxiv.com/posts/2xngbbYekco87DySH/delugenets-deep-networks-with-massive-and-flexible-cross)
+* [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
+* [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 ## Adversarial Examples
-* [Explaining and Harnessing Adversarial Examples] (https://arxiv.org/abs/1412.6572)
-* [Intriguing properties of neural networks] (https://arxiv.org/abs/1312.6199)
-* [Thoughts on "Adversarial examples in the physical world"] (http://composition.al/blog/2016/09/29/thoughts-on-adversarial-examples-in-the-physical-world/)
+* [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+* [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+* [Thoughts on "Adversarial examples in the physical world"](http://composition.al/blog/2016/09/29/thoughts-on-adversarial-examples-in-the-physical-world/)
 
 
 ## DL Acceleration
-* [Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices] (https://arxiv.org/abs/1701.00485)
+* [Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices](https://arxiv.org/abs/1701.00485)
 * [Hardware-oriented Approximation of Convolutional Neural Networks] (https://arxiv.org/abs/1604.03168)
 * [Deep Learning with INT8 Optimization on Xilinx Devices] (https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf)
 * [Trained Ternary Quantization] (https://arxiv.org/abs/1612.01064)
