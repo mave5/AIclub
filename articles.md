@@ -29,12 +29,12 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 *  [Multi-Scale Context Aggregation by Dilated Convolutions] (https://arxiv.org/abs/1511.07122)
 
-* [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation] (https://arxiv.org/abs/1606.02147)
+* [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
 * [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs] (https://arxiv.org/abs/1606.00915)
 
-* [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation] (https://arxiv.org/abs/1511.00561)
+* [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561)
 
-* [Image Classification and Segmentation with Tensorflow and TF-Slim] (http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
+* [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
 ## Classification
 * [DeepNav: Learning to Navigate Large Cities](https://arxiv.org/abs/1701.09135)
