@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Speeding Up TensorFlow with Metal Performance Shaders](http://www.mattrajca.com/2016/11/26/speeding-up-tensorflow-with-metal-performance-shaders.html)
 * [Deep Learning with PaddlePaddle](https://github.com/PaddlePaddle/book/blob/develop/README.en.md)
 * [Visdom](https://github.com/facebookresearch/visdom)
 * [Machine Learning Top 10 Articles for the Past Year ](https://medium.mybridge.co/machine-learning-top-10-of-the-year-v-2017-7552599935c0#.xv7cau686)
