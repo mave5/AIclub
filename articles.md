@@ -38,7 +38,10 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
+
 ## Classification
+* [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 * [DeepNav: Learning to Navigate Large Cities](https://arxiv.org/abs/1701.09135)
 * [3D Convolutional Neural Networks for Human Action Recognition](https://ai2-s2-pdfs.s3.amazonaws.com/3c86/dfdbdf37060d5adcff6c4d7d453ea5a8b08f.pdf)
 * [Cost-Effective Active Learning for Deep Image Classification](https://arxiv.org/abs/1701.03551?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252Fcs%252FCV+%2528ArXiv.cs.CV%2529)
