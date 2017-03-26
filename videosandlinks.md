@@ -17,6 +17,7 @@ videos and Talks
 
 
 ### Simons Institute workshop
+* [Representation Learning](https://simons.berkeley.edu/workshops/schedule/3750)
 * [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
 
 
