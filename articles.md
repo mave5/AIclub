@@ -159,6 +159,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [Running Jupyter notebooks on GPU on AWS: a starter guide](https://github.com/mravendi/AIclub/edit/master/articles.md)
 * [Distill](http://distill.pub/)
 * [AI for all](http://ai-4-all.org/)
 * [Course notes for CS224N Winter17](https://github.com/stanfordnlp/cs224n-winter17-notes?files=1)
