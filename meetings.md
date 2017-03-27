@@ -1,6 +1,12 @@
 
 # AIclub meeting summary
 
+### Meeting #18, 3/24,2017, JM
+
+We discussed paper: [Mask R-CNN](https://arxiv.org/abs/1703.06870).
+This is work on top of two other articles Fast R-CNN and Faster R-CNN, which use region proposals for object detection.
+In Mask R-CNN, a new branch is added to provide object segmentation. While extracting an ROI and then performing object segmentation would lead to a better performance, it seems to be computationally expensive. Anyway, the provided results are really good, comparable to ground truth!
+
 
 ------------
 
