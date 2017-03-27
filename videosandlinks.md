@@ -55,9 +55,9 @@ Go to [link] (http://www.bayareadlschool.org) for more information on the event,
 
 ### RE.WORK
 
-REWORK on Youtube: https://www.youtube.com/user/teamrework
-
-Videos: http://videos.re-work.co/
+* [Critical Issues of Deep Learning in Medical Imaging](https://www.re-work.co/blog/video-presentation-deep-learning-healthcare-ben-glocker-imperial-college)
+* [REWORK on Youtube] (https://www.youtube.com/user/teamrework)
+* [Videos] (http://videos.re-work.co/)
 
 --------
 
