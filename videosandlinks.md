@@ -62,6 +62,7 @@ Videos: http://videos.re-work.co/
 --------
 
 ### Misc
+* [Deep Learning Practicals](https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 * [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU&app=desktop)
 * [TensorFlow Dev Summit 2017 - Livestream](https://www.youtube.com/watch?v=LqLyrl-agOw&feature=youtu.be)
 * [Andrew Ng: Artificial Intelligence is the New Electricity] (https://www.youtube.com/watch?v=21EiKfQYZXc&feature=youtu.be)
