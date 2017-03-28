@@ -10,10 +10,10 @@ Automatic organ detection and segmentation have a huge impact in medical imaging
 Considering the scarcity of data and annotations in medical imaging applications, the generated data and annotations using our method can be used for developing data-hungry deep learning algorithms. In addition, our method can be employed for anatomy detection.
 
 ### Data
-We used the [MICCAI 2012 RV segmentation challenge dataset] (http://www.litislab.fr/?projet=1rvsc).
+We used the [MICCAI 2012 RV segmentation challenge dataset](http://www.litislab.fr/?projet=1rvsc).
 TrainingSet, including 16 patients with images and expert annotations, was used to develop the algorithm. We convert the annotations to binary masks with the same size as images. The original images/masks dimensions are 216 by 256. For tractable training, we downsampled the images/masks to 32 by 32. A sample image and corresponding annotation of the right ventricle (RV) of the heart is shown below.
 
-![fogure] (https://github.com/mravendi/AIclub/blob/master/figs/realsample2.png) 
+![fogure](https://github.com/mravendi/AIclub/blob/master/figs/realsample2.png) 
 
 
 ### Methods
@@ -23,7 +23,7 @@ The network has two blocks:
 
 Here mask refers to a binary mask corresponding to the annotation. 
 
-Block diagram of the network is shown below. ![Figure] (https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
+Block diagram of the network is shown below. ![Figure](https://github.com/mravendi/AIclub/blob/master/figs/gan1.png)
 
 
 
@@ -43,10 +43,10 @@ Block diagram of the network is shown below. ![Figure] (https://github.com/mrave
 
 6. Return to step 2.
 
-It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful.  ![stacked network] (https://github.com/mravendi/AIclub/blob/master/figs/gan2.png).
+It is noted that, initially, the generated images and masks are garbage. As training continious they become meaningful.  ![stacked network](https://github.com/mravendi/AIclub/blob/master/figs/gan2.png).
 
 
-You can see the code in [this jupyter notebook] (http://nbviewer.jupyter.org/github/mravendi/AIclub/blob/master/tutorial/notebook/GAN_CMRI_32by32.ipynb)
+You can see the code in [this jupyter notebook](http://nbviewer.jupyter.org/github/mravendi/AIclub/blob/master/tutorial/notebook/GAN_CMRI_32by32.ipynb)
 
 
 
