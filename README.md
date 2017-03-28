@@ -18,7 +18,7 @@ AIclub was established at Halyard Health in 2016 to enhance discussions around A
 
 * [Medical Imaging Research Groups](https://github.com/mravendi/AIclub/blob/master/medimaginggroups.md)
 
-* [AI startups]()
+* [AI startups](https://github.com/mravendi/AIclub/blob/master/aistartups.md)
 
 * [Cool stuff](https://github.com/mravendi/AIclub/blob/master/coolstuff.md)
 
