@@ -40,6 +40,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Classification
+* [Who Said What: Modeling Individual Labelers Improves Classification](https://128.84.21.199/abs/1703.08774)
 * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)
 * [DeepNav: Learning to Navigate Large Cities](https://arxiv.org/abs/1701.09135)
