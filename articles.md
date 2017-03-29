@@ -94,6 +94,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Medical Imaging
+* [Transfer Learning for Domain Adaptation in MRI: Application in Brain Lesion Segmentation](https://arxiv.org/abs/1702.07841)
 * [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](file:///C:/Users/u20407/Downloads/joi160132.pdf)
 * [PhD Thesis: Machine Learning for Simplifying the Use of Cardiac
 Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
