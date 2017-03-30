@@ -4,6 +4,7 @@
 # Articles
 
 ## Video processing
+* [End-to-end Learning of Action Detection from Frame Glimpses in Videos](https://arxiv.org/abs/1511.06984)
 * [FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)
 * [YouTube-8M: A Large-Scale Video Classification Benchmark](https://arxiv.org/abs/1609.08675)
 * [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/abs/1608.00859)
