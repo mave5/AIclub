@@ -2,6 +2,12 @@
 videos and Talks
 -------
 
+
+
+### Scaled ML 
+* [Scaled ML 2017 Slides and Pictures](https://www.matroid.com/blog/post/scaled-ml-2017-slides-and-pictures)
+* [Slides from ScaledML 2016](https://www.matroid.com/blog/post/slides-from-scaledml-2016)
+
 ### Tensorflow Summit 2017
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
