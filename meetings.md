@@ -11,7 +11,10 @@
 We discussed article [Who Said What: Modeling Individual Labelers Improves
 Classification](https://arxiv.org/pdf/1703.08774.pdf)
 
-This is a nice article from Hinton's group. They argue that expert annotators have different level of reliability. As a result, the classical majority voting from multiple experts for creating the ground truth might not be the best approach. 
+This is a nice article from Hinton's group. 
+They use the same dataset as in this [article](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45732.pdf) for their experiments.
+
+They argue that expert annotators have different level of reliability. As a result, the classical majority voting from multiple experts for creating the ground truth might not be the best approach. 
 Instead, they propose modeling the doctors annotations by adding an extra output per doctor on top of Inception-v3 features.
 At inference time, the outcome of modeled doctors could be averaged equally or using learnable weighted average.
 The result show improvement in the performance compare to the classical averaging of annotations.
