@@ -215,6 +215,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [CPU benchmarks](https://www.cpubenchmark.net/compare.php?cmp%5B%5D=2470&cmp%5B%5D=2054&cmp%5B%5D=2441)
 * [Machine Learning Mastery, Jason Brownlee](http://machinelearningmastery.com/author/jasonb/)
 * [Emergent Future](https://medium.com/emergent-future)
+* [Build a super fast deep learning machine for under $1,000](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
 
 ## Computing
 * [GPU review, 1080 vs 1070](http://www.anandtech.com/show/10325/the-nvidia-geforce-gtx-1080-and-1070-founders-edition-review/5)
