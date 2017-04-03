@@ -141,6 +141,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Books
+* [Artificial Intelligence Now](http://www.oreilly.com/data/free/artificial-intelligence-now.csp?cmp=tw-data-na-article-lgen_tw_free_ebook_as)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [https://github.com/mravendi/WhirlwindTourOfPython](https://github.com/mravendi/WhirlwindTourOfPython)
 * [Python Data Science Handbook](http://www.datasciencecentral.com/profiles/blogs/book-python-data-science-handbook?overrideMobileRedirect=1)
