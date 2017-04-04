@@ -2,6 +2,7 @@
 
 
 ## Cool Stuff
+* [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
 * [Triple Pendulum CHAOS!](http://jakevdp.github.io/blog/2017/03/08/triple-pendulum-chaos/)
 * [Image-to-Image Demo](https://affinelayer.com/pixsrv/)
 * [Equations that changed the world!](https://github.com/mravendi/AIclub/blob/master/figs/C5CnChtXUAIVPe1.jpg)
