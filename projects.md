@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Keras examples](https://ustczen.gitbooks.io/keras/content/examples.html)
 * [Speeding Up TensorFlow with Metal Performance Shaders](http://www.mattrajca.com/2016/11/26/speeding-up-tensorflow-with-metal-performance-shaders.html)
 * [Deep Learning with PaddlePaddle](https://github.com/PaddlePaddle/book/blob/develop/README.en.md)
 * [Visdom](https://github.com/facebookresearch/visdom)
