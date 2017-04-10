@@ -106,6 +106,7 @@
 
 
 ### misc
+* [Which GPU(s) to Get for Deep Learning](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
 * [mix papers implementation](http://nbviewer.jupyter.org/github/blei-lab/edward/tree/master/docs/notebooks/)
 * [Setting Up Tensorflow (with CUDA) for Windows 10](http://ikanez-how-to-stuff.blogspot.ca/2017/02/setting-up-tensorflow-with-cuda-for.html?utm_content=buffer05ec3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&m=1)
 * [Building Your Own Deep Learning Box](https://medium.com/@bfortuner/building-your-own-deep-learning-box-47b918aea1eb#.mx5mg9oy2)
