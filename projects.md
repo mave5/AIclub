@@ -4,6 +4,7 @@
 
 
 ### Misc Codes/Projects
+* [basic image processing operations](https://github.com/jrosebr1/imutils)
 * [30 AMAZING APPLICATIONS OF DEEP LEARNING](http://www.yaronhadad.com/deep-learning-most-amazing-applications/#computer-vision)
 * [Keras examples](https://ustczen.gitbooks.io/keras/content/examples.html)
 * [Speeding Up TensorFlow with Metal Performance Shaders](http://www.mattrajca.com/2016/11/26/speeding-up-tensorflow-with-metal-performance-shaders.html)
