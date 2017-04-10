@@ -68,6 +68,7 @@ Go to [link] (http://www.bayareadlschool.org) for more information on the event,
 --------
 
 ### Misc
+* [2017-03-23 Yann LeCun-Deep Learning And The Future Of AI@Tsinghua University](https://www.youtube.com/watch?v=9nPJcWQfbgs&feature=youtu.be&app=desktop)
 * [Deep Learning Practicals](https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 * [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU&app=desktop)
 * [TensorFlow Dev Summit 2017 - Livestream](https://www.youtube.com/watch?v=LqLyrl-agOw&feature=youtu.be)
