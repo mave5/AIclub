@@ -69,6 +69,7 @@
 
 
 ### Deep Learning Frameworks
+* [dlib](http://blog.dlib.net/2016/06/a-clean-c11-deep-learning-api.html)
 * [Deepmind Sonnet](https://github.com/deepmind/sonnet)
 * [Tensorlayer](http://tensorlayer.readthedocs.io/en/latest/index.html)
 * [Kur](http://kur.deepgram.com/)
