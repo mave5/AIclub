@@ -165,6 +165,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [DropBox Blog](https://dropboxtechblog.wordpress.com/)
 * [Deep Learning Publication Navigator](https://ai.amundtveit.com/)
 * [Running Jupyter notebooks on GPU on AWS: a starter guide](https://github.com/mravendi/AIclub/edit/master/articles.md)
 * [Distill](http://distill.pub/)
