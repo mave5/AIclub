@@ -61,6 +61,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## DL Acceleration
+
+* [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
 * [Two-Bit Networks for Deep Learning on Resource-Constrained Embedded Devices](https://arxiv.org/abs/1701.00485)
 * [Hardware-oriented Approximation of Convolutional Neural Networks](https://arxiv.org/abs/1604.03168)
 * [Deep Learning with INT8 Optimization on Xilinx Devices](https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf)
