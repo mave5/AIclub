@@ -98,6 +98,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Medical Imaging
+* [FastVentricle: Cardiac Segmentation with ENet](https://arxiv.org/abs/1704.04296)
 * [Transfer Learning for Domain Adaptation in MRI: Application in Brain Lesion Segmentation](https://arxiv.org/abs/1702.07841)
 * [Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45732.pdf)
 * [PhD Thesis: Machine Learning for Simplifying the Use of Cardiac
