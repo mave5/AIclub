@@ -168,6 +168,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [41 Essential Machine Learning ](https://www.springboard.com/blog/machine-learning-interview-questions/?utm_content=bufferf6da4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [DropBox Blog](https://dropboxtechblog.wordpress.com/)
 * [Deep Learning Publication Navigator](https://ai.amundtveit.com/)
 * [Running Jupyter notebooks on GPU on AWS: a starter guide](https://github.com/mravendi/AIclub/edit/master/articles.md)
