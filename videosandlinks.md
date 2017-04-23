@@ -4,6 +4,9 @@ videos and Talks
 
 
 
+### Pycon 
+* [Pycon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
+
 ### Facebook for developers
 * [F8 2017](https://developers.facebook.com/videos/?category=f8_2017)
 
