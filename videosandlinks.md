@@ -4,6 +4,9 @@ videos and Talks
 
 
 
+### Facebook for developers
+* [F8 2017](https://developers.facebook.com/videos/?category=f8_2017)
+
 ### MIT Technology Review
 * [MIT 2017](http://events.technologyreview.com/video/?event=emtech-digital&year=2017)
 
