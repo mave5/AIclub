@@ -4,44 +4,44 @@ videos and Talks
 
 
 
-### Pycon 
+#### Pycon 
 * [Pycon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
 
-### Facebook for developers
+#### Facebook for developers
 * [F8 2017](https://developers.facebook.com/videos/?category=f8_2017)
 
-### MIT Technology Review
+#### MIT Technology Review
 * [MIT 2017](http://events.technologyreview.com/video/?event=emtech-digital&year=2017)
 
-### Scaled ML 
+#### Scaled ML 
 * [Scaled ML 2017 Slides and Pictures](https://www.matroid.com/blog/post/scaled-ml-2017-slides-and-pictures)
 * [Slides from ScaledML 2016](https://www.matroid.com/blog/post/slides-from-scaledml-2016)
 
-### Tensorflow Summit 2017
+#### Tensorflow Summit 2017
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
-### NIPS 2016 videos
+#### NIPS 2016 videos
 * [RECURRENT NEURAL NETWORKS](http://people.idsia.ch/~rupesh/rnnsymposium2016/program.html)
 * [History of Bayesian Neural Networks (Keynote talk)](https://www.youtube.com/watch?v=FD8l2vPU5FY&feature=youtu.be)
 * [Reliable Machine Learning in the Wild - NIPS 2016 Workshop](https://sites.google.com/site/wildml2016nips/schedule)
 * [Generative Adversarial Networks, Ian Goodfelow] (https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 * [videos and slides](https://nips.cc/Conferences/2016/Schedule)
 
-### Deeplearning4j-Skymind
+#### Deeplearning4j-Skymind
 * [Deeplearning4j - Skymind] (https://www.youtube.com/channel/UCa-HKBJwkfzs4AgZtdUuBXQ)
 
 
-### Simons Institute workshop
+#### Simons Institute workshop
 * [Representation Learning](https://simons.berkeley.edu/workshops/schedule/3750)
 * [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
 
 
-### Reinforcement Learning
+#### Reinforcement Learning
 * [RI Seminar: Sergey Levine : Deep Robotic Learning](https://www.youtube.com/watch?v=eKaYnXQUb2g&feature=youtu.be)
 * [CS 294: Deep Reinforcement Learning, Spring 2017] (http://rll.berkeley.edu/deeprlcourse/?utm_content=buffer48716&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#lecture-videos)
 
 
-### Stanford Deep Learning School
+#### Stanford Deep Learning School
 
 The talks at the Deep Learning School on September 24/25, 2016 were amazing. I clipped out individual talks from the full live streams and provided links to each below in case that's useful for people who want to watch specific talks several times (like I do). Please check out the official website (http://www.bayareadlschool.org) and full live streams below.
 
@@ -68,7 +68,7 @@ Go to [link] (http://www.bayareadlschool.org) for more information on the event,
 
 ----------
 
-### RE.WORK
+#### RE.WORK
 
 * [Critical Issues of Deep Learning in Medical Imaging](https://www.re-work.co/blog/video-presentation-deep-learning-healthcare-ben-glocker-imperial-college)
 * [REWORK on Youtube] (https://www.youtube.com/user/teamrework)
@@ -76,7 +76,7 @@ Go to [link] (http://www.bayareadlschool.org) for more information on the event,
 
 --------
 
-### Misc
+#### Misc
 * [2017-03-23 Yann LeCun-Deep Learning And The Future Of AI@Tsinghua University](https://www.youtube.com/watch?v=9nPJcWQfbgs&feature=youtu.be&app=desktop)
 * [Deep Learning Practicals](https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
 * [A DARPA Perspective on Artificial Intelligence](https://www.youtube.com/watch?v=-O01G3tSYpU&app=desktop)
