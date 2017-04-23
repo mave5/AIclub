@@ -6,9 +6,11 @@ videos and Talks
 
 #### Pycon 
 * [Pycon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
+* [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4 ](https://www.youtube.com/watch?v=Iq9DzN6mvYA&feature=youtu.be)
 
 #### Facebook for developers
 * [F8 2017](https://developers.facebook.com/videos/?category=f8_2017)
+* [Delivering Real-Time AI In the Palm of Your Hand](https://outlook.office.com/owa/?realm=hyh.com&exsvurl=1&ll-cc=1033&modurl=0&path=/mail/sentitems)
 
 #### MIT Technology Review
 * [MIT 2017](http://events.technologyreview.com/video/?event=emtech-digital&year=2017)
