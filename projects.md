@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Scikit-plot](https://github.com/reiinakano/scikit-plot)
 * [Facebook Incubator](https://github.com/facebookincubator)
 * [Kaggle Ultrasound Nerve Segmentation (25th with 0.70679 final ranking)](http://fhtagn.net/prog/2016/08/19/kaggle-uns.html)
 * [basic image processing operations](https://github.com/jrosebr1/imutils)
