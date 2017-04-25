@@ -144,6 +144,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Books
+
+* [Machine Learning Yearning, Andrew Ng](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf)
 * [Artificial Intelligence Now](http://www.oreilly.com/data/free/files/artificial-intelligence-now.pdf)
 * [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 * [https://github.com/mravendi/WhirlwindTourOfPython](https://github.com/mravendi/WhirlwindTourOfPython)
