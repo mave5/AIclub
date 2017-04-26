@@ -7,8 +7,8 @@
 * get version: python -c "import keras; print keras.__version__"
 * install: sudo pip install keras
 * upgrade: sudo pip install --upgrade keras
-* [Dynamically switch Keras backend in Jupyter notebooks] (http://www.nodalpoint.com/switch-keras-backend/)
-* [Keras - Dockerfile] (https://gist.github.com/fiskio/638c2ded94bef1be39b4)
+* [Dynamically switch Keras backend in Jupyter notebooks](http://www.nodalpoint.com/switch-keras-backend/)
+* [Keras - Dockerfile](https://gist.github.com/fiskio/638c2ded94bef1be39b4)
 
 #### Theano
 * [Theano Configuration](http://deeplearning.net/software/theano/library/config.html)
@@ -45,7 +45,7 @@
 * [How to create a bootable USB stick on Ubuntu](https://www.ubuntu.com/download/desktop/create-a-usb-stick-on-ubuntu)
 * number of certain file type in a dir: ls -lR /path/to/dir/*.jpg | wc -l
 * delete dir: rm -R dir_name
-* [change hostname in terminal] (https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
+* [change hostname in terminal](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
 * Change volume/disk label, [reference](https://ubuntuforums.org/showthread.php?t=1113236)
 
        - get device info: sudo fdisk -l
@@ -69,11 +69,11 @@
 * reset to a previous state: git reset --hard commit_head
 * go to previous state: git checkout commit_head
 * go to current state: git checkout master
-* [Github Undoing Changes] (https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
+* [Github Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
 
 
 
 #### Java
-* [Install Java 8] (http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/#)
+* [Install Java 8](http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/#)
 
 
