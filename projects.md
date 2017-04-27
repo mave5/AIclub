@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [The DeepMedic](https://github.com/Kamnitsask/deepmedic)
 * [keras cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
 * [Scikit-plot](https://github.com/reiinakano/scikit-plot)
 * [Facebook Incubator](https://github.com/facebookincubator)
