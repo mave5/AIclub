@@ -4,8 +4,21 @@
 
 
 
+### Meeting #20, 4/21/2017, SD
+
+We discussed article by Arterys [FastVentricle: Cardiac Segmentation with ENet](https://arxiv.org/abs/1704.04296)
+Arterys have FDA approval of a deep learning SW tool (DeepVentricle) for cardiac MRI. This article describes a faster version namely FastVentricle.
+
+Interesting points from the article
+- using ENET optimized for speed and memory
+- databse of 1143 short-axis cine dataset, 80% for train and 10% for validation, 10% as hold-out test
+- 10% hold out only from licensed radiologists
+- using random hyper-parameter search
+- internal representation using deep-dream (google article)
+- using post-processing for difficult cases (congenital heart disease)
 
 
+---------------------------
 ### Meeting # 19, 3/31/2017, MA
 
 We discussed article [Who Said What: Modeling Individual Labelers Improves
