@@ -100,8 +100,8 @@
 * [CNTK](https://github.com/microsoft/cntk)
 
 
-### Data and visualization software tools
-
+### Data and vision software tools
+* [OPENVX](https://www.khronos.org/openvx/)
 * [Philips DICOM viewer](http://clinical.netforum.healthcare.philips.com/global/Explore/Clinical-News/MRI/Philips-DICOM-Viewer-download-version-R30-SP3)
 * [MANGO, DICOM viewer for Windows](http://www.idoimaging.com/program/352)
 * [ilastik, the interactive learning and segmentation toolkit] (http://ilastik.org/)
