@@ -50,4 +50,7 @@ Santa Clara, May 1-3, 2017
  
  
  #### Showcase
+ - mentioned at a booth: [google tango](https://get.google.com/tango/)
+ - [openVX](https://www.khronos.org/openvx/)
  - 
+ 
