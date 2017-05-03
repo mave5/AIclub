@@ -1,6 +1,8 @@
 ## AI startups
 
 
+
+* [BDTi](https://www.bdti.com/Services/Engineering/Computer-Vision)
 * Wave Systems: The Campbell, California-based company announced details of its approach in October 2016.
 * Thincii: This company has not given much detail about the underlying architecture, but it is developing a low-power chipset targeting deep learning video applications.
 * Graphcore: It announced $30 million in funding in October 2016. Graphcore is developing an intelligent processor unit (IPU) to accelerate deep learning algorithms.
