@@ -49,8 +49,12 @@ Santa Clara, May 1-3, 2017
  - how to start an embedded vision company
  
  
+ 
+ 
  #### Showcase
  - mentioned at a booth: [google tango](https://get.google.com/tango/)
  - [openVX](https://www.khronos.org/openvx/)
- - 
+ - cozmo robot
+ - intel booth: shuttle (deep learning desktop embdded system), fathom (20 frames per second,400 by 300 image input)
+   
  
