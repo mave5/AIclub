@@ -3,6 +3,8 @@
 ## Workshops/Conferences
 ---------------------
 
+
+* [Jupyter con](http://jupyter.org/)
 * [Events.AI](http://events.ai/)
 * [RSS 2017](http://juxi.net/workshop/deep-learning-rss-2017/)
 * [NASA.AI](http://www.frontierdevelopmentlab.org/#/nasaai)
