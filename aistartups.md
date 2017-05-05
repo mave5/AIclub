@@ -1,7 +1,7 @@
 ## AI startups
 
-
-
+-------------------------
+* [Baylabs](https://baylabs.io/)
 * [butterfly network](https://www.butterflynetinc.com/)
 * [BDTi](https://www.bdti.com/Services/Engineering/Computer-Vision)
 * Wave Systems: The Campbell, California-based company announced details of its approach in October 2016.
