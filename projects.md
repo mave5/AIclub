@@ -5,6 +5,8 @@
 
 ### Misc Codes/Projects
 
+
+* [2nd place solution for the 2017 national datascience bowl](https://github.com/juliandewit/kaggle_ndsb2017)
 * [The DeepMedic](https://github.com/Kamnitsask/deepmedic)
 * [keras cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
 * [Scikit-plot](https://github.com/reiinakano/scikit-plot)
