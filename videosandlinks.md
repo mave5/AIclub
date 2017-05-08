@@ -5,7 +5,7 @@ videos and Talks
 
 
 #### National Academy of Science
-* [DL symposium](http://www.nasonline.org/about-nas/events/annual-meeting/nas154/symposium.html?referrer=https://t.co/UaVUaTmmTz?amp=1)
+* [154 annual meeting](http://www.nasonline.org/about-nas/events/annual-meeting/nas154/symposium.html?referrer=https://t.co/UaVUaTmmTz?amp=1)
 
 #### Pycon 
 * [Pycon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
