@@ -142,6 +142,10 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Image-to-Image Translation with Conditional Adversarial Nets](https://phillipi.github.io/pix2pix/)
 * [A path to unsupervised learning through adversarial networks](https://code.facebook.com/posts/1587249151575490/a-path-to-unsupervised-learning-through-adversarial-networks/)
 
+## Emotion Recognition
+* [Emotion Recognition in the Wild from Videos using Images](http://cs-people.bu.edu/sbargal/ICMI16.pdf)
+
+ 
 ## Gesture recognition
 * [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum] (http://delivery.acm.org/10.1145/2990000/2984565/p851-wang.pdf?ip=12.29.250.199&id=2984565&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=890393035&CFTOKEN=20339171&__acm__=1484769331_87ae60996ecc8c60265bce628e76024c)
 
