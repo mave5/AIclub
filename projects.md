@@ -5,7 +5,7 @@
 
 ### Misc Codes/Projects
 
-
+* [Releasing the World’s Largest Street-level Imagery Dataset for Teaching Machines to See](https://www.eriksmistad.no/vessel-detection-in-ultrasound-images-using-deep-convolutional-neural-networks/)
 * [2nd place solution for the 2017 national datascience bowl](https://github.com/juliandewit/kaggle_ndsb2017)
 * [The DeepMedic](https://github.com/Kamnitsask/deepmedic)
 * [keras cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
