@@ -20,6 +20,8 @@
 * [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks,](https://arxiv.org/abs/1608.08128) [code](https://imatge-upc.github.io/activitynet-2016-cvprw/)
 
 ## Segmeentation
+
+* [What's the Point: Semantic Segmentation with Point Supervision](https://arxiv.org/abs/1506.02106)
 * [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://arxiv.org/abs/1704.06857)
 * [Deep Image Matting](https://arxiv.org/abs/1703.03872)
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870)
