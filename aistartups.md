@@ -1,6 +1,10 @@
 ## AI startups
 
 -------------------------
+
+* [smartvidio](https://www.smartvid.io/)
+* [Focal Systems](https://athelas.com/)
+* [Athelas](https://athelas.com/)
 * [Baylabs](https://baylabs.io/)
 * [butterfly network](https://www.butterflynetinc.com/)
 * [BDTi](https://www.bdti.com/Services/Engineering/Computer-Vision)
