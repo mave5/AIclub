@@ -46,6 +46,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Classification
+
+* [How much data is needed to train a medical image deep learning system to achieve necessary high accuracy?](https://arxiv.org/abs/1511.06348)
 * [A Test Drive of the NVIDIA Jetson TX1 Developer Kit for Deep Learning and Computer Vision Applications](https://www.bdti.com/MyBDTI/pubs%3ANvidia_JetsonTX1_Kit.pdf)
 * [Who Said What: Modeling Individual Labelers Improves Classification](https://128.84.21.199/abs/1703.08774)
 * [Fast R-CNN](https://arxiv.org/abs/1504.08083)
