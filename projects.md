@@ -103,6 +103,7 @@
 
 
 ### Data and vision software tools
+* [bokeh](http://bokeh.pydata.org/en/latest/)
 * [OPENVX](https://www.khronos.org/openvx/)
 * [Philips DICOM viewer](http://clinical.netforum.healthcare.philips.com/global/Explore/Clinical-News/MRI/Philips-DICOM-Viewer-download-version-R30-SP3)
 * [MANGO, DICOM viewer for Windows](http://www.idoimaging.com/program/352)
