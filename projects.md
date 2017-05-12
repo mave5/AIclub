@@ -55,6 +55,7 @@
 
 
 ### GAN codes/projects
+* [Deep Convolutional GANs](https://github.com/udacity/deep-learning/blob/master/dcgan-svhn/DCGAN.ipynb)
 * [SimGAN] (https://github.com/wayaai/SimGAN)
 * [Image-to-Image Translation in Tensorflow](http://affinelayer.com/pix2pix/index.html)
 * [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
