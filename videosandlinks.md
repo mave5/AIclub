@@ -3,6 +3,9 @@ videos and Talks
 -------
 
 
+#### Embedded Vision Summit 2017
+* [OpenVX Workshop for Vision and Neural Network Acceleration - Part I](https://www.youtube.com/watch?v=cu0CPr5zDgY&feature=youtu.be)
+
 
 #### National Academy of Science
 * [154 annual meeting](http://www.nasonline.org/about-nas/events/annual-meeting/nas154/symposium.html?referrer=https://t.co/UaVUaTmmTz?amp=1)
