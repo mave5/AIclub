@@ -55,6 +55,8 @@
 
 
 ### GAN codes/projects
+
+* [the GAN zoo](https://deephunt.in/the-gan-zoo-79597dc8c347)
 * [Deep Convolutional GANs](https://github.com/udacity/deep-learning/blob/master/dcgan-svhn/DCGAN.ipynb)
 * [SimGAN] (https://github.com/wayaai/SimGAN)
 * [Image-to-Image Translation in Tensorflow](http://affinelayer.com/pix2pix/index.html)
