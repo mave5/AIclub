@@ -3,7 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
-
+* [Medical Imaging and Augmented Reality, every four years](http://www.miar2016.org/)
 * [Jupyter con](http://jupyter.org/)
 * [Events.AI](http://events.ai/)
 * [RSS 2017](http://juxi.net/workshop/deep-learning-rss-2017/)
