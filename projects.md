@@ -5,7 +5,7 @@
 
 ### Misc Codes/Projects
 
-* [Pandas](https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/?utm_content=buffer3f661&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Pandas & Seaborn - A guide to handle & visualize data elegantly](https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/?utm_content=buffer3f661&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Releasing the World’s Largest Street-level Imagery Dataset for Teaching Machines to See](https://www.eriksmistad.no/vessel-detection-in-ultrasound-images-using-deep-convolutional-neural-networks/)
 * [2nd place solution for the 2017 national datascience bowl](https://github.com/juliandewit/kaggle_ndsb2017)
 * [The DeepMedic](https://github.com/Kamnitsask/deepmedic)
