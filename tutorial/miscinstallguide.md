@@ -70,6 +70,12 @@
 * go to previous state: git checkout commit_head
 * go to current state: git checkout master
 * [Github Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
+* store credentials
+       $ git config credential.helper store
+       $ git push repo_url
+
+       Username for 'https://github.com': <USERNAME>
+       Password for 'https://USERNAME@github.com': <PASSWORD>
 
 
 
