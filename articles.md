@@ -106,6 +106,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Medical Imaging
+* [Deep Learning for Medical Image Analysis](https://www.elsevier.com/books/deep-learning-for-medical-image-analysis/zhou/978-0-12-810408-8#)
 * [vessel detection in ultrasound images uisng deep learning](https://www.eriksmistad.no/vessel-detection-in-ultrasound-images-using-deep-convolutional-neural-networks/)
 * [FastVentricle: Cardiac Segmentation with ENet](https://arxiv.org/abs/1704.04296)
 * [Transfer Learning for Domain Adaptation in MRI: Application in Brain Lesion Segmentation](https://arxiv.org/abs/1702.07841)
