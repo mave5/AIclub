@@ -3,7 +3,16 @@
 --------------
 
 
+#### Meeting #22, 5/19/2017, SS
 
+- metrics for evaluating medical image analysis
+- overlap (dice), distance(HD), probabilistic
+- Williams idex
+- find outlier and average
+- itk, vtk
+- 
+
+--------------------------
 ### Meeting #20, 4/21/2017, SD
 
 We discussed article by Arterys [FastVentricle: Cardiac Segmentation with ENet](https://arxiv.org/abs/1704.04296)
