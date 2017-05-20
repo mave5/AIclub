@@ -3,14 +3,34 @@
 --------------
 
 
+
+---------------------------
 #### Meeting #22, 5/19/2017, SS
 
-- metrics for evaluating medical image analysis
-- overlap (dice), distance(HD), probabilistic
-- Williams idex
-- find outlier and average
-- itk, vtk
-- 
+we reviewed and discussed the following articles
+- [Metrics for evaluating 3D medical image segmentation: analysis, selection, and tool](https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-015-0068-x)
+- [A comparison of ground truth estimation methods](http://link.springer.com/article/10.1007%2Fs11548-009-0401-3)
+- [Segmentation Validation Framework, Ghazaleh Safarzadeh Khooshabi](http://www.uppsatser.se/om/Ghazaleh+Safarzadeh+Khooshabi/)
+
+
+ Summary
+  - Different metrics used for accuracy measurement in image segmentation 
+    - overlap (dice), distance(HD), probabilistic
+  - Different methods (algorithms) used for ground truth generation  
+  - Williams idex to cluster/rank different annotators
+  - itk, vtk software tools
+  - different methods for building ground truth: averaging, staple method
+
+
+
+-----------------------
+### Meeting # 30, 5/5/2017, MA
+
+We watched this video from Facebook developer 2017 (F8) conference
+[Delivering Real-Time AI In the Palm of Your Hand](https://developers.facebook.com/videos/f8-2017/delivering-real-time-ai-in-the-palm-of-your-hand/)
+
+- talk is about Caffe2, a deep learning framework. Caffe2 is the extension of Caffe1 library with the goal of building a cross-platform framework. 
+- the talk does not go into details so it is hard to get any insights.
 
 --------------------------
 ### Meeting #20, 4/21/2017, SD
