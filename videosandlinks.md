@@ -11,6 +11,7 @@ videos and Talks
 * [154 annual meeting](http://www.nasonline.org/about-nas/events/annual-meeting/nas154/symposium.html?referrer=https://t.co/UaVUaTmmTz?amp=1)
 
 #### Pycon 
+* [Jake VanderPlas The Python Visualization Landscape PyCon 2017 ](https://www.youtube.com/watch?v=FytuB8nFHPQ)
 * [Pycon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
 * [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4 ](https://www.youtube.com/watch?v=Iq9DzN6mvYA&feature=youtu.be)
 
