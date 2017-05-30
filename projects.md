@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [scikit-multilearn](http://scikit.ml/)
 * [Image Augmentation](https://github.com/aleju/imgaug)
 * [Pandas & Seaborn - A guide to handle & visualize data elegantly](https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/?utm_content=buffer3f661&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Releasing the World’s Largest Street-level Imagery Dataset for Teaching Machines to See](https://www.eriksmistad.no/vessel-detection-in-ultrasound-images-using-deep-convolutional-neural-networks/)
