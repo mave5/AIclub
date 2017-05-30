@@ -109,6 +109,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Medical Imaging
 
+* [Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/)
 * [Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks](https://arxiv.org/abs/1705.03820)
 * [Real-Time Automatic Artery Segmentation, Reconstruction and Registration for Ultrasound-Guided Regional Anaesthesia of the Femoral Nerve](http://www.letsdoproject.com/letsdo/MAT2016/Real-Time%20Automatic%20Artery%20Segmentation.pdf)
 * [Deep Learning for Medical Image Analysis](https://www.elsevier.com/books/deep-learning-for-medical-image-analysis/zhou/978-0-12-810408-8#)
