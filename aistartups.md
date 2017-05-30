@@ -2,6 +2,7 @@
 
 -------------------------
 
+* [Waya AI](https://github.com/wayaai)
 * [smartvidio](https://www.smartvid.io/)
 * [Focal Systems](https://athelas.com/)
 * [Athelas](https://athelas.com/)
