@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Face classification and detection](https://github.com/oarriaga/face_classification)
 * [scikit-multilearn](http://scikit.ml/)
 * [Image Augmentation](https://github.com/aleju/imgaug)
 * [Pandas & Seaborn - A guide to handle & visualize data elegantly](https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/?utm_content=buffer3f661&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
