@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/)
 * [Face classification and detection](https://github.com/oarriaga/face_classification)
 * [scikit-multilearn](http://scikit.ml/)
 * [Image Augmentation](https://github.com/aleju/imgaug)
