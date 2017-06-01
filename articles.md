@@ -109,7 +109,6 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Medical Imaging
-
 * [Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/)
 * [Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks](https://arxiv.org/abs/1705.03820)
 * [Real-Time Automatic Artery Segmentation, Reconstruction and Registration for Ultrasound-Guided Regional Anaesthesia of the Femoral Nerve](http://www.letsdoproject.com/letsdo/MAT2016/Real-Time%20Automatic%20Artery%20Segmentation.pdf)
@@ -126,6 +125,11 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 
+## Emotion and Pain detection
+
+* [Recurrent Convolutional Neural Network Regression for Continuous Pain Intensity Estimation in Video](https://arxiv.org/abs/1605.00894)
+* [Spatio-Temporal Pain Recognition in CNN-based Super-Resolved Facial Images](http://vbn.aau.dk/files/245132512/FFER_Pain_Super_Resolution.pdf)
+* [Fusing Deep Learned and Hand-Crafted Features of Appearance, Shape, and Dynamics for Automatic Pain Estimation](https://arxiv.org/abs/1701.04540)
 
 ## Reinforcement Learning
 * [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf)
