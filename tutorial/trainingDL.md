@@ -5,7 +5,13 @@
 * important hyper-parameters: learning rate, batch size, number of filters, depth
 * network converges to all zero output
   - try smaller learning rates
-  - change random seed point
+  - try different random seed point to have different weights initialization
   - initialize with pre-trained weights from similar applications
+  - try different data shuffling
+  
+  * imbalanced data classification
+    - use stratify data split
+    
+  
   
   
