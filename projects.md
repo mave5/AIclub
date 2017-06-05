@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 * [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/)
 * [Face classification and detection](https://github.com/oarriaga/face_classification)
 * [scikit-multilearn](http://scikit.ml/)
