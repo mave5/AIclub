@@ -110,6 +110,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Medical Imaging
 
+* [Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation](https://arxiv.org/abs/1705.08302)
 * [Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?](https://arxiv.org/abs/1706.00712)
 * [Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/)
 * [Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks](https://arxiv.org/abs/1705.03820)
