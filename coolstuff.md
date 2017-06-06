@@ -24,7 +24,7 @@
 
 * [Deep Learning Enables You to Hide Screen when Your Boss is Approaching](http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/)
 
-* [Android™ Based Robotics: Powerful, Flexible and Inexpensive Robots for Hobbyists, Educators, Students and Researchers] (http://www.socsci.uci.edu/~jkrichma/ABR/abr_background.html)
+* [Android™ Based Robotics: Powerful, Flexible and Inexpensive Robots for Hobbyists, Educators, Students and Researchers](http://www.socsci.uci.edu/~jkrichma/ABR/abr_background.html)
 
 * [This French Grocery Chain Is Totally Trolling Amazon Go](https://www.fastcocreate.com/3066794/quick-hit/this-french-grocery-chain-is-totally-trolling-amazon-go)
 * [Amazon GO](https://www.youtube.com/watch?v=NrmMk1Myrxc)
