@@ -110,6 +110,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Medical Imaging
 
+* [Reverse Classification Accuracy: Predicting Segmentation Performance in the Absence of Ground Truth](https://arxiv.org/abs/1702.03407)
 * [Unsupervised domain adaptation in brain lesion segmentation with adversarial networks](https://arxiv.org/abs/1612.08894)
 * [Concurrent Segmentation and Localization for Tracking of Surgical Instruments](https://arxiv.org/abs/1703.10701)
 * [Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation](https://arxiv.org/abs/1705.08302)
@@ -168,7 +169,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
  
 ## Gesture recognition
-* [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum] (http://delivery.acm.org/10.1145/2990000/2984565/p851-wang.pdf?ip=12.29.250.199&id=2984565&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=890393035&CFTOKEN=20339171&__acm__=1484769331_87ae60996ecc8c60265bce628e76024c)
+* [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum](http://delivery.acm.org/10.1145/2990000/2984565/p851-wang.pdf?ip=12.29.250.199&id=2984565&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=890393035&CFTOKEN=20339171&__acm__=1484769331_87ae60996ecc8c60265bce628e76024c)
 
 
 ## Books
