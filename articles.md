@@ -21,6 +21,7 @@
 
 ## Segmeentation
 
+* [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684)
 * [Weakly Supervised Semantic Segmentation using Web-Crawled Videos](https://arxiv.org/abs/1701.00352)
 * [What's the Point: Semantic Segmentation with Point Supervision](https://arxiv.org/abs/1506.02106)
 * [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://arxiv.org/abs/1704.06857)
