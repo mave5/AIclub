@@ -33,7 +33,7 @@ videos and Talks
 * [RECURRENT NEURAL NETWORKS](http://people.idsia.ch/~rupesh/rnnsymposium2016/program.html)
 * [History of Bayesian Neural Networks (Keynote talk)](https://www.youtube.com/watch?v=FD8l2vPU5FY&feature=youtu.be)
 * [Reliable Machine Learning in the Wild - NIPS 2016 Workshop](https://sites.google.com/site/wildml2016nips/schedule)
-* [Generative Adversarial Networks, Ian Goodfelow] (https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
+* [Generative Adversarial Networks, Ian Goodfelow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 * [videos and slides](https://nips.cc/Conferences/2016/Schedule)
 
 #### Deeplearning4j-Skymind
