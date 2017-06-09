@@ -86,6 +86,7 @@ Go to [link] (http://www.bayareadlschool.org) for more information on the event,
 --------
 
 #### Misc
+* [Yan LeCun, Obstacles to AI, Mathematical and Otherwise](http://www.birs.ca/events/2016/5-day-workshops/16w5136/videos/watch/201610170900-LeCun.html)
 * [What Kaggle has learned from almost a million data scientists - Anthony Goldbloom (Kaggle) ](https://www.youtube.com/watch?v=jmHbS8z57yI)
 * [2017-03-23 Yann LeCun-Deep Learning And The Future Of AI@Tsinghua University](https://www.youtube.com/watch?v=9nPJcWQfbgs&feature=youtu.be&app=desktop)
 * [Deep Learning Practicals](https://www.youtube.com/playlist?list=PLLHTzKZzVU9ebuL6DCclzI54MrPNFGqbW)
