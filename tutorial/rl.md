@@ -10,7 +10,9 @@
     * policy learning: find *pi(s)* directly
     * value learning: given state and action estimate max future reward
   * *Q(st,at)* value: expected future reward at state *st* taking action *at* assuming subsequenct actions are going to be perfect
-  
+  * Bellman equation: relating one Q value to another Q value
+  * max future reward for taking action *at* is the current reward plus the next step's max future reward 
+  * How large is Q space? 
     
   
 
