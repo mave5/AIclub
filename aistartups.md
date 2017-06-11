@@ -24,3 +24,12 @@
 * [aKountable](https://github.com/safer41/aKountable/blob/master/README.md)
 * [startup school YC](https://www.startupschool.org/)
 * [All 51 startups that debuted at Y Combinator W17 Demo Day 2](https://techcrunch.com/2017/03/21/demo-day-y-combinator/amp/)
+
+* [FLOYD](https://www.floydhub.com/)
+* [comma.ai](http://comma.ai/)
+* [waya.ai](https://mjdietzx.github.io/waya.ai-website/)
+* [unity, VR/AR](https://unity3d.com/)
+* [Domino Lab](https://www.dominodatalab.com/)
+* [Wave computing](http://wavecomp.ai/)
+
+
