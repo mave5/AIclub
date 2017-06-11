@@ -24,7 +24,12 @@
     - compute loss
     - update $\theata$
     - update old state theta
-    
+  * to pick action *a* from some policy $\pi(s)$ 
+   - balance between explore and exploit
+   - greedy exploration
+   - most of the time pick the optimum action
+   - with small probability pick a random action
+   
   
     
   
