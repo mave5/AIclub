@@ -1,7 +1,10 @@
 ## Reinforcement Learning
 
 
-* [MIT 6.S191 Lecture 6: Deep Reinforcement Learning ](https://www.youtube.com/watch?v=xWe58WGWmlk&index=4&list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
+---------------------
+
+#### MIT 6.S191 Lecture 6: Deep Reinforcement Learning
+* [MIT 6.S191 Lecture 6: Deep Reinforcement Learning](https://www.youtube.com/watch?v=xWe58WGWmlk&index=4&list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
   * RL: given data, choose action to maximize expected long-term reward
   * quantize interactions into episodes: s0,a0,r0, s1,a1,r1, ..., sT,aT,rT
   * key to RL: transition function *p(st+1,rt|st,at)*
@@ -32,7 +35,7 @@
    
   
     
-  
+#### Demystifying Deep Reinforcement Learning  
 * [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
  * Breakout game using supervised NN
    - input image, output three actions
