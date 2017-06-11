@@ -3,6 +3,8 @@
 
 ## Cool Stuff
 
+
+* [Reading and Sorting Mail Automatically](http://hackaday.com/2017/06/09/retrotechtacular-reading-and-sorting-mail-automatically/)
 * [draw to image](http://fotogenerator.npocloud.nl/)
 * [AR Ultrasound with Unity](https://www.youtube.com/watch?v=hKH1e38B1is&feature=youtu.be)
 * [Neural Network 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y&feature=youtu.be)
