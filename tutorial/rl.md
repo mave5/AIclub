@@ -33,5 +33,23 @@
   
     
   
+* [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
+ * Breakout game using supervised NN
+   - input image, output three actions
+   - needs lots of examples, almost impossible
+   - human only uses occasional feedback
+ * RL is in between supervised and unsupervised
+ * RL: sparse labels, rewards
+ * credid assignment probles: which action was responsible for reward
+ * explore-exploit dilemma: stick with one strategy or explore other strategies
+ * formalize RL: Markov Decision Process, set of states and actions
+ * policy: rules to perform actions, mapping from state to action
+ * one episode or game forms a finite sequence of states, actions and rewards
+ * Markov assumption: probability of next state depends only on current state si and action ai
+ * Discounted Future Reward: since environment is stochastic
+ * If environment is deterministic and the same actions always result in same rewards, then discount factor γ=1.
+ 
+ 
+
 
 
