@@ -12,7 +12,20 @@
   * *Q(st,at)* value: expected future reward at state *st* taking action *at* assuming subsequenct actions are going to be perfect
   * Bellman equation: relating one Q value to another Q value
   * max future reward for taking action *at* is the current reward plus the next step's max future reward 
-  * How large is Q space? 
+  * How large is Q space? almost infinite
+  * What is the loss in RL?
+  * Approximate Q value with NN
+  * Minimize distance between given Q value and max future reward
+  * Q learning
+   - initialize $\theta$
+   - pick initial state *s=s0*
+   - while loop
+    - pick action *a* from some policy $\pi(s)$ and store reward *r* and new state *s*new
+    - compute loss
+    - update $\theata$
+    - update old state theta
+    
+  
     
   
 
