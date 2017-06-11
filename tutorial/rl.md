@@ -20,10 +20,10 @@
    - initialize $\theta$
    - pick initial state *s=s0*
    - while loop
-    - pick action *a* from some policy $\pi(s)$ and store reward *r* and new state *s*new
-    - compute loss
-    - update $\theata$
-    - update old state theta
+     - pick action *a* from some policy $\pi(s)$ and store reward *r* and new state *s*new
+     - compute loss
+     - update $\theata$
+     - update old state theta
   * to pick action *a* from some policy $\pi(s)$ 
    - balance between explore and exploit
    - greedy exploration
