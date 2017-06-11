@@ -74,7 +74,7 @@
 
 ### Reinforcement Learning codes/projects
 * [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
-* [AlphaBubble] (https://github.com/laurenssam/AlphaBubble)
+* [AlphaBubble](https://github.com/laurenssam/AlphaBubble)
 * [Eat Melon! A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/)
 * [Learning to Learn in TensorFlow](https://github.com/deepmind/learning-to-learn?files=1)
 * [OpenAI – Universe Installation Guide Ubuntu 16.04](https://alliseesolutions.wordpress.com/2016/12/08/openai-universe-installation-guide-ubuntu-16-04/)
