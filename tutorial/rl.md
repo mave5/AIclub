@@ -5,7 +5,7 @@
   * RL: given data, choose action to maximize expected long-term reward
   * quantize interactions into episodes: s0,a0,r0, s1,a1,r1, ..., sT,aT,rT
   * key to RL: transition function *p(st+1,rt|st,at)*
-  * objective in RL: finding policy *\( \pi(s)=p(a|s) \)* to maximize reward
+  * objective in RL: finding policy $ \pi(s)=p(a|s) \$ to maximize reward
   * two major methods to find policy
     * policy learning: find *pi(s)* directly
     * value learning: given state and action estimate max future reward
