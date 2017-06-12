@@ -73,6 +73,7 @@
 
 
 ### Reinforcement Learning codes/projects
+* [Q-learning for Keras](https://github.com/farizrahman4u/qlearning4k)
 * [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
 * [AlphaBubble](https://github.com/laurenssam/AlphaBubble)
 * [Eat Melon! A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/)
