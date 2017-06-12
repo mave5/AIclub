@@ -100,6 +100,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Misc
+* [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/abs/1511.06435)
 * [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807)
 * [The Ladder: A Reliable Leaderboard for Machine Learning Competitions](https://arxiv.org/abs/1502.04585)
 * [Uber Elevate, Fast-Forwarding to a Future of On-Demand Urban Air Transportation](https://www.uber.com/elevate.pdf)
