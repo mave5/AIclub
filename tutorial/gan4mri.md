@@ -1,5 +1,5 @@
 
-## GANs for medical imaging.
+## GANs for medical imaging
 
 In this work we aim to introduce a method of using genrative adversarial networks (GANs) to simultaneosly generate medical images and corresponding anntations. 
 
