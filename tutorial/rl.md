@@ -64,8 +64,8 @@
   - Do forward for next state *s'*  and calculate *max Q(s',a')*
   - set target Q-value to * r + γ max a’ Q(s’, a’) *
   - Update the weights using backpropagation
-  - experience replay: store experiences, random mini-batch from experience replay are used instead of the most recent transition
-  - Exploration-Exploitation: ε-greedy exploration
+ * experience replay: store experiences, random mini-batch from experience replay are used instead of the most recent transition
+ * Exploration-Exploitation: ε-greedy exploration
   
   
    
