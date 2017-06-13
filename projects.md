@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Deep Learning Toolkit (DLTK)](https://github.com/DLTK/DLTK)
 * [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
 * [Kaggle past solutions](http://ndres.me/kaggle-past-solutions/)
 * [Face classification and detection](https://github.com/oarriaga/face_classification)
