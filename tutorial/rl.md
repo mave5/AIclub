@@ -67,8 +67,22 @@
  * experience replay: store experiences, random mini-batch from experience replay are used instead of the most recent transition
  * Exploration-Exploitation: ε-greedy exploration
   
-  
-   
+
+### Dissecting Reinforcement Learning
+* [Dissecting Reinforcement Learning](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
+* Markov chain
+  - set of states: S={s0,...,sm}
+  - initial state: s0
+  - transition model: T(s,s') 
+* MDP: Markov chain including an agent and decision making process 
+ - set of states
+ - initial state
+ - transition model
+ - Set of actions: A={a0,a1,...,an}
+ - reward function: R(s)
+ - optimal policy: value iteration and policy iteration
+ - model-free reinforcement learning: no transition model and no reward function
+ 
   
   
   
