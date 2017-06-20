@@ -92,6 +92,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Theory
+* [Hyperparameter Optimization: A Spectral Approach](https://arxiv.org/abs/1706.00764)
 * [The Shattered Gradients Problem: If resnets are the answer, then what is the question?](https://arxiv.org/abs/1702.08591)
 * [On the Origin of Deep Learning](https://arxiv.org/pdf/1702.07800.pdf)
 * [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)
