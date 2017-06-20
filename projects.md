@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [a simple way to dockerize ipython notebooks](https://github.com/mynameisvinn/Docker-for-Data-Scientists)
 * [jupyter notebook: slider to change images](https://gist.github.com/EderSantana/0416b7b05b13fcbe91bded220b6bee88)
 * [Deep Learning Toolkit (DLTK)](https://github.com/DLTK/DLTK)
 * [WebDNN: Fastest DNN Execution Framework on Web Browser](https://github.com/mil-tokyo/webdnn)
