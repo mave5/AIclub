@@ -34,3 +34,7 @@
 * [Amazon GO](https://www.youtube.com/watch?v=NrmMk1Myrxc)
 * [How Self-Driving Cars Work](http://www.nytimes.com/interactive/2016/12/14/technology/how-self-driving-cars-work.html?_r=0)
 
+
+### Qoutes
+- These are men with bold ideas, but highly critical of their own ideas; they try to find whether their ideas are right by trying first to find whether they are not perhaps wrong. They work with bold conjectures and severe attempts at refuting their own conjectures. 
+
