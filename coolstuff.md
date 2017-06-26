@@ -3,6 +3,7 @@
 
 ## Cool Stuff
 
+* [Deep Dream Generator](https://deepdreamgenerator.com/)
 * [Setosa](http://setosa.io/#/)
 * [Baxter robot](http://www.rethinkrobotics.com/intera/)
 * [Reading and Sorting Mail Automatically](http://hackaday.com/2017/06/09/retrotechtacular-reading-and-sorting-mail-automatically/)
