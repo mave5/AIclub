@@ -6,6 +6,7 @@
 ### Misc Codes/Projects
 
 
+* [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 * [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
 * [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
 * [a simple way to dockerize ipython notebooks](https://github.com/mynameisvinn/Docker-for-Data-Scientists)
