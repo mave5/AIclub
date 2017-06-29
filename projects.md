@@ -6,6 +6,7 @@
 ### Misc Codes/Projects
 
 
+* [Minimal and clean examples of reinforcement learning algorithms presented by RLCode team](https://github.com/rlcode/reinforcement-learning?files=1)
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 * [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
 * [Measuring the Progress of AI Research](https://www.eff.org/ai/metrics)
