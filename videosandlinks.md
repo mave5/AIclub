@@ -3,6 +3,10 @@ videos and Talks
 -------
 
 
+
+####  
+* [The Machine Learning Summer School](http://mlss.tuebingen.mpg.de/2017/speakers.html)
+
 #### Embedded Vision Summit 2017
 * [OpenVX Workshop for Vision and Neural Network Acceleration - Part I](https://www.youtube.com/watch?v=cu0CPr5zDgY&feature=youtu.be)
 
