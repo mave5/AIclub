@@ -114,6 +114,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Medical Imaging
 
+* [On evaluating brain tissue classifiers without a ground truth](http://www.sciencedirect.com/science/article/pii/S1053811907003485?via%3Dihub)
 * [Reverse Classification Accuracy: Predicting Segmentation Performance in the Absence of Ground Truth](https://arxiv.org/abs/1702.03407)
 * [Unsupervised domain adaptation in brain lesion segmentation with adversarial networks](https://arxiv.org/abs/1612.08894)
 * [Concurrent Segmentation and Localization for Tracking of Surgical Instruments](https://arxiv.org/abs/1703.10701)
