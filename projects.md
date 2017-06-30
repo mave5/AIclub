@@ -148,6 +148,10 @@
 * [picamera](http://picamera.readthedocs.io/en/release-1.10/recipes1.html)
 * [sysstat, system statistics](http://sebastien.godard.pagesperso-orange.fr/)
 
+### tools
+* [AutoIt](https://www.autoitscript.com/site/)
+
+
 ### version control
 * [Bitbucket](https://bitbucket.org/)
 * [GitLab](https://gitlab.com/users/sign_in)
