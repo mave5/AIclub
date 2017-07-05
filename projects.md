@@ -5,7 +5,7 @@
 
 ### Misc Codes/Projects
 
-
+* [Kaggle](NOAA Fisheries Steller Sea Lion Population Count)
 * [Minimal and clean examples of reinforcement learning algorithms presented by RLCode team](https://github.com/rlcode/reinforcement-learning?files=1)
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 * [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
