@@ -5,7 +5,8 @@
 
 ### Misc Codes/Projects
 
-* [Kaggle](NOAA Fisheries Steller Sea Lion Population Count)
+* [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data/blob/master/README.md)
+* [Kaggle:NOAA Fisheries Steller Sea Lion Population Count](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count/discussion/35454)
 * [Minimal and clean examples of reinforcement learning algorithms presented by RLCode team](https://github.com/rlcode/reinforcement-learning?files=1)
 * [Hyperparameter optimization for Neural Networks](http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html)
 * [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
