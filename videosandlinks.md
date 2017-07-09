@@ -3,7 +3,8 @@ videos and Talks
 -------
 
 ### Machine Learning and the Market for Intelligence 
-[Machine Learning and the Market for Intelligence, 2016 ](http://www.marketforintelligence.com/2016-talks/)
+
+* [Machine Learning and the Market for Intelligence, 2016 ](http://www.marketforintelligence.com/2016-talks/)
 
 ####  
 * [The Machine Learning Summer School 2017](http://mlss.tuebingen.mpg.de/2017/speakers.html)
