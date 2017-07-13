@@ -101,7 +101,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [Deep Learning without Poor Local Minima](https://arxiv.org/abs/1605.07110)
 
 
-## Misc
+## Misc, Analysis, Evaluations, Overviews
+* [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
 * [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/abs/1511.06435)
 * [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807)
 * [The Ladder: A Reliable Leaderboard for Machine Learning Competitions](https://arxiv.org/abs/1502.04585)
