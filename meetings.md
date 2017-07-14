@@ -4,6 +4,17 @@
 
 
 
+------------------
+#### Meeting #23, 7/13/2017, MA
+We watched two videos from Rework Deep Learning in healthcare, Boston 2017.
+[DL Rework Boston 2017](http://videos.re-work.co/events/24-deep-learning-in-healthcare-summit-boston-2017)
+
+* Reducing the Tedium of Radiology with Cloud-based Deep Learning Daniel Golden, Director of Machine Learning at Arterys
+  At some points he mentions to custom loss function to be able to use all of training data.
+  
+* Dental CAD/CAM Automation with Deep Learning Sergei Azernikov, Machine Learning Lead at Glidewell Laboratories
+
+
 ---------------------------
 #### Meeting #22, 5/19/2017, SS
 
@@ -24,7 +35,7 @@ we reviewed and discussed the following articles
 
 
 -----------------------
-### Meeting # 30, 5/5/2017, MA
+### Meeting # 21, 5/5/2017, MA
 
 We watched this video from Facebook developer 2017 (F8) conference
 [Delivering Real-Time AI In the Palm of Your Hand](https://developers.facebook.com/videos/f8-2017/delivering-real-time-ai-in-the-palm-of-your-hand/)
