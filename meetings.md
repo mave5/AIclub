@@ -3,6 +3,24 @@
 --------------
 
 
+---------------------
+### Meeting #24, 7/14/2017
+
+We discuss article [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+
+- prunning, quantization, Huffman coding
+- to be deployed on mobile devices, energy consumption
+- fit SRAM (inside chip) vs DRAM (external ram) 
+- train with full precision, prunn, re-train
+- using code book, compression, weight sharing
+- using k-means to clustering
+- using customize Caffe
+- compress rate 
+
+
+We also discussed [How to quantize neural networks with Tensorflow](https://www.tensorflow.org/performance/quantization)
+- first floating point then quantize
+
 
 ------------------
 #### Meeting #23, 7/13/2017, MA
