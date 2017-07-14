@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Optical Illusions in Matplotlib](http://nbviewer.jupyter.org/gist/jakevdp/514bcc09637ac71ca1a8fa703c54e5f7#Shifty-Grids)
 * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data/blob/master/README.md)
 * [Kaggle:NOAA Fisheries Steller Sea Lion Population Count](https://www.kaggle.com/c/noaa-fisheries-steller-sea-lion-population-count/discussion/35454)
 * [Minimal and clean examples of reinforcement learning algorithms presented by RLCode team](https://github.com/rlcode/reinforcement-learning?files=1)
