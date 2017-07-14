@@ -7,6 +7,7 @@
 ------------------
 #### Meeting #23, 7/13/2017, MA
 We watched two videos from Rework Deep Learning in healthcare, Boston 2017.
+
 [DL Rework Boston 2017](http://videos.re-work.co/events/24-deep-learning-in-healthcare-summit-boston-2017)
 
 * Reducing the Tedium of Radiology with Cloud-based Deep Learning Daniel Golden, Director of Machine Learning at Arterys
