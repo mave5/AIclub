@@ -2,6 +2,7 @@
 
 
 
+* [Lesson 14 wiki](http://forums.fast.ai/t/lesson-14-wiki/2469)
 * [MIT: Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
