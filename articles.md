@@ -103,6 +103,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Misc, Analysis, Evaluations, Overviews
+* [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
 * [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
 * [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/abs/1511.06435)
 * [When Will AI Exceed Human Performance? Evidence from AI Experts](https://arxiv.org/abs/1705.08807)
