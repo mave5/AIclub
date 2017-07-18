@@ -63,6 +63,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 ## Adversarial Examples
+* [NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles](https://arxiv.org/abs/1707.03501)
 * [The challenge of verification and testing of machine learning](http://www.cleverhans.io/security/privacy/ml/2017/06/14/verification.html)
 * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
 * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
