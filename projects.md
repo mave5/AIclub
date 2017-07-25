@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Marching neural networks](https://github.com/arogozhnikov/3d_nn)
 * [Dense Net in Keras](https://github.com/titu1994/DenseNet)
 * [ML- Ensemble](https://github.com/flennerhag/mlens)
 * [Optical Illusions in Matplotlib](http://nbviewer.jupyter.org/gist/jakevdp/514bcc09637ac71ca1a8fa703c54e5f7#Shifty-Grids)
