@@ -147,7 +147,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Spatio-Temporal Pain Recognition in CNN-based Super-Resolved Facial Images](http://vbn.aau.dk/files/245132512/FFER_Pain_Super_Resolution.pdf)
 * [Fusing Deep Learned and Hand-Crafted Features of Appearance, Shape, and Dynamics for Automatic Pain Estimation](https://arxiv.org/abs/1701.04540)
 
+
 ## Reinforcement Learning
+* [Reinforcement Learning for Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)
 * [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
 * [Dissecting Reinforcement Learning-Part.3](https://mpatacchiola.github.io/blog/2017/01/29/dissecting-reinforcement-learning-3.html)
