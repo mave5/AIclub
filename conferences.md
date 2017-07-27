@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [IEEE Ultrasound Symposium](http://ewh.ieee.org/conf/ius/2017/courses.php)
 * [Deep Learning in Medical Imaging](http://cs.adelaide.edu.au/~dlmia3/)
 * [Medical Imaging and Augmented Reality, every four years](http://www.miar2016.org/)
 * [Jupyter con](http://jupyter.org/)
