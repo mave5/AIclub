@@ -141,7 +141,8 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 
-## Emotion and Pain detection
+## Emotion,Face and Pain detection
+* [Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/abs/1611.09577)
 * [Emotion Recognition in the Wild from Videos using Images](http://cs-people.bu.edu/sbargal/ICMI16.pdf)
 * [Recurrent Convolutional Neural Network Regression for Continuous Pain Intensity Estimation in Video](https://arxiv.org/abs/1605.00894)
 * [Spatio-Temporal Pain Recognition in CNN-based Super-Resolved Facial Images](http://vbn.aau.dk/files/245132512/FFER_Pain_Super_Resolution.pdf)
