@@ -118,6 +118,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+
+* [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://arxiv.org/abs/1612.05601)
 * [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/abs/1707.01836)
 * [On evaluating brain tissue classifiers without a ground truth](http://www.sciencedirect.com/science/article/pii/S1053811907003485?via%3Dihub)
 * [Reverse Classification Accuracy: Predicting Segmentation Performance in the Absence of Ground Truth](https://arxiv.org/abs/1702.03407)
