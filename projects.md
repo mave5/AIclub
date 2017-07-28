@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Mcfly is deep learning tool for time series classification](https://github.com/NLeSC/mcfly-tutorial)
 * [Marching neural networks](https://github.com/arogozhnikov/3d_nn)
 * [Dense Net in Keras](https://github.com/titu1994/DenseNet)
 * [ML- Ensemble](https://github.com/flennerhag/mlens)
