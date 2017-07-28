@@ -117,8 +117,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 
-## Medical Imaging
-
+## Healthcare and Medical Imaging
+* [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/abs/1707.01836)
 * [On evaluating brain tissue classifiers without a ground truth](http://www.sciencedirect.com/science/article/pii/S1053811907003485?via%3Dihub)
 * [Reverse Classification Accuracy: Predicting Segmentation Performance in the Absence of Ground Truth](https://arxiv.org/abs/1702.03407)
 * [Unsupervised domain adaptation in brain lesion segmentation with adversarial networks](https://arxiv.org/abs/1612.08894)
