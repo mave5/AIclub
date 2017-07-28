@@ -3,6 +3,16 @@
 --------------
 
 
+----------------
+### Meeting #25, 7/27/2017
+
+We discussed article [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://arxiv.org/pdf/1612.05601.pdf)
+
+This is a pretty thorogh article on using deep learning for fetus detection, localization and analysis in ultrasound imaging.
+It talks in detail all the procedure from data collection, annotation and training.
+The article also proposes a semi-supervised method for ground-truth generation using the extracted features in the deeper layers of a classification network.
+
+
 ---------------------
 ### Meeting #24, 7/14/2017
 
