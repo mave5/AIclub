@@ -145,6 +145,8 @@
 
 
 ### misc
+* [Chatbot Magazine](https://chatbotsmagazine.com/)
+* [product hunt](https://www.producthunt.com/topics/bots)
 * [FreeCodeCamp](https://www.freecodecamp.com/challenges/configure-your-profile)
 * [Which GPU(s) to Get for Deep Learning](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
 * [mix papers implementation](http://nbviewer.jupyter.org/github/blei-lab/edward/tree/master/docs/notebooks/)
