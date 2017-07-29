@@ -2,6 +2,7 @@
 
 -------------------------
 
+* [Chatfuel: chatbot](https://chatfuel.com/)
 * [Waya AI](https://github.com/wayaai)
 * [smartvidio](https://www.smartvid.io/)
 * [Focal Systems](https://athelas.com/)
