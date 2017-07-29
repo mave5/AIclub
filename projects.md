@@ -128,6 +128,9 @@
 * [CNTK](https://github.com/microsoft/cntk)
 
 
+### chatbots
+* [Creating your own Facebook Messenger bot](https://github.com/jw84/messenger-bot-tutorial)
+
 ### Data and vision software tools
 * [bokeh](http://bokeh.pydata.org/en/latest/)
 * [OPENVX](https://www.khronos.org/openvx/)
