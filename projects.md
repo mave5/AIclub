@@ -87,6 +87,7 @@
 
 
 ### Reinforcement Learning codes/projects
+* [Keras RL](https://github.com/matthiasplappert/keras-rl)
 * [Dissecting Reinforcement Learning](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 * [Q-learning for Keras](https://github.com/farizrahman4u/qlearning4k)
 * [Self-driving cars in the browser](http://janhuenermann.com/projects/learning-to-drive)
