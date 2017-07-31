@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Predicting lung cancer](https://eliasvansteenkiste.github.io/machine%20learning/lung-cancer-pred/?utm_content=buffer68535&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Mcfly is deep learning tool for time series classification](https://github.com/NLeSC/mcfly-tutorial)
 * [Marching neural networks](https://github.com/arogozhnikov/3d_nn)
 * [Dense Net in Keras](https://github.com/titu1994/DenseNet)
