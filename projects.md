@@ -87,6 +87,7 @@
 
 
 ### Reinforcement Learning codes/projects
+* [Evoloution Strategies with Keras](https://gist.github.com/nicksam112/00e9638c0efad1adac878522cf172484)
 * [Keras RL](https://github.com/matthiasplappert/keras-rl)
 * [Dissecting Reinforcement Learning](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 * [Q-learning for Keras](https://github.com/farizrahman4u/qlearning4k)
