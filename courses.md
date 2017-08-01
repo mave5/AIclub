@@ -2,6 +2,7 @@
 
 
 
+* [fast.ai](http://www.fast.ai/)
 * [Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/)
 * [Lesson 14 wiki](http://forums.fast.ai/t/lesson-14-wiki/2469)
 * [MIT: Introduction to Deep Learning](http://introtodeeplearning.com/)
