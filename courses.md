@@ -2,6 +2,7 @@
 
 
 
+* [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 * [fast.ai](http://www.fast.ai/)
 * [Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/)
 * [Lesson 14 wiki](http://forums.fast.ai/t/lesson-14-wiki/2469)
