@@ -214,6 +214,9 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 ## Verification and Validation
 * [Verification and Validation and Artificial Intelligence](http://lvl.info.ucl.ac.be/pmwiki/uploads/Publications/VerificationAndValidationAndArtificialIntelligence/aivvis-aic.pdf)
 
+### Business
+* [Sizing the prize What’s the real value of AI for your business and how can you capitalise?](https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf)
+
 
 ## Blogs/Webpages
 * [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
