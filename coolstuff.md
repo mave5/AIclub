@@ -3,6 +3,7 @@
 
 ## Cool Stuff
 
+* [deeplearn.js](https://pair-code.github.io/deeplearnjs/)
 * [Deep Dream Generator](https://deepdreamgenerator.com/)
 * [Setosa](http://setosa.io/#/)
 * [Baxter robot](http://www.rethinkrobotics.com/intera/)
