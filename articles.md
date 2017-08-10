@@ -185,6 +185,10 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [Interacting with Soli: Exploring Fine-Grained Dynamic Gesture Recognition in the Radio-Frequency Spectrum](http://delivery.acm.org/10.1145/2990000/2984565/p851-wang.pdf?ip=12.29.250.199&id=2984565&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E5945DC2EABF3343C&CFID=890393035&CFTOKEN=20339171&__acm__=1484769331_87ae60996ecc8c60265bce628e76024c)
 
 
+## Robotics
+
+* [A brief survey of commercial robotic arms for research on manipulation](http://ieeexplore.ieee.org/document/6219361/)
+
 ## Books
 
 * [Machine Learning for OpenCV](https://github.com/mbeyeler/opencv-machine-learning/blob/master/README.md)
