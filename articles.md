@@ -152,6 +152,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Reinforcement Learning
+* [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [Reinforcement Learning for Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)
 * [DEEP REINFORCEMENT LEARNING: AN OVERVIEW](https://arxiv.org/pdf/1701.07274.pdf)
 * [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
