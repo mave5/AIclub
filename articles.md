@@ -21,6 +21,7 @@
 
 ## Segmeentation
 
+* [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999)
 * [Annotating Object Instances with a Polygon-RNN](https://arxiv.org/abs/1704.05548)
 * [Predicting Deeper into the Future of Semantic Segmentation](https://arxiv.org/abs/1703.07684)
 * [Weakly Supervised Semantic Segmentation using Web-Crawled Videos](https://arxiv.org/abs/1701.00352)
@@ -41,7 +42,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 *  [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)
 
 * [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
-* [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs] (https://arxiv.org/abs/1606.00915)
+* [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915)
 
 * [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561)
 
