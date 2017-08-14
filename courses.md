@@ -1,7 +1,7 @@
 ## Courses on AI, ML and DL
 
 
-
+* [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 * [fast.ai](http://www.fast.ai/)
 * [Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/)
