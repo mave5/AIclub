@@ -4,6 +4,7 @@
 # Articles
 
 ## Video processing
+* [Learnable pooling with Context Gating for video classification](https://arxiv.org/abs/1706.06905)
 * [Beyond Short Snippets: Deep Networks for Video Classification](https://arxiv.org/abs/1503.08909)
 * [End-to-end Learning of Action Detection from Frame Glimpses in Videos](https://arxiv.org/abs/1511.06984)
 * [FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)
