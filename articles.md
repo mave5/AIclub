@@ -191,7 +191,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [A brief survey of commercial robotic arms for research on manipulation](http://ieeexplore.ieee.org/document/6219361/)
 
 ## Books
-
+* [Building Mobile Applications with TensorFlow](http://www.oreilly.com/data/free/building-mobile-applications-with-tensorflow.csp?utm_campaign=TensorFlow%20social%20promo&utm_content=58963362&utm_medium=social&utm_source=twitter)
 * [Machine Learning for OpenCV](https://github.com/mbeyeler/opencv-machine-learning/blob/master/README.md)
 * [Machine Learning Yearning, Andrew Ng, chapter 14](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_03.pdf)
 * [Machine Learning Yearning, Andrew Ng, chapter 13](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_02.pdf)
