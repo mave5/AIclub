@@ -106,6 +106,7 @@
 
 
 ### Deep Learning Frameworks
+* [Sony, NN Console](https://dl.sony.com/)
 * [An Introduction to MXNet/Gluon](https://github.com/mli/cvpr17)
 * [Caffe2](http://caffe2.ai/docs/tutorials.html)
 * [dlib](http://blog.dlib.net/2016/06/a-clean-c11-deep-learning-api.html)
