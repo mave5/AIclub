@@ -2,6 +2,10 @@
 # AIclub meeting summary
 --------------
 
+--------------------
+### Meeting #26, 8/11/2017
+
+We wathced a cool video on q-learning and discussed a few slides on Reinforcement Learning. We are going to continue this topic in the future.
 
 ----------------
 ### Meeting #25, 7/27/2017
