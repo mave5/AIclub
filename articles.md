@@ -121,6 +121,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Recent Advances in the Applications of Convolutional Neural Networks to Medical Image Contour Detection](https://arxiv.org/abs/1708.07281)
 * [Towards Vision-Based Smart Hospitals: A System for Tracking and Monitoring Hand Hygiene Compliance](https://arxiv.org/abs/1708.00163)
 * [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://arxiv.org/abs/1612.05601)
 * [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://arxiv.org/abs/1707.01836)
