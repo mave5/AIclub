@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [EmTech, MIT Lab](https://events.technologyreview.com/emtech/17/?utm_medium=social&utm_source=twitter&utm_campaign=emtech2017&utm_term=conference&utm_content=gen_reg_smart&discount=TWEET#section-register)
 * [MACHINE LEARNING FOR HEALTHCARE (MLHC)](http://mucmd.org/)
 * [IEEE Ultrasound Symposium](http://ewh.ieee.org/conf/ius/2017/courses.php)
 * [Deep Learning in Medical Imaging](http://cs.adelaide.edu.au/~dlmia3/)
