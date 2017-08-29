@@ -108,6 +108,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Misc, Analysis, Evaluations, Overviews
+* [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344)
 * [nuts-flow/ml: data pre-processing for deep learning](https://arxiv.org/abs/1708.06046)
 * [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/abs/1612.00796)
 * [Revisiting Unreasonable Effectiveness of Data in Deep Learning Era](https://arxiv.org/abs/1707.02968)
