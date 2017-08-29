@@ -122,6 +122,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Decoding EEG and LFP Signals using Deep Learning:
+Heading TrueNorth](http://delivery.acm.org/10.1145/2910000/2903159/p259-nurse.pdf?ip=50.202.152.226&id=2903159&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EEAA7568E414C03CB&CFID=792851983&CFTOKEN=64266147&__acm__=1504025556_7dc5de102cabcdef15824b76a08d089d)
 * [Recent Advances in the Applications of Convolutional Neural Networks to Medical Image Contour Detection](https://arxiv.org/abs/1708.07281)
 * [Towards Vision-Based Smart Hospitals: A System for Tracking and Monitoring Hand Hygiene Compliance](https://arxiv.org/abs/1708.00163)
 * [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://arxiv.org/abs/1612.05601)
