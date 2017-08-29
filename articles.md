@@ -51,6 +51,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Classification
+* [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 * [One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
 * [How much data is needed to train a medical image deep learning system to achieve necessary high accuracy?](https://arxiv.org/abs/1511.06348)
 * [A Test Drive of the NVIDIA Jetson TX1 Developer Kit for Deep Learning and Computer Vision Applications](https://www.bdti.com/MyBDTI/pubs%3ANvidia_JetsonTX1_Kit.pdf)
