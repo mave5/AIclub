@@ -154,6 +154,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Emotion,Face and Pain detection
+* [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599)
 * [DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network](https://arxiv.org/abs/1702.04280)
 * [Personalized Automatic Estimation of Self-reported Pain Intensity from Facial Expressions](https://arxiv.org/abs/1706.07154)
 * [Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/abs/1611.09577)
