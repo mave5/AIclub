@@ -7,6 +7,7 @@ videos and Talks
 
 
 ####  The Machine Learning Summer School
+* [Montreal Deep Learning Summer School 2017](http://videolectures.net/deeplearning2017_montreal/)
 * [The Machine Learning Summer School 2017](http://mlss.tuebingen.mpg.de/2017/speakers.html)
 
 #### Embedded Vision Summit 2017
