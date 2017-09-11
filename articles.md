@@ -3,7 +3,8 @@
 
 # Articles
 
-## Video processing
+## Video processing/RNN
+* [Training RNNs as Fast as CNNs](https://arxiv.org/abs/1709.02755)
 * [Learnable pooling with Context Gating for video classification](https://arxiv.org/abs/1706.06905)
 * [Beyond Short Snippets: Deep Networks for Video Classification](https://arxiv.org/abs/1503.08909)
 * [End-to-end Learning of Action Detection from Frame Glimpses in Videos](https://arxiv.org/abs/1511.06984)
