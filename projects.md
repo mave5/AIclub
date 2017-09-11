@@ -168,6 +168,7 @@
 * [sysstat, system statistics](http://sebastien.godard.pagesperso-orange.fr/)
 
 ### tools
+* [cmd practice](https://cmdchallenge.com/#/reverse_readme)
 * [AutoIt](https://www.autoitscript.com/site/)
 
 
