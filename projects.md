@@ -4,7 +4,7 @@
 
 
 ### Misc Codes/Projects
-
+* [face classification](https://github.com/oarriaga/face_classification)
 * [Dilated Residual Networks, code](https://github.com/fyu/drn/blob/master/README.md)
 * [ SigOpt’s Bayesian optimization platform](https://sigopt.com/)
 * [Predicting lung cancer](https://eliasvansteenkiste.github.io/machine%20learning/lung-cancer-pred/?utm_content=buffer68535&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
