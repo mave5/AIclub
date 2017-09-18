@@ -63,6 +63,8 @@
        - open /etc/fstab and add next line to the end
        - Example: /dev/sdc1  /media/mount_name  ext4 defaults 0 0
 
+* change owner 
+       - sudo chown usrnm:root -R dirName
 
 #### GitHub
 * get repo history: git log --oneline
