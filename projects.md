@@ -4,6 +4,7 @@
 
 
 ### Misc Codes/Projects
+* [keras multi GPU](https://github.com/mravendi/keras-extras/blob/master/utils/multi_gpu.py)
 * [face classification](https://github.com/oarriaga/face_classification)
 * [Dilated Residual Networks, code](https://github.com/fyu/drn/blob/master/README.md)
 * [ SigOpt’s Bayesian optimization platform](https://sigopt.com/)
