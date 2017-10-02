@@ -27,6 +27,5 @@ AIclub was established at Halyard Health in 2016 to enhance discussions around A
 
 
 
+"Go as far as you can see. When you get there, you'll be able to see farther" Z. Z."
 
-"Do not confuse motion and progress. A rocking horse keeps
-moving but does not make any progress." A. A. Montapert
