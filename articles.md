@@ -4,6 +4,8 @@
 # Articles
 
 ## Video processing/RNN
+* [One-Shot Video Object Segmentation](https://arxiv.org/pdf/1611.05198.pdf)
+* [Learning Video Object Segmentation from Static Images](https://arxiv.org/abs/1612.02646v1)
 * [Training RNNs as Fast as CNNs](https://arxiv.org/abs/1709.02755)
 * [Learnable pooling with Context Gating for video classification](https://arxiv.org/abs/1706.06905)
 * [Beyond Short Snippets: Deep Networks for Video Classification](https://arxiv.org/abs/1503.08909)
