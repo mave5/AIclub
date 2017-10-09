@@ -3,6 +3,7 @@
 
 ## Cool Stuff
 
+* [3Blue1Brown is a channel about animating math](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [deeplearn.js](https://pair-code.github.io/deeplearnjs/)
 * [Deep Dream Generator](https://deepdreamgenerator.com/)
 * [Setosa](http://setosa.io/#/)
