@@ -1,7 +1,7 @@
 ## AI startups
 
 -------------------------
-
+* [Vue AI, AI for fashion](https://vue.ai/about.html)
 * [Chatfuel: chatbot](https://chatfuel.com/)
 * [Waya AI](https://github.com/wayaai)
 * [smartvidio](https://www.smartvid.io/)
