@@ -4,7 +4,7 @@
 
 
 ### Misc Codes/Projects
-* [multiple GPUs](https://github.com/fchollet/keras/blob/3dd3e8331677e68e7dec6ed4a1cbf16b7ef19f7f/keras/utils/training_utils.py#L56-L75)
+* [multiple GPUs keras](https://github.com/fchollet/keras/blob/3dd3e8331677e68e7dec6ed4a1cbf16b7ef19f7f/keras/utils/training_utils.py#L56-L75)
 * [Core ML Community Tools](https://github.com/apple/coremltools)
 * [keras multi GPU](https://github.com/mravendi/keras-extras/blob/master/utils/multi_gpu.py)
 * [face classification](https://github.com/oarriaga/face_classification)
