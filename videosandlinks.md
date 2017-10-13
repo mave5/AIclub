@@ -2,7 +2,7 @@
 videos and Talks
 -------
 
-### 
+### Reinforcement Learning 
 * [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ### Annual Conference on Cognitive Computational Neuroscience (CCN) 
