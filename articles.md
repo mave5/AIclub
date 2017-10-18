@@ -55,6 +55,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Classification
+* [A systematic study of the class imbalance problem in convolutional neural networks](https://arxiv.org/abs/1710.05381)
 * [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 * [One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
 * [How much data is needed to train a medical image deep learning system to achieve necessary high accuracy?](https://arxiv.org/abs/1511.06348)
