@@ -114,6 +114,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Misc, Analysis, Evaluations, Overviews
+* [Swish: a Self-Gated Activation Function](https://arxiv.org/abs/1710.05941)
 * [Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression](https://arxiv.org/abs/1703.07834)
 * [SMASH: One-Shot Model Architecture Search through HyperNetworks](https://arxiv.org/abs/1708.05344)
 * [nuts-flow/ml: data pre-processing for deep learning](https://arxiv.org/abs/1708.06046)
