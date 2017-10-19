@@ -100,6 +100,7 @@ Go to [link](http://www.bayareadlschool.org) for more information on the event, 
 --------
 
 #### Misc
+* [Alena Kruchkova](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg)
 * [Google's DeepMind CEO: Future & Capabilities of Artificial Intelligence (AI) ](https://www.youtube.com/watch?v=PSZw8egM2Is)
 * [Yan Lecun National Taiwan Uni](https://m.facebook.com/yann.lecun/posts/10154555153252143)
 * [Yan LeCun, Obstacles to AI, Mathematical and Otherwise](http://www.birs.ca/events/2016/5-day-workshops/16w5136/videos/watch/201610170900-LeCun.html)
