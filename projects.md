@@ -112,6 +112,7 @@
 
 
 ### Deep Learning Frameworks
+* [plaidML](http://vertex.ai/blog/announcing-plaidml)
 * [Sony, NN Console](https://dl.sony.com/)
 * [An Introduction to MXNet/Gluon](https://github.com/mli/cvpr17)
 * [Caffe2](http://caffe2.ai/docs/tutorials.html)
