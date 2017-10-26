@@ -165,6 +165,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Emotion,Face and Pain detection
+* [Automatic Pain Assessment with Facial Activity Descriptors](http://ieeexplore.ieee.org/document/7423704/?reload=true)
 * [DeepFaceLIFT: Interpretable Personalized Models for Automatic Estimation of Self-Reported Pain](https://arxiv.org/abs/1708.04670)
 * [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/abs/1611.01599)
 * [DAGER: Deep Age, Gender and Emotion Recognition Using Convolutional Neural Network](https://arxiv.org/abs/1702.04280)
