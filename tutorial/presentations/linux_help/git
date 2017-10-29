@@ -1,0 +1,9 @@
+
+
+# to get a log of commits
+git reflog
+
+# to go back to a certain commit
+git reset --hard SHA
+
+

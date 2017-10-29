@@ -1,0 +1,100 @@
+
+
+
+# create image of a drive
+source: https://help.ubuntu.com/community/DriveImaging
+# see list of drives
+$ sudo fdisk -l
+#backup with dd, here sda is source and media/usb is destination
+$ sudo dd if=/dev/sda | bzip2 > /media/usb/image.bz2
+# restore a drive image
+$ bzcat /media/usb/image.bz2 | dd of=/dev/sda
+
+
+#  unzip 
+$ tar zxvf file_name
+
+# remove 
+$ sudo rm filee_name
+
+% copy
+$ sudo cp file_name traget_path
+
+% copy folder
+$ sudo cp -R file_name traget_path
+
+% caffe clean before make all
+make clean
+
+% link 
+ln -s ~/opt/packages/pycharm/pycharm-community-4.0.4 ~/opt/pycharm
+
+% clean ubuntu
+% https://www.maketecheasier.com/8-ways-to-maintain-a-clean-lean-ubuntu-machine/
+apt-get -y autoclean
+apt-get -y clean
+apt-get -y autoremove
+
+% change owner and group
+chown
+sudo chown hyh:root -R caffe
+
+% cron
+1- enter sudo crontab -e
+2- add schedule task, sudo bash task.sh
+note: do not forget sudo bash!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+3- Ctrl+X
+
+# view cron
+crontab -l
+
+
+% watch memory use
+watch -n 5 free -m
+
+
+
+% uinstall matlab
+rm -rf matlabroot
+
+
+% to see .bashrc
+cat ~/.bashrc
+
+% make shell effective immediately
+source ~/.bashrc
+
+
+################## clear bash history
+cat /dev/null > ~/.bash_history
+
+
+
+######################### show location of tensorflow
+pip show tensorflow
+
+####### issue with importing tensorflow in python
+sudo pip install six --upgrade --target="/usr/lib/python2.7/dist-packages"
+
+####### uninstall previous versions of tensorflow
+pip uinstall tensorflow
+
+############################
+# checksum
+md5sum filename
+
+# file duplicates
+fdupes folder_name
+
+############################
+
+
+avconv -i test.avi -c:v libx264 -c:a copy outputfile.mp4
+
+
+
+
+
+
+
+

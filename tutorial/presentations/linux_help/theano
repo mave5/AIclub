@@ -1,0 +1,38 @@
+
+
+
+# theano errors
+theano-cache clear
+find the folder
+
+# manual delete chache
+python 
+import theano 
+print theano.config.compiledir
+# this gives you the path to manually delete everything
+
+
+
+# error import keras with theano backend
+pip install git+git://github.com/Theano/Theano.git --upgrade --no-deps
+
+
+
+
+####################################################### 
+# how to add gpu to theano
+1-  creat  file: 
+$sudo gedit $HOME/.theanorc
+
+# 2- add the following to ~/.theanorc
+[global]
+floatX = float32
+device = gpu0
+
+# add a [cuda] section to your .theanorc file containing the option root = /path/to/cuda/root.
+[cuda]
+root = /usr/local/cuda
+
+
+--------------------------------
+print theano.__version__

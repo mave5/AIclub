@@ -1,0 +1,69 @@
+
+caffe installation on Ubuntu with GPU
+
+-- First install drivers for GPUS 
+
+-- follow the instruction on this webpage 
+http://christopher5106.github.io/big/data/2015/07/16/deep-learning-install-caffe-cudnn-cuda-for-digits-python-on-ubuntu-14-04.html
+
+
+
+
+
+-- if you run make runtest and have an error
+$ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+
+this webpage:
+https://groups.google.com/forum/#!topic/caffe-users/dcZrE3-60mc
+
+
+-- if you have error after make all 
+$ make clean 
+
+
+% caffe 
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+
+
+
+
+
+
+% fatal error: caffe/proto/caffe.pb.h: No such file or directory #include "caffe/proto/caffe.pb.h" #3 
+https://github.com/muupan/dqn-in-the-caffe/issues/3
+
+Solution: You need to generate caffe.pb.h manually using protoc as follows.
+
+# In the directory you installed Caffe to
+protoc src/caffe/proto/caffe.proto --cpp_out=.
+mkdir include/caffe/proto
+mv src/caffe/proto/caffe.pb.h include/caffe/proto
+
+
+# usaully when import caffe in python or pycharm
+ImportError:libcurart.so.7.0: cannot open shared object file: No such file or directory
+sudo ldconfig /usr/local/cuda/lib64
+
+
+####################
+instal lmdb
+sudo easy_install lmdb
+
+####################
+create standalone matlab linux
+deploytool
+avoid addpath, use isdeployed function
+find path to matlab
+#############################################
+
+
+
+
+
+
+
+
+
+
+
+

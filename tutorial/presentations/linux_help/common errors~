@@ -1,0 +1,36 @@
+
+
+common errors
+
+
+
+
+caffe make all  => fatal error: pyconfig.h: No such file or directory
+#uncomment anaconda path in Makefile.Config
+#pay attention to 2 after anaconda
+$ sed -i 's|# ANACONDA_HOME := $(HOME)/anaconda|ANACONDA_HOME := $(HOME)/anaconda2|' Makefile.config
+
+
+
+caffe make runtest: Error loading shared library libhdf5_hl.so.XX #1463
+--------------------------------------------------------
+# source: https://github.com/BVLC/caffe/issues/1463
+echo 'export LD_LIBRARY_PATH=/home/mra/anaconda2/lib:$LD_LIBRARY_PATH' >> ~/.bashrc
+$ make runtest
+~/anaconda2/pkgs/hdf5-1.8.15.1-1/lib$ sudo cp libhdf5.so.10.0.1 /usr/lib/x86_64-linux-gnu/
+~/anaconda2/pkgs/hdf5-1.8.15.1-1/lib$ sudo cp libhdf5_hl.so.10.0.1 /usr/lib/x86_64-linux-gnu/
+
+
+
+caffe make all: caffe:/usr/bin/ld: cannot find -lcblas
+# uncomment OpenBLAS
+sed -i 's/BLAS := atlas/BLAS := open/' Makefile.config
+
+
+caffe make all: //usr/lib/x86_64-linux-gnu/libunwind.so.8: undefined reference to `lzma_index_buffer_decode@XZ_5.0'
+echo 'export LD_LIBRARY_PATH=/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH' >> ~/.bashrc
+
+
+
+Error in make all: libopencv_highgui.so: undefined reference to `TIFFReadRGBAStrip@LIBTIFF_4.0'
+$ conda remove libtiff

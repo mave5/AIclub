@@ -1,0 +1,8 @@
+
+# mnist load data
+IOError: CRC check failed 0xc187cf56L != 0x14c5212fL
+solution: rm ~/.keras/datasets/* and retry
+
+# error import keras with theano backend
+pip install git+git://github.com/Theano/Theano.git --upgrade --no-deps
+source: https://github.com/fchollet/keras/issues/1888

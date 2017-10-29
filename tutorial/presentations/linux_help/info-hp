@@ -1,0 +1,65 @@
+
+
+system: HPZ440
+GPU: NVIDIA Geforce GTX Titan X
+
+---------------------------------------------------------
+OS: Ubuntu
+64-bit PC (AMD64) desktop image
+http://old-releases.ubuntu.com/releases/14.04.0/
+
+burn ISO to USB using: Universal USB Installer – Easy as 1 2 3
+http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+source: How to Create Bootable USB Drives and SD Cards For Every Operating System
+------------------------------------------------------------------------
+After installing Ubuntu, install SSH to be abale to use Putty to remotely connect to the system
+write down the IP address of the system to be entered in putty
+$ sudo apt-get install openssh-server
+--------------------------------------------------------------------------
+Install GPU driver
+source: Installation: Ubuntu (step by step, including external libraries)
+https://github.com/tiangolo/caffe/blob/ubuntu-tutorial-b/docs/install_apt2.md
+note: use make all with no args
+
+$ sudo add-apt-repository ppa:graphics-drivers/ppa
+$ sudo apt-get update
+$ sudo apt-get install nvidia-352
+
+in case of problem, black screen, ssh to the sytem and remove package
+$ sudo apt-get --purge remove nvidia-352
+-----------------------------------------------------------------
+install CUDA
+
+# first download CUDA toolik from here:
+# https://developer.nvidia.com/cuda-downloads
+
+# then kill X server to avoid conflict using
+$ sudo stop lightdm
+
+# then use putty to ssh to the system
+# cd to directory of downloaded CUDA to install cuda
+$ sudo dpkg -i cuda-repo-ubuntu1404_???????.deb 
+$ sudo apt-get update
+$ sudo apt-get install cuda
+
+# Add CUDA to the PATH variable (and make it permanent for the current user):
+echo 'export PATH=/usr/local/cuda/bin:$PATH' >> ~/.bashrc
+
+Add CUDA to the LD_LIBRARY_PATH variable (and make it permanent for the current user):
+echo 'export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc
+
+after installation close terminal and reopen terminal
+
+# start X server
+sudo start lightdm
+-------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
