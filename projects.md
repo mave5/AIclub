@@ -4,6 +4,8 @@
 
 
 ### Misc Codes/Projects
+
+* [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
 * [multiple GPUs keras](https://github.com/fchollet/keras/blob/3dd3e8331677e68e7dec6ed4a1cbf16b7ef19f7f/keras/utils/training_utils.py#L56-L75)
 * [Core ML Community Tools](https://github.com/apple/coremltools)
 * [keras multi GPU](https://github.com/mravendi/keras-extras/blob/master/utils/multi_gpu.py)
