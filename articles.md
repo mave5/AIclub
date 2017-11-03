@@ -102,7 +102,6 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Theory
-
 * [Evolving Culture vs Local Minima](https://arxiv.org/abs/1203.2990)
 * [Generalization in Deep Learning](https://arxiv.org/abs/1710.05468)
 * [Curriculum Learning](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.149.4701)
@@ -116,6 +115,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Misc, Analysis, Evaluations, Overviews
+* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
 * [Swish: a Self-Gated Activation Function](https://arxiv.org/abs/1710.05941)
 * [Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression](https://arxiv.org/abs/1703.07834)
