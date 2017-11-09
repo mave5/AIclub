@@ -118,7 +118,9 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [Deep Learning without Poor Local Minima](https://arxiv.org/abs/1605.07110)
 
 
-## Misc, Analysis, Evaluations, Overviews
+## Misc, Analysis, Evaluations, Overviews, Surveys
+
+* [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677)
 * [Swish: a Self-Gated Activation Function](https://arxiv.org/abs/1710.05941)
