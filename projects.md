@@ -117,6 +117,7 @@
 
 
 ### Deep Learning Frameworks
+* [pyro, Deep Universal Probabilistic Programming](http://pyro.ai/)
 * [subgraph, DL IDE](https://subgraphs.com/#/)
 * [plaidML](http://vertex.ai/blog/announcing-plaidml)
 * [Sony, NN Console](https://dl.sony.com/)
