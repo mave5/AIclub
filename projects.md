@@ -96,6 +96,7 @@
 
 
 ### Reinforcement Learning codes/projects
+* [NeuralKart - A Real-time Mario Kart AI using CNNs, Offline Search, and DAGGER](https://github.com/rameshvarun/NeuralKart)
 * [Nervana Coach](http://coach.nervanasys.com/)
 * [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks)
 * [Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm](https://github.com/ssusnic/Machine-Learning-Flappy-Bird)
