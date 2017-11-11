@@ -2,6 +2,19 @@
 # AIclub meeting summary
 --------------
 
+----------------
+### Meeting #27, 11/10/2017
+
+We discussed the following paper:
+[Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
+
+They introduce a method for data augmentation called random erasing.
+Random erasing randomly selects a rectangle region in an image and erases its pixels with random values.
+Random erasing seem to be an easy and effective idea for data augmentation.
+It shows improvement in classification accuracy of multiple networks. The deeper the network, the more effective.
+Seems to be not so sensetive to the probability of erasing.
+They compared their results with drop out and seems to outperform dropout.
+
 --------------------
 ### Meeting #26, 8/11/2017
 
