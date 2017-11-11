@@ -3,7 +3,7 @@
 --------------
 
 ----------------
-### Meeting #27, 11/10/2017
+### Meeting #27, 11/10/2017, MA
 
 We discussed the following paper:
 [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
@@ -16,12 +16,12 @@ Seems to be not so sensetive to the probability of erasing.
 They compared their results with drop out and seems to outperform dropout.
 
 --------------------
-### Meeting #26, 8/11/2017
+### Meeting #26, 8/11/2017, MA
 
 We wathced a cool video on q-learning and discussed a few slides on Reinforcement Learning. We are going to continue this topic in the future.
 
 ----------------
-### Meeting #25, 7/27/2017
+### Meeting #25, 7/27/2017, YM
 
 We discussed article [SonoNet: Real-Time Detection and Localisation of Fetal Standard Scan Planes in Freehand Ultrasound](https://arxiv.org/pdf/1612.05601.pdf)
 
@@ -31,7 +31,7 @@ The article also proposes a semi-supervised method for ground-truth generation u
 
 
 ---------------------
-### Meeting #24, 7/14/2017
+### Meeting #24, 7/14/2017, HY
 
 We discuss article [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 
