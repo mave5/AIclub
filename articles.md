@@ -140,6 +140,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Deep learning with spatiotemporal consistency for nerve segmentation in ultrasound images](https://arxiv.org/abs/1706.05870)
 * [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/abs/1711.05225)
 * [Deep learning with convolutional neural networks for EEG decoding and visualization](https://arxiv.org/abs/1703.05051)
 * [Decoding EEG and LFP Signals using Deep Learning:
