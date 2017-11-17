@@ -199,6 +199,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Generative Models
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
 * [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/abs/1710.07346)
 * [PassGAN: A Deep Learning Approach for Password Guessing](https://arxiv.org/abs/1709.00440)
 * [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
