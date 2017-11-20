@@ -180,6 +180,7 @@
 * [sysstat, system statistics](http://sebastien.godard.pagesperso-orange.fr/)
 
 ### tools
+* [Learning Git](https://learngitbranching.js.org/)
 * [cmd practice](https://cmdchallenge.com/#/reverse_readme)
 * [AutoIt](https://www.autoitscript.com/site/)
 
