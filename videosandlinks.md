@@ -44,9 +44,10 @@ videos and Talks
 #### Tensorflow Summit 2017
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
-#### NIPS videos
+#### NIPS 
 ##### NIPS 2017
 * [Pieter Abbeel](https://m.facebook.com/story.php?story_fbid=1554594181298482&id=375737692517476&refsrc=http%3A%2F%2Ft.co%2FFskEFzeMVl&_rdr)
+* [Deep RL](https://sites.google.com/view/deeprl-symposium-nips2017/home)
 
 ##### NIPS 2016
 * [RECURRENT NEURAL NETWORKS](http://people.idsia.ch/~rupesh/rnnsymposium2016/program.html)
