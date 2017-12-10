@@ -44,7 +44,11 @@ videos and Talks
 #### Tensorflow Summit 2017
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
-#### NIPS 2016 videos
+#### NIPS videos
+##### NIPS 2017
+* [Pieter Abbeel](https://m.facebook.com/story.php?story_fbid=1554594181298482&id=375737692517476&refsrc=http%3A%2F%2Ft.co%2FFskEFzeMVl&_rdr)
+
+##### NIPS 2016
 * [RECURRENT NEURAL NETWORKS](http://people.idsia.ch/~rupesh/rnnsymposium2016/program.html)
 * [History of Bayesian Neural Networks (Keynote talk)](https://www.youtube.com/watch?v=FD8l2vPU5FY&feature=youtu.be)
 * [Reliable Machine Learning in the Wild - NIPS 2016 Workshop](https://sites.google.com/site/wildml2016nips/schedule)
