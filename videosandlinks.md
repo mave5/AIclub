@@ -12,6 +12,7 @@ videos and Talks
 * [CCN 2017](https://www.youtube.com/playlist?list=PLDBCpovkQJn92twBE-jdp21fLnqw19wBV)
 
 ### Machine Learning and the Market for Intelligence 
+* [Machine Learning and the Market for Intelligence, 2017](http://www.marketforintelligence.com/2017-talks/)
 * [Machine Learning and the Market for Intelligence, 2016 ](http://www.marketforintelligence.com/2016-talks/)
 
 
