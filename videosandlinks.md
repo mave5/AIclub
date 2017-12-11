@@ -3,6 +3,7 @@ videos and Talks
 -------
 
 ### Reinforcement Learning 
+* [robot learning, 2017](http://www.robot-learning.org/)
 * [Deep RL Bootcamp, August 2017, Berkley, CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * [Conference on Robot Learning 2017](https://www.youtube.com/watch?v=xfyK03MEZ9Q&feature=youtu.be)
 
