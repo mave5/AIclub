@@ -5,7 +5,7 @@
 
 ### Misc Codes/Projects
 
-
+* [AI Progress Measurement Measuring the Progress of AI Resear](https://www.eff.org/ai/metrics?utm_content=bufferf2a6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [kaggle past solutions](http://ndres.me/kaggle-past-solutions/)
 * [DeepLearning11](https://www.servethehome.com/deeplearning11-10x-nvidia-gtx-1080-ti-single-root-deep-learning-server-part-1/#comments)
 * [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
