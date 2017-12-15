@@ -120,6 +120,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Misc, Analysis, Evaluations, Overviews, Surveys
+* [The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)
 * [Population Based Training of Neural Networks](https://arxiv.org/abs/1711.09846)
 * [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
