@@ -24,6 +24,8 @@
 * [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks,](https://arxiv.org/abs/1608.08128) [code](https://imatge-upc.github.io/activitynet-2016-cvprw/)
 
 ## Segmeentation
+
+* [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370)
 * [Dilated Residual Networks](https://arxiv.org/abs/1705.09914)
 * [The Devil is in the Decoder](https://arxiv.org/abs/1707.05847)
 * [Real-Time User-Guided Image Colorization with Learned Deep Priors](https://arxiv.org/abs/1705.02999)
