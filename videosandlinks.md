@@ -112,6 +112,7 @@ Go to [link](http://www.bayareadlschool.org) for more information on the event, 
 --------
 
 #### Misc
+* [Theoretical Machine Learning Lecture Series: How Could Machines Learn as Efficiently as Animals and Humans?](https://www.ias.edu/ideas/2017/machine-learning-lecun)
 * [Alena Kruchkova](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg)
 * [Google's DeepMind CEO: Future & Capabilities of Artificial Intelligence (AI) ](https://www.youtube.com/watch?v=PSZw8egM2Is)
 * [Yan Lecun National Taiwan Uni](https://m.facebook.com/yann.lecun/posts/10154555153252143)
