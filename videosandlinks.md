@@ -48,6 +48,7 @@ videos and Talks
 
 #### NIPS 
 ##### NIPS 2017
+* [Nips all videos](https://nips.cc/Conferences/2017/Videos)
 * [Reprogramming the Human Genome With Artificial Intelligence - Brendan Frey - NIPS 2017](https://www.youtube.com/watch?v=QJLQBSQJEus)
 * [Pieter Abbeel](https://m.facebook.com/story.php?story_fbid=1554594181298482&id=375737692517476&refsrc=http%3A%2F%2Ft.co%2FFskEFzeMVl&_rdr)
 * [Deep RL](https://sites.google.com/view/deeprl-symposium-nips2017/home)
