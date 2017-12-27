@@ -57,7 +57,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Classification
-
+* [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550)
 * [Multi-view Convolutional Neural Networks for 3D Shape Recognition](https://arxiv.org/abs/1505.00880)
 * [Random Erasing Data Augmentation](https://arxiv.org/pdf/1708.04896.pdf)
 * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
