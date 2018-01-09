@@ -145,6 +145,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Do machines actually beat doctors?
+](https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/)
 * [Improving Palliative Care with Deep Learning](https://arxiv.org/abs/1711.06402)
 * [High-Resolution Breast Cancer Screening with Multi-View Deep Convolutional Neural Networks](https://arxiv.org/abs/1703.07047)
 * [Deep learning with spatiotemporal consistency for nerve segmentation in ultrasound images](https://arxiv.org/abs/1706.05870)
