@@ -2,6 +2,40 @@
 # AIclub meeting summary
 --------------
 
+
+### Meeting #28, 1/9/2017, MA
+
+We watched Andrew Ng's talk at [EMTech](https://www.youtube.com/watch?v=NKpuX_yzdYs).
+
+He points out:
+- AI is the new electricity
+- %98 of current AI values in indusrty comes from supervised learning
+- as a rule of thumb, anyhting that a person can do in less than a second can be automated using AI
+- a lot of jobs are sequences of 1-second tasks, such security type of work, at risk of automation
+- plot of performance vs data size for various ML algorithms
+- current AI algorithms
+  -- supervised learning: hunger for data
+  -- transfer learning
+  -- unsupervised learning
+  -- reinforcement learning: even more hunger for data and away from large scale deployment
+-  web search example: data asset is key
+- data -> product -> users -> more data -> improve system
+- example: rise of  internet
+- a shopping mall + internet is not an internet company
+    -- A/B testing
+    -- short cycle times
+    -- decision making push to pm and engs
+ - rise of AI era
+ - a tech company + NN is not an AI company
+ - strategic data acqusition
+ - unified data warehouses
+ - pervasive automation
+ - new job describtion
+ - how to integrate AI into your tech company
+ - building a team of AI on the side to help other divisions
+ 
+
+
 ----------------
 ### Meeting #27, 11/10/2017, MA
 
