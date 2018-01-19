@@ -13,6 +13,7 @@
 #### Theano
 * [Theano Configuration](http://deeplearning.net/software/theano/library/config.html)
 * [Theano config directly in script](http://stackoverflow.com/questions/33988334/theano-config-directly-in-script)
+* delete theano cache for random errors:  $rm -rf ~/.theano
 
 #### python/anaconda
 * matplotlib: conda install -c conda-forge matplotlib=2.0.0 
