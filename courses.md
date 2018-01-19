@@ -1,5 +1,6 @@
 ## Courses on AI, ML and DL
 
+* [Texas Book Review: Algebra 2](http://www.bigideaslearning.com/for-reviewers/texas/alg2/)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
 * [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
