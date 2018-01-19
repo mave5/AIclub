@@ -4,7 +4,7 @@
 # Articles
 
 ## General ML
-* [Rules of Machine Learning](/media/ai1/data/dlnets/gen1Development/output/adductor/weights/TrainTest1/fold1/model.hdf5)
+* [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Machine Learning:The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 
