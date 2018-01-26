@@ -100,6 +100,7 @@
 
 
 ### Reinforcement Learning codes/projects
+* [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 * [NeuralKart - A Real-time Mario Kart AI using CNNs, Offline Search, and DAGGER](https://github.com/rameshvarun/NeuralKart)
 * [Nervana Coach](http://coach.nervanasys.com/)
 * [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks)
