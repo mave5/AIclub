@@ -3,7 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
-
+* [Machine Learning for Healthcare](https://www.mlforhc.org/)
 * [Society for Imaging Informatics for Medicine](http://siim.org/)
 * [AIMed](http://aimed-mi3.com/)
 * [EmTech, MIT Lab](https://events.technologyreview.com/emtech/17/?utm_medium=social&utm_source=twitter&utm_campaign=emtech2017&utm_term=conference&utm_content=gen_reg_smart&discount=TWEET#section-register)
