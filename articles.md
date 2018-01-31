@@ -244,6 +244,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [A brief survey of commercial robotic arms for research on manipulation](http://ieeexplore.ieee.org/document/6219361/)
 
 ## Books
+* [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf)
 * [Building Mobile Applications with TensorFlow](http://www.oreilly.com/data/free/building-mobile-applications-with-tensorflow.csp?utm_campaign=TensorFlow%20social%20promo&utm_content=58963362&utm_medium=social&utm_source=twitter)
 * [Machine Learning for OpenCV](https://github.com/mbeyeler/opencv-machine-learning/blob/master/README.md)
