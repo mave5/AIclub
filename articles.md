@@ -201,6 +201,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Reinforcement Learning
+* [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
 * [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560)
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [Reinforcement Learning for Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873)
