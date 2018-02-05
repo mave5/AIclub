@@ -151,6 +151,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+
+* [Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation](https://arxiv.org/abs/1705.08302)
 * [Medical Imaging Meets NIPS: A summary](https://towardsdatascience.com/medical-imaging-meets-nips-a-summary-43bf1b0d0c62)
 * [Do machines actually beat doctors?
 ](https://lukeoakdenrayner.wordpress.com/2016/11/27/do-computers-already-outperform-doctors/)
