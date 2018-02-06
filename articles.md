@@ -82,7 +82,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
-## Adversarial Examples
+## Adversarial Attacks
 * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
 * [Countering Adversarial Images using Input Transformations](https://arxiv.org/abs/1711.00117)
