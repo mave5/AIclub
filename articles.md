@@ -152,6 +152,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Healthcare and Medical Imaging
 
+* [Artificial Intelligence for Health and Health Care](https://www.healthit.gov/sites/default/files/jsr-17-task-002_aiforhealthandhealthcare12122017.pdf)
 * [Deep Convolutional Neural Networks for Breast Cancer Histology Image Analysis](https://www.biorxiv.org/content/early/2018/02/05/259911)
 * [Anatomically Constrained Neural Networks (ACNN): Application to Cardiac Image Enhancement and Segmentation](https://arxiv.org/abs/1705.08302)
 * [Medical Imaging Meets NIPS: A summary](https://towardsdatascience.com/medical-imaging-meets-nips-a-summary-43bf1b0d0c62)
