@@ -3,6 +3,7 @@
 
 ## Cool Stuff
 
+* [Convolution Visualizer](https://ezyang.github.io/convolution-visualizer/index.html)
 * [BOOKS FOR BUDDING ENGINEERS – UCL ENGINEERING FAVOURITES!](http://www.engineering.ucl.ac.uk/schools-engagement/news/books-budding-engineers-ucl-engineering-favourites/)
 * [Teachable Machine](https://experiments.withgoogle.com/ai/teachable-machine)
 * [3Blue1Brown is a channel about animating math](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
