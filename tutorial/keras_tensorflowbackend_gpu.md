@@ -37,7 +37,8 @@
 
  (tensorflow)$ conda install jupyter
 
-* Install keras
+* Install keras 
+   note: we tried "conda" instead of "pip" and it did not import keras into Jupyter Notebook
 
  (tensorflow)$ pip install keras
  
