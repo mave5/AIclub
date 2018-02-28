@@ -116,6 +116,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Theory
+* [Sensitivity and Generalization in Neural Networks: an Empirical Study](https://arxiv.org/abs/1802.08760)
 * [The Secret Sharer: Measuring Unintended Neural Network Memorization & Extracting Secrets](https://arxiv.org/abs/1802.08232)
 * [Evolving Culture vs Local Minima](https://arxiv.org/abs/1203.2990)
 * [Generalization in Deep Learning](https://arxiv.org/abs/1710.05468)
