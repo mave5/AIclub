@@ -44,3 +44,6 @@
 ### Qoutes
 - These are men with bold ideas, but highly critical of their own ideas; they try to find whether their ideas are right by trying first to find whether they are not perhaps wrong. They work with bold conjectures and severe attempts at refuting their own conjectures. 
 
+
+### list of webpages
+* [indie hackers](ryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
