@@ -50,6 +50,7 @@ videos and Talks
 
 #### NIPS 
 ##### NIPS 2017
+* [Kinds of Intelligence Symposium at NIPS](http://mdcrosby.com/blog/koi.html)
 * [Metalearning](http://metalearning-symposium.ml/#a)
 * [Nips all videos](https://nips.cc/Conferences/2017/Videos)
 * [Reprogramming the Human Genome With Artificial Intelligence - Brendan Frey - NIPS 2017](https://www.youtube.com/watch?v=QJLQBSQJEus)
