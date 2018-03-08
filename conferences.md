@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [APPLIED MACHINE LEARNING CONFERENCE](https://tomtomfest.com/machine-learning/)
 * [Machine Learning for Healthcare](https://www.mlforhc.org/)
 * [Society for Imaging Informatics for Medicine](http://siim.org/)
 * [AIMed](http://aimed-mi3.com/)
