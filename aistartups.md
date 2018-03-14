@@ -1,6 +1,7 @@
 ## AI startups
 
 -------------------------
+* [Deep Cognition](http://community.deepcognition.ai/)
 * [Vue AI, AI for fashion](https://vue.ai/about.html)
 * [Chatfuel: chatbot](https://chatfuel.com/)
 * [Waya AI](https://github.com/wayaai)
