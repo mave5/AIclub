@@ -42,6 +42,7 @@ videos and Talks
 * [MIT 2017](http://events.technologyreview.com/video/?event=emtech-digital&year=2017)
 
 #### Scaled ML 
+* [Scaled ML 2018](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
 * [Scaled ML 2017 Slides and Pictures](https://www.matroid.com/blog/post/scaled-ml-2017-slides-and-pictures)
 * [Slides from ScaledML 2016](https://www.matroid.com/blog/post/slides-from-scaledml-2016)
 
