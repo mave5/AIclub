@@ -154,6 +154,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Thoracic Disease Identification and Localization with Limited Supervision](https://arxiv.org/abs/1711.06373)
 * [Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning](https://arxiv.org/abs/1803.01207)
 * [Scalable and accurate deep learning for electronic health records](https://arxiv.org/abs/1801.07860)
 * [Artificial Intelligence for Health and Health Care](https://www.healthit.gov/sites/default/files/jsr-17-task-002_aiforhealthandhealthcare12122017.pdf)
