@@ -115,7 +115,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [Deep Learning with Coherent Nanophotonic Circuits](https://arxiv.org/pdf/1610.02365v1.pdf)
 
 
-## Theory
+## Theory, Fundamentals
+* [Group Normalization](https://arxiv.org/abs/1803.08494)
 * [Sensitivity and Generalization in Neural Networks: an Empirical Study](https://arxiv.org/abs/1802.08760)
 * [The Secret Sharer: Measuring Unintended Neural Network Memorization & Extracting Secrets](https://arxiv.org/abs/1802.08232)
 * [Evolving Culture vs Local Minima](https://arxiv.org/abs/1203.2990)
