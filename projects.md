@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Download google images](https://github.com/hardikvasa/google-images-download/blob/master/README.rst)
 * [SHAP (SHapley Additive exPlanations)](https://github.com/slundberg/shap/blob/master/README.md)
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 * [AI Progress Measurement Measuring the Progress of AI Resear](https://www.eff.org/ai/metrics?utm_content=bufferf2a6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
