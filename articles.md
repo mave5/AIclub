@@ -155,6 +155,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Opportunities And Obstacles For Deep Learning In Biology And Medicine](https://www.biorxiv.org/content/early/2017/05/28/142760)
 * [Thoracic Disease Identification and Localization with Limited Supervision](https://arxiv.org/abs/1711.06373)
 * [Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning](https://arxiv.org/abs/1803.01207)
 * [Scalable and accurate deep learning for electronic health records](https://arxiv.org/abs/1801.07860)
