@@ -157,6 +157,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Healthcare and Medical Imaging
 
+* [An Augmented Reality Microscope for Cancer Detection](https://research.googleblog.com/2018/04/an-augmented-reality-microscope.html)
 * [AlterEgo: APersonalized Wearable Silent Speech Interface](https://dam-prod.media.mit.edu/x/2018/03/23/p43-kapur_BRjFwE6.pdf)
 * [Opportunities And Obstacles For Deep Learning In Biology And Medicine](https://www.biorxiv.org/content/early/2017/05/28/142760)
 * [Thoracic Disease Identification and Localization with Limited Supervision](https://arxiv.org/abs/1711.06373)
