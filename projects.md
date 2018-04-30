@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [hypertools](http://hypertools.readthedocs.io/en/latest/tutorials/normalize.html#normalizing-specified-cols-or-rows)
 * [Download google images](https://github.com/hardikvasa/google-images-download/blob/master/README.rst)
 * [SHAP (SHapley Additive exPlanations)](https://github.com/slundberg/shap/blob/master/README.md)
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
