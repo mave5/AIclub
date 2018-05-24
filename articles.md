@@ -8,6 +8,11 @@
 * [Machine Learning:The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
 
+## Loss Functions
+* [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
+
+
+
 ## Video processing/RNN
 * [One-Shot Video Object Segmentation](https://arxiv.org/pdf/1611.05198.pdf)
 * [Learning Video Object Segmentation from Static Images](https://arxiv.org/abs/1612.02646v1)
