@@ -10,7 +10,7 @@
 
 ## Loss Functions
 * [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
-
+* [Making Risk Minimization Tolerant to Label Noise](https://arxiv.org/abs/1403.3610)
 
 
 ## Video processing/RNN
