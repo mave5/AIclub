@@ -265,6 +265,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 * [A brief survey of commercial robotic arms for research on manipulation](http://ieeexplore.ieee.org/document/6219361/)
 
 ## Books
+* [Data Mining: Practical Machine Learning Tools and Techniques](https://www.cs.waikato.ac.nz/ml/weka/book.html)
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/pdf/1709.02840.pdf)
