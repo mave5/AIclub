@@ -3,6 +3,8 @@
 ## Workshops/Conferences
 ---------------------
 
+
+* [Train AI](https://www.figure-eight.com/train-ai/)
 * [TeleHealth 2018](https://healthitanalytics.com/)
 * [ASRA: American Society of Regional Anesthesia and Pain Medicine](https://www.asra.com/)
 * [APPLIED MACHINE LEARNING CONFERENCE](https://tomtomfest.com/machine-learning/)
