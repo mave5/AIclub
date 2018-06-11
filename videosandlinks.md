@@ -118,6 +118,7 @@ Go to [link](http://www.bayareadlschool.org) for more information on the event, 
 
 #### Misc
 
+* [Building the Software 2.0 Stack by Andrej Karpathy from Tesla](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
 * [sysML Conference 2018](http://www.sysml.cc/)
 * [Theoretical Machine Learning Lecture Series: How Could Machines Learn as Efficiently as Animals and Humans?](https://www.ias.edu/ideas/2017/machine-learning-lecun)
 * [Alena Kruchkova](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg)
