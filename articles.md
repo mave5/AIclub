@@ -14,6 +14,8 @@
 
 
 ## Video processing/RNN
+
+* [Massively Parallel Video Networks](https://arxiv.org/abs/1806.03863)
 * [One-Shot Video Object Segmentation](https://arxiv.org/pdf/1611.05198.pdf)
 * [Learning Video Object Segmentation from Static Images](https://arxiv.org/abs/1612.02646v1)
 * [Training RNNs as Fast as CNNs](https://arxiv.org/abs/1709.02755)
