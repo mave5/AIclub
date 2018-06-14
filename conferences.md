@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [2018 Conference on Machine Intelligence in Medical Imaging](https://siim.org/page/2018cmimi&hpslideshow)
 * [MLDM 2018](http://www.mldm.de/index.php)
 * [Train AI](https://www.figure-eight.com/train-ai/)
 * [TeleHealth 2018](https://healthitanalytics.com/)
