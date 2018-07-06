@@ -118,6 +118,7 @@ Go to [link](http://www.bayareadlschool.org) for more information on the event, 
 
 #### Misc
 
+* [Intel AI Devcon 2018](https://aidc.gallery.video/detail/videos/keynotes/video/5790323853001/closing-keynote-with-andrew-ng?autoStart=true?utm_campaign=2018-Q3-US-AI-Always-On-IntelAI_TW&utm_source=twitter&utm_medium=social&utm_content=AIDCKeynotre_Video_BF_CSTM&utm_keyword=Watch&cid=2018-Q3-US-AI-Always-On-IntelAI_TW)
 * [Building the Software 2.0 Stack by Andrej Karpathy from Tesla](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
 * [sysML Conference 2018](http://www.sysml.cc/)
 * [Theoretical Machine Learning Lecture Series: How Could Machines Learn as Efficiently as Animals and Humans?](https://www.ias.edu/ideas/2017/machine-learning-lecun)
