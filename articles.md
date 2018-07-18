@@ -315,6 +315,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Blogs/Webpages
+* [ICML 2018 Notes](https://david-abel.github.io/blog/posts/misc/icml_2018.pdf)
 * [explained.ai](http://explained.ai/)
 * [Quantdare](https://quantdare.com/)
 * [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
