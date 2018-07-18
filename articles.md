@@ -171,6 +171,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Healthcare and Medical Imaging
 
+* [Confounding variables can degrade generalization performance of radiological deep learning models](https://arxiv.org/abs/1807.00431)
 * [Evaluating Reinforcement Learning Agents for Anatomical Landmark Detection](https://openreview.net/forum?id=SyQK4-nsz)
 * [Current Applications and Future Impact of Machine Learning in Radiology](https://pubs.rsna.org/doi/10.1148/radiol.2018171820)
 * [An Augmented Reality Microscope for Cancer Detection](https://research.googleblog.com/2018/04/an-augmented-reality-microscope.html)
