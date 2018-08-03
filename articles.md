@@ -235,6 +235,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 ## Reinforcement Learning
 
+* [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177)
 * [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905)
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 * [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
