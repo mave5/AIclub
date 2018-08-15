@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [AI frontiers](http://aifrontiers.com/)
 * [UCL Bio-Imaging Symposia](https://sites.google.com/view/uibis/summer-2018)
 * [sysML Conference](http://www.sysml.cc/)
 * [2018 Conference on Machine Intelligence in Medical Imaging](https://siim.org/page/2018cmimi&hpslideshow)
