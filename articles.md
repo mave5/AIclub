@@ -35,8 +35,10 @@
 * [Convolutional Gated Recurrent Networks for Video Segmentation](https://arxiv.org/abs/1611.05435)
 * [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks,](https://arxiv.org/abs/1608.08128) [code](https://imatge-upc.github.io/activitynet-2016-cvprw/)
 
-## Segmeentation and Image Processing
+## Segmentation and Image Processing
 
+* [Optimizing Intersection-Over-Union in Deep
+Neural Networks for Image Segmentation](http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf)
 * [Learning to see in the dark](https://arxiv.org/abs/1805.01934)
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370)
 * [Dilated Residual Networks](https://arxiv.org/abs/1705.09914)
