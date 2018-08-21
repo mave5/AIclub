@@ -172,6 +172,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6)
 * [Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks](https://arxiv.org/abs/1807.10225)
 * [Combining Heterogeneously Labeled Datasets For Training Segmentation Networks](https://arxiv.org/abs/1807.08935)
 * [Confounding variables can degrade generalization performance of radiological deep learning models](https://arxiv.org/abs/1807.00431)
