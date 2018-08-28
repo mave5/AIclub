@@ -259,6 +259,8 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 
 
 ## Generative Models
+
+* [Everybody Dance Now](https://arxiv.org/abs/1808.07371)
 * [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/abs/1711.10337)
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
