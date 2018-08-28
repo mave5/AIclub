@@ -238,6 +238,7 @@ Image Databases](https://pastel.archives-ouvertes.fr/tel-01243340v2/document)
 
 
 ## Reinforcement Learning
+* [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
 * [Large-Scale Study of
 Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 * [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177)
