@@ -3,6 +3,9 @@ videos and Talks
 -------
 
 
+### RAAIS 2018
+* [François Chollet, Software Engineer at Google Brain](https://www.youtube.com/watch?v=2L2u303FAs8&feature=youtu.be)
+
 ### CVPR 2018
 * [CVPR18: Tutorial: Software Engineering in Computer Vision Systems](https://www.youtube.com/watch?v=yVKlPApZ14E&feature=youtu.be)
 * [CVPR18: Tutoral: Part 2: Software Engineering in Computer Vision Systems](https://www.youtube.com/watch?v=w_Df1KCAAQU&feature=youtu.be)
