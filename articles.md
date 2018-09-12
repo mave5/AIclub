@@ -172,6 +172,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+
+* [Institutionally Distributed Deep Learning Networks](https://arxiv.org/abs/1709.05929)
 * [Attention-Gated Networks for Improving Ultrasound Scan Plane Detection](https://arxiv.org/abs/1804.05338)
 * [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6)
 * [Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks](https://arxiv.org/abs/1807.10225)
