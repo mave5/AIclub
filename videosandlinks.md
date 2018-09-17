@@ -45,6 +45,7 @@ videos and Talks
 * [Delivering Real-Time AI In the Palm of Your Hand](https://developers.facebook.com/videos/f8-2017/delivering-real-time-ai-in-the-palm-of-your-hand/)
 
 #### MIT Technology Review
+* [EmTech2018](https://www.technologyreview.com/video/612109/machine-learning-the-opportunity-and-the-opportunists/)
 * [MIT 2017](http://events.technologyreview.com/video/?event=emtech-digital&year=2017)
 
 #### Scaled ML 
