@@ -36,7 +36,7 @@
 * [Temporal Activity Detection in Untrimmed Videos with Recurrent Neural Networks,](https://arxiv.org/abs/1608.08128) [code](https://imatge-upc.github.io/activitynet-2016-cvprw/)
 
 ## Segmentation and Image Processing
-
+* [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/abs/1806.05034)
 * [Optimizing Intersection-Over-Union in Deep
 Neural Networks for Image Segmentation](http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf)
 * [Learning to see in the dark](https://arxiv.org/abs/1805.01934)
