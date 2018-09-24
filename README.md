@@ -1,6 +1,6 @@
 ### Welcome to AIclub.
 
-AIclub was established at Halyard Health in 2016 to enhance discussions around AI.
+AIclub was established in 2016 to enhance AI discussions purticularly in healthcare.
 
 
 
