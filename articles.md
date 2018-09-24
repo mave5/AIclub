@@ -72,8 +72,9 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
 
-## Classification
+## Classification and Architecture Design
 
+* [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
 * [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
 * [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550)
 * [Multi-view Convolutional Neural Networks for 3D Shape Recognition](https://arxiv.org/abs/1505.00880)
