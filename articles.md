@@ -74,7 +74,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Classification and Architecture Design
-
+* [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 * [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
 * [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
 * [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550)
