@@ -9,6 +9,7 @@
 
 
 ## Loss Functions
+* [The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks](https://arxiv.org/abs/1705.08790)
 * [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
 * [Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels](https://arxiv.org/abs/1805.07836)
 * [Making Risk Minimization Tolerant to Label Noise](https://arxiv.org/abs/1403.3610)
