@@ -2,6 +2,9 @@
 videos and Talks
 -------
 
+### PyTorch
+[PyTorch 2018](https://www.facebook.com/events/685693415119412/)
+
 
 ### RAAIS 2018
 * [François Chollet, Software Engineer at Google Brain](https://www.youtube.com/watch?v=2L2u303FAs8&feature=youtu.be)
