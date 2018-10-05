@@ -337,6 +337,7 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 
 
 ## Blogs/Webpages
+* [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 * [ICML 2018 Notes](https://david-abel.github.io/blog/posts/misc/icml_2018.pdf)
 * [explained.ai](http://explained.ai/)
 * [Quantdare](https://quantdare.com/)
