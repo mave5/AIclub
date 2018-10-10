@@ -177,6 +177,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Healthcare and Medical Imaging
 
+* [Designing image segmentation studies: Statistical power, sample size and reference standard quality](https://www.ncbi.nlm.nih.gov/pubmed/28772163)
 * [Label Fusion in Atlas-Based Segmentation Using a Selective and Iterative Method for Performance Level Estimation (SIMPLE)](https://ieeexplore.ieee.org/document/5523952)
 * [Institutionally Distributed Deep Learning Networks](https://arxiv.org/abs/1709.05929)
 * [Attention-Gated Networks for Improving Ultrasound Scan Plane Detection](https://arxiv.org/abs/1804.05338)
