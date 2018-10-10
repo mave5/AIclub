@@ -177,6 +177,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Healthcare and Medical Imaging
 
+* [On Combining Classifiers](https://pdfs.semanticscholar.org/5480/1c260df5221a9de533d371d3edcc358b4050.pdf?_ga=2.136646707.2016175048.1539197160-90071556.1539197160)
 * [Designing image segmentation studies: Statistical power, sample size and reference standard quality](https://www.ncbi.nlm.nih.gov/pubmed/28772163)
 * [Label Fusion in Atlas-Based Segmentation Using a Selective and Iterative Method for Performance Level Estimation (SIMPLE)](https://ieeexplore.ieee.org/document/5523952)
 * [Institutionally Distributed Deep Learning Networks](https://arxiv.org/abs/1709.05929)
