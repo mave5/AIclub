@@ -177,6 +177,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Healthcare and Medical Imaging
 
+* [Label Fusion in Atlas-Based Segmentation Using a Selective and Iterative Method for Performance Level Estimation (SIMPLE)](https://ieeexplore.ieee.org/document/5523952)
 * [Institutionally Distributed Deep Learning Networks](https://arxiv.org/abs/1709.05929)
 * [Attention-Gated Networks for Improving Ultrasound Scan Plane Detection](https://arxiv.org/abs/1804.05338)
 * [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6)
