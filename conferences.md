@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [Connected Health Conference](https://www.connectedhealthconf.org/boston/2018)
 * [AI frontiers](http://aifrontiers.com/)
 * [UCL Bio-Imaging Symposia](https://sites.google.com/view/uibis/summer-2018)
 * [sysML Conference](http://www.sysml.cc/)
