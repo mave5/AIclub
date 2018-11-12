@@ -341,6 +341,7 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 
 
 ## Blogs/Webpages
+* [Model evaluation, model selection, and algorithm selection in machine learning](https://sebastianraschka.com/blog/2018/model-evaluation-selection-part4.html)
 * [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
 * [ICML 2018 Notes](https://david-abel.github.io/blog/posts/misc/icml_2018.pdf)
 * [explained.ai](http://explained.ai/)
