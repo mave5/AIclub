@@ -6,6 +6,7 @@
 
 ## Cool Stuff
 
+* [GAN point](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
 * [wisdom collections](https://www.metaculus.com/questions/)
 * [issue](https://issuu.com/)
 * [Convolution Visualizer](https://ezyang.github.io/convolution-visualizer/index.html)
