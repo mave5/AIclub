@@ -4,7 +4,7 @@
 
 
 ### Misc Codes/Projects
-
+* [StateOfTheArt.ai](https://www.stateoftheart.ai/?area=Computer%20Vision)
 * [MICCAI 2017 Robotic Instrument Segmentation](https://github.com/ternaus/robot-surgery-segmentation)
 * [Data Science Glossary on Kaggle !](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle)
 * [hypertools](http://hypertools.readthedocs.io/en/latest/tutorials/normalize.html#normalizing-specified-cols-or-rows)
