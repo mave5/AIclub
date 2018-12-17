@@ -2,6 +2,7 @@
 
 
 
+* [The Neural Aesthetic](http://ml4a.github.io/classes/itp-F18/)
 * [Google ML course](https://developers.google.com/machine-learning/crash-course/)
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/)
 * [Texas Book Review: Algebra 2](http://www.bigideaslearning.com/for-reviewers/texas/alg2/)
