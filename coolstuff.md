@@ -5,7 +5,7 @@
 * [Dobot Robot](https://www.dobot.cc/)
 
 ## Cool Stuff
-
+* [SeeingTheory](https://seeing-theory.brown.edu/index.html#secondPage)
 * [GAN point](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
 * [wisdom collections](https://www.metaculus.com/questions/)
 * [issue](https://issuu.com/)
