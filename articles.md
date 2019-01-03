@@ -339,6 +339,8 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 ### Business
 * [Sizing the prize What’s the real value of AI for your business and how can you capitalise?](https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf)
 
+### NLP
+* [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com/#1)
 
 ## Blogs/Webpages
 * [Model evaluation, model selection, and algorithm selection in machine learning](https://sebastianraschka.com/blog/2018/model-evaluation-selection-part4.html)
