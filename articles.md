@@ -135,6 +135,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Theory, Fundamentals
+* [Reconciling deep learning with symbolic artificial intelligence: representing objects and relations](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
 * [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/abs/1712.00409)
 * [Group Normalization](https://arxiv.org/abs/1803.08494)
 * [Sensitivity and Generalization in Neural Networks: an Empirical Study](https://arxiv.org/abs/1802.08760)
