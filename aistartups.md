@@ -1,6 +1,7 @@
 ## AI startups
 
 -------------------------
+* [CCDS](https://www.ccds.io/)
 * [Deep Cognition](http://community.deepcognition.ai/)
 * [Vue AI, AI for fashion](https://vue.ai/about.html)
 * [Chatfuel: chatbot](https://chatfuel.com/)
