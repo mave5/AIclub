@@ -52,6 +52,7 @@
 
 
 ### list of cool webpages
+* [our world in data](https://ourworldindata.org/)
 * [DAVID PERELL: Monday Musing](http://www.perell.com/blog/coolest-things-2018)
 * [indie hackers](ryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
 * [Blockchain Demo](https://anders.com/blockchain/)
