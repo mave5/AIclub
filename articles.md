@@ -177,6 +177,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+
+* [Highlighting nerves and blood vessels for ultrasound-guided axillary nerve block procedures using neural networks](https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-4/044004/Highlighting-nerves-and-blood-vessels-for-ultrasound-guided-axillary-nerve/10.1117/1.JMI.5.4.044004.short)
 * [Why rankings of biomedical image analysis competitions should be interpreted with care](https://www.nature.com/articles/s41467-018-07619-7)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3)
 * [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z.epdf?author_access_token=6pwmnaFm6innDwDCVpb3ydRgN0jAjWel9jnR3ZoTv0NKvdocQpp0HGqaPYdoBZOn-AH9UBsE2ULhICB_2tJMiCRHhApSSPRBzd-SgEHKQH4qtEbGcs9Cf-AHQfYwaHZKKnBsJOeRQBEGpNaa_mMCzg%3D%3D)
