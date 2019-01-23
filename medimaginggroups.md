@@ -2,8 +2,10 @@
 
 
 
- 
- * [Stanford AI Healthcare](https://medium.com/stanford-ai-for-healthcare)
+
+
+* [CREATIS](https://www.creatis.insa-lyon.fr/site7/en) 
+* [Stanford AI Healthcare](https://medium.com/stanford-ai-for-healthcare)
 * [Polina Golland](http://people.csail.mit.edu/polina/) 
 * [BioMedIA, Imperial College Londan](https://biomedia.doc.ic.ac.uk/)
 * [S. Kevin Zhou's Site](https://sites.google.com/site/skevinzhou/home)
