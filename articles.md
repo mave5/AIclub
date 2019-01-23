@@ -177,6 +177,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Why rankings of biomedical image analysis competitions should be interpreted with care](https://www.nature.com/articles/s41467-018-07619-7)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3)
 * [A guide to deep learning in healthcare](https://www.nature.com/articles/s41591-018-0316-z.epdf?author_access_token=6pwmnaFm6innDwDCVpb3ydRgN0jAjWel9jnR3ZoTv0NKvdocQpp0HGqaPYdoBZOn-AH9UBsE2ULhICB_2tJMiCRHhApSSPRBzd-SgEHKQH4qtEbGcs9Cf-AHQfYwaHZKKnBsJOeRQBEGpNaa_mMCzg%3D%3D)
 * [Sample size determination for image classification accuracy assessment and comparison](https://www.tandfonline.com/doi/abs/10.1080/01431160903130937)
