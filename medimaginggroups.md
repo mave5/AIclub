@@ -13,6 +13,8 @@
 
 
 ### Datasets
+
+* [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
 * [Grand Challenge](https://grand-challenge.org/challenges/)
 * [Academic Torrents](http://academictorrents.com/)
 * [chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC)
