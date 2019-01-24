@@ -60,6 +60,9 @@ videos and Talks
 * [TensorFlow Dev Summit 2017](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
 #### NIPS 
+
+##### NIPS 2018
+* [MEDICAL IMAGING MEETS NEURIPS](https://sites.google.com/view/med-nips-2018/videos)
 ##### NIPS 2017
 * [Kinds of Intelligence Symposium at NIPS](http://mdcrosby.com/blog/koi.html)
 * [Metalearning](http://metalearning-symposium.ml/#a)
