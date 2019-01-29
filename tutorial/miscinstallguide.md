@@ -81,6 +81,8 @@
        Username for 'https://github.com': <USERNAME>
        Password for 'https://USERNAME@github.com': <PASSWORD>
 
+* remove credentials
+       $ git credential-cache exit
 
 
 #### Java
