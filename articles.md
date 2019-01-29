@@ -178,6 +178,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 ## Healthcare and Medical Imaging
 
+* [Artificial intelligence, bias and clinical safety](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 * [Highlighting nerves and blood vessels for ultrasound-guided axillary nerve block procedures using neural networks](https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-4/044004/Highlighting-nerves-and-blood-vessels-for-ultrasound-guided-axillary-nerve/10.1117/1.JMI.5.4.044004.short)
 * [Why rankings of biomedical image analysis competitions should be interpreted with care](https://www.nature.com/articles/s41467-018-07619-7)
 * [Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network](https://www.nature.com/articles/s41591-018-0268-3)
