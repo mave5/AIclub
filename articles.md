@@ -276,7 +276,7 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 
 
 ## Generative Models
-
+* [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
 * [Everybody Dance Now](https://arxiv.org/abs/1808.07371)
 * [Are GANs Created Equal? A Large-Scale Study](https://arxiv.org/abs/1711.10337)
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585)
