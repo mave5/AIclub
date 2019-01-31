@@ -177,7 +177,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
-
+* [Automated Quality Control in Image Segmentation: Application to the UK Biobank Cardiac MR Imaging Study](https://arxiv.org/abs/1901.09351)
 * [Artificial intelligence, bias and clinical safety](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 * [Highlighting nerves and blood vessels for ultrasound-guided axillary nerve block procedures using neural networks](https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-4/044004/Highlighting-nerves-and-blood-vessels-for-ultrasound-guided-axillary-nerve/10.1117/1.JMI.5.4.044004.short)
 * [Why rankings of biomedical image analysis competitions should be interpreted with care](https://www.nature.com/articles/s41467-018-07619-7)
