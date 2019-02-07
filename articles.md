@@ -3,6 +3,10 @@
 
 # Articles
 
+
+## NLP
+* [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
+
 ## General ML
 * [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Machine Learning:The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
