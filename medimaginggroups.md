@@ -1,9 +1,7 @@
-## Medical Imaging Research Groups Accross World
 
 
 
-
-
+### Medical Imaging Research Groups Accross World
 * [CREATIS](https://www.creatis.insa-lyon.fr/site7/en) 
 * [Stanford AI Healthcare](https://medium.com/stanford-ai-for-healthcare)
 * [Polina Golland](http://people.csail.mit.edu/polina/) 
@@ -20,3 +18,5 @@
 * [chest x-ray datasets](https://nihcc.app.box.com/v/ChestXray-NIHCC)
 * [PAINFUL DATA](http://www.consortium.ri.cmu.edu/painagree/)
 
+### Tools
+* [Chester the AI Radiology Assistant](https://mlmed.org/tools/xray/)
