@@ -1,7 +1,7 @@
 ## Courses on AI, ML and DL
 
 
-
+* [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 * [The Neural Aesthetic](http://ml4a.github.io/classes/itp-F18/)
 * [Google ML course](https://developers.google.com/machine-learning/crash-course/)
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/)
