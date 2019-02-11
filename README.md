@@ -14,7 +14,7 @@ AIclub was established in 2016 to enhance AI discussions purticularly in healthc
 
 * [Courses](https://github.com/mravendi/AIclub/blob/master/courses.md)
 
-* [Medical Imaging Research Groups](https://github.com/mravendi/AIclub/blob/master/medimaginggroups.md)
+* [Medical Imaging Groups and Tools](https://github.com/mravendi/AIclub/blob/master/medimaginggroups.md)
 
 * [AI startups](https://github.com/mravendi/AIclub/blob/master/aistartups.md)
 * [Meeting Summary](https://github.com/mravendi/AIclub/blob/master/meetings.md)
