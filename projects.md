@@ -4,6 +4,8 @@
 
 
 ### Misc Codes/Projects
+
+* [Awesome Python](https://awesome-python.com/)
 * [Papers with Codes](https://paperswithcode.com/)
 * [StateOfTheArt.ai](https://www.stateoftheart.ai/?area=Computer%20Vision)
 * [MICCAI 2017 Robotic Instrument Segmentation](https://github.com/ternaus/robot-surgery-segmentation)
