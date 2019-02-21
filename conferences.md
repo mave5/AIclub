@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)
 * [Connected Health Conference](https://www.connectedhealthconf.org/boston/2018)
 * [AI frontiers](http://aifrontiers.com/)
 * [UCL Bio-Imaging Symposia](https://sites.google.com/view/uibis/summer-2018)
