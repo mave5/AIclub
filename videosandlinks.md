@@ -2,6 +2,9 @@
 videos and Talks
 -------
 
+### Deep Learning Science or Alchemy
+* [Deep Learning: Alchemy or Science?](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7aAxhIHALBoh8l6-UxmMNP)
+
 ### PyTorch
 [PyTorch 2018](https://www.facebook.com/events/685693415119412/)
 
