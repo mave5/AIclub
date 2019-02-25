@@ -5,6 +5,8 @@
 
 
 ## NLP
+* [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045)
+* [Improving Coreference Resolution by Learning Entity-Level Distributed Representations](https://arxiv.org/abs/1606.01323)
 * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 
 ## General ML
