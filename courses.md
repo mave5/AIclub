@@ -1,6 +1,7 @@
 ## Courses on AI, ML and DL
 
 
+* [CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 * [The Neural Aesthetic](http://ml4a.github.io/classes/itp-F18/)
 * [Google ML course](https://developers.google.com/machine-learning/crash-course/)
