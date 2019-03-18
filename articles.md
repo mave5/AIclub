@@ -82,6 +82,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Classification and Architecture Design
+* [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
 * [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
 * [AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/abs/1805.09501)
