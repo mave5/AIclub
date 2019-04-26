@@ -2,6 +2,9 @@
 videos and Talks
 -------
 
+### Full Stack Deep Learning Bootcamp
+* [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+
 ### Deep Learning Science or Alchemy
 * [Deep Learning: Alchemy or Science?](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7aAxhIHALBoh8l6-UxmMNP)
 
