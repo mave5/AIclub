@@ -2,6 +2,9 @@
 videos and Talks
 -------
 
+### OpenAI Robotics Symposium 2019
+* [OpenAI Robotics Symposium 2019](https://www.youtube.com/watch?edufilter=NULL&feature=youtu.be&v=WRsxoVB8Yng)
+
 ### Full Stack Deep Learning Bootcamp
 * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 
