@@ -186,6 +186,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [Deep-learning-assisted diagnosis for knee magnetic resonance imaging: Development and retrospective validation of MRNet](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699)
 * [Automated Quality Control in Image Segmentation: Application to the UK Biobank Cardiac MR Imaging Study](https://arxiv.org/abs/1901.09351)
 * [Artificial intelligence, bias and clinical safety](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
 * [Highlighting nerves and blood vessels for ultrasound-guided axillary nerve block procedures using neural networks](https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-4/044004/Highlighting-nerves-and-blood-vessels-for-ultrasound-guided-axillary-nerve/10.1117/1.JMI.5.4.044004.short)
