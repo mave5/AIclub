@@ -12,6 +12,7 @@
 
 ### Datasets
 
+* [Knee MRI dataset (stanford)](https://stanfordmlgroup.github.io/projects/mrnet/)
 * [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)
 * [Grand Challenge](https://grand-challenge.org/challenges/)
 * [Academic Torrents](http://academictorrents.com/)
