@@ -1,6 +1,7 @@
 
 ## Robotics
 
+* [REPLAB: A Reproducible Low-Cost Arm Benchmark Platform For Robotic Learning](https://sites.google.com/view/replab/home)
 * [Open Manipulator Project](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)
 * [PyRobot](https://www.pyrobot.org/)
 * [LoCoBot](https://locobot-website.netlify.com/)
