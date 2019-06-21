@@ -312,6 +312,7 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 
 
 ## Robotics
+* [PyRobot: An Open-source Robotics Framework for Research and Benchmarking](https://arxiv.org/abs/1906.08236)
 * [A Survey of Robotic Hand Arm Systems](http://research.ijcaonline.org/volume109/number8/pxc3900965.pdf)
 * [A brief survey of commercial robotic arms for research on manipulation](http://ieeexplore.ieee.org/document/6219361/)
 
