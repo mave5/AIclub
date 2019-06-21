@@ -1,5 +1,9 @@
 
 ## Robotics
+
+* [PyRobot][https://www.pyrobot.org/]
+* [LoCoBot](https://locobot-website.netlify.com/)
+* [trossen robotics](https://www.trossenrobotics.com/widowx-200-robot-arm-mobile-base.aspx)
 * [Anybotics](https://www.anybotics.com/contact/#support)
 * [Shadow Robot Company](https://www.shadowrobot.com/)
 * [Dobot Robot](https://www.dobot.cc/)
