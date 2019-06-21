@@ -1,6 +1,7 @@
 
 ## Robotics
 
+* [Open Manipulator Project](http://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)
 * [PyRobot](https://www.pyrobot.org/)
 * [LoCoBot](https://locobot-website.netlify.com/)
 * [trossen robotics](https://www.trossenrobotics.com/widowx-200-robot-arm-mobile-base.aspx)
