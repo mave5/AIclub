@@ -2,6 +2,11 @@
 videos and Talks
 -------
 
+
+
+### Turing Lecture 2019
+* [Geoffrey Hinton and Yann LeCun Deliver Turing Lecture at FCRC 2019](https://fcrc.acm.org/turing-lecture-at-fcrc-2019)
+
 ### OpenAI Robotics Symposium 2019
 * [OpenAI Robotics Symposium 2019](https://www.youtube.com/watch?edufilter=NULL&feature=youtu.be&v=WRsxoVB8Yng)
 
