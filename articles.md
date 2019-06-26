@@ -82,6 +82,10 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [Image Classification and Segmentation with Tensorflow and TF-Slim](http://warmspringwinds.github.io/tensorflow/tf-slim/2016/10/30/image-classification-and-segmentation-using-tensorflow-and-tf-slim/)
 
 
+## Object Detection
+
+* [Object Detection with Deep Learning: A Review](https://arxiv.org/abs/1807.05511)
+
 ## Classification and Architecture Design
 * [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187)
 * [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)
