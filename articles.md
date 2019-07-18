@@ -112,7 +112,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 * [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
 ## Adversarial Attacks
-
+* [Natural Adversarial Examples](https://arxiv.org/pdf/1907.07174.pdf)
 * [Adversarial Reprogramming of Neural Networks](https://arxiv.org/abs/1806.11146)
 * [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/pdf/1804.05296.pdf)
 * [One pixel attack for fooling deep neural networks](https://arxiv.org/abs/1710.08864)
