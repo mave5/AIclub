@@ -190,6 +190,8 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Healthcare and Medical Imaging
+* [EchoBot: An open-source robotic
+ultrasound system](http://www.ipcai2019.org/pdf/Long_Abstracts/Ostvik_etal_IPCAI_2019_Long_Abstract.pdf)
 * [Deep-learning-assisted diagnosis for knee magnetic resonance imaging: Development and retrospective validation of MRNet](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699)
 * [Automated Quality Control in Image Segmentation: Application to the UK Biobank Cardiac MR Imaging Study](https://arxiv.org/abs/1901.09351)
 * [Artificial intelligence, bias and clinical safety](https://qualitysafety.bmj.com/content/early/2019/01/12/bmjqs-2018-008370)
