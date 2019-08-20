@@ -1,6 +1,7 @@
 ## Courses on AI, ML and DL
 
 
+* [The Ancient Secrets of CV, U of W](https://pjreddie.com/courses/computer-vision/)
 * [CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
 * [The Neural Aesthetic](http://ml4a.github.io/classes/itp-F18/)
