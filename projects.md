@@ -5,6 +5,7 @@
 
 ### Misc Codes/Projects
 
+* [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [Awesome Python](https://awesome-python.com/)
 * [Papers with Codes](https://paperswithcode.com/)
 * [StateOfTheArt.ai](https://www.stateoftheart.ai/?area=Computer%20Vision)
