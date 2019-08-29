@@ -323,7 +323,7 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 * [A brief survey of commercial robotic arms for research on manipulation](http://ieeexplore.ieee.org/document/6219361/)
 
 ## Books
-
+* [Dive Deep into Deep Learning](http://numpy.d2l.ai/chapter_natural-language-processing/index.html)
 * [Bandit Algorithms](http://downloads.tor-lattimore.com/banditbook/book.pdf)
 * [Data Mining: Practical Machine Learning Tools and Techniques](https://www.cs.waikato.ac.nz/ml/weka/book.html)
 * [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
