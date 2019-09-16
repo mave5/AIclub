@@ -3,6 +3,7 @@
 ## Workshops/Conferences
 ---------------------
 
+* [SIGKDD- Data Minning](https://www.kdd.org/)
 * [Predictive Analytics World](https://www.predictiveanalyticsworld.com/)
 * [Connected Health Conference](https://www.connectedhealthconf.org/boston/2018)
 * [AI frontiers](http://aifrontiers.com/)
