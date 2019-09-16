@@ -11,6 +11,8 @@
 * [Dobot Robot](https://www.dobot.cc/)
 
 ## Cool Stuff
+
+* [Video tutorials- Ben Eater](https://eater.net/)
 * [All My Tweets](https://www.allmytweets.net/)
 * [SeeingTheory](https://seeing-theory.brown.edu/index.html#secondPage)
 * [GAN point](http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4)
