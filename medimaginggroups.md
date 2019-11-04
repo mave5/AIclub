@@ -2,6 +2,7 @@
 
 
 ### Medical Imaging Research Groups Accross World
+* [Center for Artificial Intelligence in Medicine & Imaging](https://aimi.stanford.edu/)
 * [CREATIS](https://www.creatis.insa-lyon.fr/site7/en) 
 * [Stanford AI Healthcare](https://medium.com/stanford-ai-for-healthcare)
 * [Polina Golland](http://people.csail.mit.edu/polina/) 
