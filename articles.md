@@ -13,6 +13,7 @@
 
 ## General ML
 
+* [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699)
 * [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252.pdf)
 * [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 * [Machine Learning:The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
