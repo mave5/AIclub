@@ -19,7 +19,8 @@ videos and Talks
 * [Deep Learning: Alchemy or Science?](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ7aAxhIHALBoh8l6-UxmMNP)
 
 ### PyTorch
-[PyTorch 2018](https://www.facebook.com/events/685693415119412/)
+* [PyTorch 2019](https://www.youtube.com/watch?v=ivTGO6BAQG0)
+* [PyTorch 2018](https://www.facebook.com/events/685693415119412/)
 
 
 ### RAAIS 2018
