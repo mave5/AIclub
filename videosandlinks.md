@@ -3,6 +3,8 @@ videos and Talks
 -------
 
 
+### Kaggle CareerCon
+* [Kaggle CareerCon 2019](https://www.youtube.com/watch?v=f5MYb_mD3hM&feature=youtu.be)
 
 ### Turing Lecture 2019
 * [Geoffrey Hinton and Yann LeCun Deliver Turing Lecture at FCRC 2019](https://fcrc.acm.org/turing-lecture-at-fcrc-2019)
