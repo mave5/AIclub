@@ -1,6 +1,7 @@
 ## Courses on AI, ML and DL
 
 
+* [MIT-Course: Machine Learning for Healthcare](https://mlhc19mit.github.io/)
 * [The Ancient Secrets of CV, U of W](https://pjreddie.com/courses/computer-vision/)
 * [CS246: Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 * [Open Machine Learning Course mlcourse.ai](https://mlcourse.ai/)
