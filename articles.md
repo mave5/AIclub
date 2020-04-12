@@ -16,7 +16,7 @@
 * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 
 ## General ML
-
+* [MONTRÉAL.AI ACADEMY: ARTIFICIAL INTELLIGENCE 101 FIRST WORLD-CLASS OVERVIEW OF AI FOR ALL](http://www.montreal.ai/ai4all.pdf)
 * [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699)
 * [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/pdf/1911.04252.pdf)
 * [Rules of Machine Learning](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
