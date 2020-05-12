@@ -155,6 +155,7 @@ Remote Sensing Images Using Deep Convolutional Neural Networks](http://www.cv-fo
 
 
 ## Theory, Fundamentals
+* [DEEP DOUBLE DESCENT: WHERE BIGGER MODELS AND MORE DATA HURT](https://arxiv.org/pdf/1912.02292.pdf)
 * [Reconciling deep learning with symbolic artificial intelligence: representing objects and relations](https://www.sciencedirect.com/science/article/pii/S2352154618301943)
 * [Deep Learning Scaling is Predictable, Empirically](https://arxiv.org/abs/1712.00409)
 * [Group Normalization](https://arxiv.org/abs/1803.08494)
