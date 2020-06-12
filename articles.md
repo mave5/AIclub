@@ -6,6 +6,7 @@
 
 ## NLP
 
+* [Contextual Word Representations: A Contextual Introduction](https://arxiv.org/abs/1902.06006)
 * [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/pdf/1910.01108.pdf)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
