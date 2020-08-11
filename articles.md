@@ -446,5 +446,13 @@ Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/)
 
 
 
+## Signal Processing Books
+
+* [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/ch1.htm)
+* [Digital Image Processing](http://lit.fe.uni-lj.si/showpdf.php?lang=slo&type=doc&doc=dip&format=0)
+
+
+
+
 
 
