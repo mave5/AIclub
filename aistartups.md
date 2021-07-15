@@ -7,7 +7,7 @@
 * [Skydio- Flying Drone](https://www.skydio.com/product/)
 * [CCDS](https://www.ccds.io/)
 * [Deep Cognition](http://community.deepcognition.ai/)
-* [Vue AI, AI for fashion](https://vue.ai/about.html)
+* [Vue.ai, A.I. for Retail ](https://vue.ai/)
 * [Chatfuel: chatbot](https://chatfuel.com/)
 * [Waya AI](https://github.com/wayaai)
 * [smartvidio](https://www.smartvid.io/)
